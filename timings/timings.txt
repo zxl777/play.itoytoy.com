@@ -1,0 +1,33 @@
+Minecraft
+    Full Server Tick Time: 1819340229 Count: 1008 Avg: 1804901 Violations: 0
+    ** Full Server Tick Time: 1815661907 Count: 1008 Avg: 1801252 Violations: 0
+    Memory Manager Time: 7002115 Count: 1009 Avg: 6940 Violations: 0
+    Player Network Send Time: 8861065 Count: 85 Avg: 104248 Violations: 0
+    Player Network Receive Time: 10534763 Count: 129 Avg: 81665 Violations: 0
+    Player Order Chunks Time: 1503944 Count: 5 Avg: 300789 Violations: 0
+    Connection Handler Time: 66165686 Count: 1009 Avg: 65576 Violations: 0
+    Scheduler Time: 25008440 Count: 1009 Avg: 24785 Violations: 0
+    Server Command Time: 33779383 Count: 1008 Avg: 33511 Violations: 0
+    ** tickEntity Time: 167111874 Count: 1009 Avg: 165621 Violations: 0
+    ** tickTileEntity Time: 4694223 Count: 1009 Avg: 4652 Violations: 0
+    ** entityBaseTick Time: 58912992 Count: 1009 Avg: 58388 Violations: 0
+    ** livingEntityBaseTick Time: 111623764 Count: 1009 Avg: 110628 Violations: 0
+    ** Scheduler - Async Tasks Time: 5467176 Count: 1009 Avg: 5418 Violations: 0
+    ** playerCommand Time: 2650023 Count: 3 Avg: 883341 Violations: 0
+    ** Command: time Time: 2962112 Count: 4 Avg: 740528 Violations: 0
+    ** world - doTickPending Time: 6112576 Count: 1009 Avg: 6058 Violations: 0
+    ** world - doTickTiles Time: 1265506983 Count: 1009 Avg: 1254219 Violations: 0
+    ** world - entityTick Time: 175102472 Count: 1009 Avg: 173541 Violations: 0
+    ** world - tileEntityTick Time: 12271643 Count: 1009 Avg: 12162 Violations: 0
+    world - doTick Time: 1515416145 Count: 1009 Avg: 1501899 Violations: 0
+    ** tickEntity - EntityPlayer Time: 147613049 Count: 1009 Avg: 146296 Violations: 0
+    ** sendPacket - SetTimePacket [0x94] Time: 977993 Count: 8 Avg: 122249 Violations: 0
+    ** sendPacket - TextPacket [0x93] Time: 329256 Count: 3 Avg: 109752 Violations: 0
+    ** receivePacket - MovePlayerPacket [0x9d] Time: 6887913 Count: 126 Avg: 54666 Violations: 0
+    ** sendPacket - MoveEntityPacket [0x9c] Time: 7111788 Count: 74 Avg: 96105 Violations: 0
+    ** receivePacket - TextPacket [0x93] Time: 3015041 Count: 3 Avg: 1005014 Violations: 0
+# Version v0.12.1 alpha
+# PocketMine-MP 1.6dev-30
+# Entities 1
+# LivingEntities 1
+Sample time 50449559927 (50.449559926987s)

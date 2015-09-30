@@ -1,0 +1,25 @@
+#Properties Config file
+#Wed Sep 30 07:39:34 EDT 2015
+server-name=iToyToy PE Server - Minegame
+server-port=19132
+gamemode=1
+max-players=3000
+spawn-protection=16
+white-list=off
+enable-query=on
+enable-rcon=off
+motd=Minecraft: PE Server
+announce-player-achievements=on
+allow-flight=off
+spawn-animals=on
+spawn-mobs=on
+force-gamemode=off
+hardcore=off
+pvp=on
+difficulty=1
+generator-settings=2;7,62x3,2;1
+level-type=FLAT
+level-name=world
+level-seed=
+rcon.password=SBv+aAA/yP
+auto-save=on

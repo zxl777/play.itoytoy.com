@@ -1,0 +1,593 @@
+2015-09-30 [06:03:45] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [06:03:45] [Server thread/INFO]: Loading server properties...
+2015-09-30 [06:03:45] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [06:03:45] [Server thread/INFO]: Starting Minecraft: PE server version v0.11.0 alpha
+2015-09-30 [06:03:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [06:03:45] [Server thread/INFO]: This server is running PocketMine-MP version 1.5dev-1261 "活発(Kappatsu)フグ(Fugu)" (API 1.12.0)
+2015-09-30 [06:03:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [06:03:46] [Server thread/NOTICE]: Level "world" not found
+2015-09-30 [06:03:46] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [06:03:46] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2015-09-30 [06:03:46] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [06:03:46] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [06:03:46] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [06:03:46] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [06:03:46] [Server thread/INFO]: Done (197.011s)! For help, type "help" or "?"
+2015-09-30 [06:04:03] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [06:04:03] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [06:04:03] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [06:04:03] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [06:04:03] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [06:04:03] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [06:04:03] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [06:04:03] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [06:04:03] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [06:04:03] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [06:04:03] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [06:04:03] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [06:04:03] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [06:04:03] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [06:04:03] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [06:04:03] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [06:04:03] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [06:04:03] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [06:04:03] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [06:04:03] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [06:04:03] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [06:04:03] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [06:04:03] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [06:04:03] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [06:04:03] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [06:04:03] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [06:04:03] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [06:04:03] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [06:04:03] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [06:04:03] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [06:04:03] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [06:04:03] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [06:04:03] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [06:04:03] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [06:04:03] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [06:05:36] [Server thread/INFO]: [/180.212.39.208:45403] logged out due to Login timeout
+2015-09-30 [06:05:56] [Server thread/INFO]: [/180.212.39.208:45403] logged out due to Login timeout
+2015-09-30 [06:06:43] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [06:06:47] [Server thread/INFO]: This server is running PocketMine-MP 1.5dev-1261 「活発(Kappatsu)フグ(Fugu)」 implementing API version 1.12.0 for Minecraft: PE v0.11.0 alpha (protocol version 27)
+2015-09-30 [06:15:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [06:15:37] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [06:15:40] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [06:15:40] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [06:15:40] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [06:15:40] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [06:15:40] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [06:15:40] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [06:15:40] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [06:15:40] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [06:15:40] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [06:15:40] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [06:15:40] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [06:15:40] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [06:15:40] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [06:15:40] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [06:15:40] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [06:15:40] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [06:15:40] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [06:15:40] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [06:15:40] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [06:15:40] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [06:15:40] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [06:15:40] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [06:15:40] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [06:15:40] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [06:15:40] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [06:15:40] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [06:15:40] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [06:15:40] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [06:15:40] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [06:15:40] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [06:15:40] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [06:15:40] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [06:15:40] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [06:15:40] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [06:15:40] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [06:15:42] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [06:15:42] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [06:15:42] [Server thread/INFO]: Stopping other threads
+2015-09-30 [06:22:08] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [06:22:08] [Server thread/INFO]: Loading server properties...
+2015-09-30 [06:22:08] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [06:22:08] [Server thread/INFO]: Starting Minecraft: PE server version v0.11.0 alpha
+2015-09-30 [06:22:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [06:22:08] [Server thread/INFO]: This server is running PocketMine-MP version 1.5dev-1261 "活発(Kappatsu)フグ(Fugu)" (API 1.12.0)
+2015-09-30 [06:22:08] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [06:22:08] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [06:22:08] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [06:22:08] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [06:22:08] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [06:22:08] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [06:22:08] [Server thread/INFO]: Done (0.566s)! For help, type "help" or "?"
+2015-09-30 [06:24:35] [Server thread/INFO]: [/180.212.39.208:41013] logged out due to Login timeout
+2015-09-30 [06:27:58] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [06:27:58] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [06:27:58] [Server thread/INFO]: Stopping other threads
+2015-09-30 [06:41:55] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [06:41:55] [Server thread/INFO]: Loading server properties...
+2015-09-30 [06:41:55] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [06:41:55] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [06:41:55] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [06:41:55] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [06:41:55] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [06:41:56] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [06:41:56] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [06:41:56] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [06:41:56] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [06:41:56] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [06:41:56] [Server thread/INFO]: Done (0.608s)! For help, type "help" or "?"
+2015-09-30 [06:42:08] [Server thread/NOTICE]: Player data not found for "power777888", creating new profile
+2015-09-30 [06:42:08] [Server thread/INFO]: power777888[/180.212.39.208:34084] logged in with entity id 1 at (world, 128, 74, 128)
+2015-09-30 [06:42:14] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [06:42:33] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [06:42:34] [Server thread/INFO]: power777888 left the game
+2015-09-30 [06:42:34] [Server thread/INFO]: power777888[/180.212.39.208:34084] logged out due to Server closed
+2015-09-30 [06:42:34] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [06:42:34] [Server thread/INFO]: Stopping other threads
+2015-09-30 [07:11:53] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [07:11:53] [Server thread/INFO]: Loading server properties...
+2015-09-30 [07:11:53] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [07:11:53] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [07:11:53] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [07:11:53] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [07:11:53] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [07:11:54] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [07:11:54] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [07:11:54] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [07:11:54] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [07:11:54] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [07:11:54] [Server thread/INFO]: Done (0.755s)! For help, type "help" or "?"
+2015-09-30 [07:12:09] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged in with entity id 1 at (world, 128, 75, 128)
+2015-09-30 [07:12:10] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:12:19] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:12:19] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged out due to client disconnect
+2015-09-30 [07:12:31] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged in with entity id 2 at (world, 128, 74, 128)
+2015-09-30 [07:12:32] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:14:51] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:14:51] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged out due to timeout
+2015-09-30 [07:15:37] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged in with entity id 3 at (world, 128, 74, 128)
+2015-09-30 [07:15:38] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:15:46] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:15:46] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged out due to client disconnect
+2015-09-30 [07:17:11] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [07:17:11] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [07:17:13] [Server thread/INFO]: Stopping other threads
+2015-09-30 [07:17:14] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [07:17:14] [Server thread/INFO]: Loading server properties...
+2015-09-30 [07:17:14] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [07:17:14] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [07:17:14] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [07:17:15] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [07:17:15] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [07:17:15] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [07:17:15] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [07:17:15] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [07:17:15] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [07:17:15] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [07:17:15] [Server thread/INFO]: Done (0.639s)! For help, type "help" or "?"
+2015-09-30 [07:18:03] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged in with entity id 1 at (world, 128, 74, 128)
+2015-09-30 [07:18:04] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:18:08] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:18:08] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged out due to client disconnect
+2015-09-30 [07:18:29] [Server thread/NOTICE]: Player data not found for "kejy", creating new profile
+2015-09-30 [07:18:29] [Server thread/INFO]: KEJY[/113.76.144.83:19132] logged in with entity id 2 at (world, 128, 74, 128)
+2015-09-30 [07:18:30] [Server thread/INFO]: KEJY joined the game
+2015-09-30 [07:19:05] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged in with entity id 3 at (world, 128, 74, 128)
+2015-09-30 [07:19:06] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:19:39] [Server thread/INFO]: <KEJY> 我是那个Ⅺ
+2015-09-30 [07:20:29] [Server thread/INFO]: [power777888: Set KEJY's game mode to Survival Mode]
+2015-09-30 [07:20:29] [Server thread/INFO]: KEJY left the game
+2015-09-30 [07:20:29] [Server thread/INFO]: KEJY[/113.76.144.83:19132] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-09-30 [07:21:37] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:21:37] [Server thread/INFO]: power777888[/180.212.39.208:39780] logged out due to client disconnect
+2015-09-30 [07:22:21] [Server thread/INFO]: KEJY[/113.76.144.83:19132] logged in with entity id 4 at (world, 124.3361, 84.5382, 127.5064)
+2015-09-30 [07:22:22] [Server thread/INFO]: KEJY joined the game
+2015-09-30 [07:22:57] [Server thread/INFO]: <KEJY> 给我权限
+2015-09-30 [07:24:50] [Server thread/INFO]: KEJY left the game
+2015-09-30 [07:24:50] [Server thread/INFO]: KEJY[/113.76.144.83:19132] logged out due to client disconnect
+2015-09-30 [07:25:38] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [07:25:38] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [07:25:38] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [07:25:38] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [07:25:38] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [07:25:38] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [07:25:38] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [07:25:38] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [07:25:38] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [07:25:38] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [07:25:38] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [07:25:38] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [07:25:38] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [07:25:38] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [07:25:38] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [07:25:38] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [07:25:38] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [07:25:38] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [07:25:38] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [07:25:38] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [07:25:38] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [07:25:38] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [07:25:38] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [07:25:38] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [07:25:38] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [07:25:38] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [07:25:38] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [07:25:38] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [07:25:38] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [07:25:38] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [07:25:38] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [07:25:38] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [07:25:38] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [07:25:38] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [07:25:38] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [07:25:38] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [07:25:44] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [07:25:44] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [07:25:44] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [07:25:44] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [07:25:44] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [07:25:44] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [07:25:44] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [07:25:44] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [07:25:44] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [07:25:44] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [07:25:44] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [07:25:44] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [07:25:44] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [07:25:44] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [07:25:44] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [07:25:44] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [07:25:44] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [07:25:44] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [07:25:44] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [07:25:44] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [07:25:44] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [07:25:44] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [07:25:44] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [07:25:44] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [07:25:44] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [07:25:44] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [07:25:44] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [07:25:44] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [07:25:44] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [07:25:44] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [07:25:44] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [07:25:44] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [07:25:44] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [07:25:44] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [07:25:44] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [07:25:44] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [07:26:11] [Server thread/INFO]: [Server] 服务器换地图，先�断线�一会儿
+2015-09-30 [07:26:17] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 5 at (world, 118.3083, 70, 142.5126)
+2015-09-30 [07:26:18] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:26:29] [Server thread/INFO]: [Server] 马上重启
+2015-09-30 [07:26:39] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:26:39] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to client disconnect
+2015-09-30 [07:26:44] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [07:26:44] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [07:26:44] [Server thread/INFO]: Stopping other threads
+2015-09-30 [07:27:18] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [07:27:18] [Server thread/INFO]: Loading server properties...
+2015-09-30 [07:27:18] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [07:27:18] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [07:27:18] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [07:27:18] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [07:27:18] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [07:27:18] [Server thread/NOTICE]: Level "world" not found
+2015-09-30 [07:27:18] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [07:27:18] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2015-09-30 [07:27:18] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [07:27:18] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [07:27:18] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [07:27:18] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [07:27:18] [Server thread/INFO]: Done (0.746s)! For help, type "help" or "?"
+2015-09-30 [07:27:33] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 1 at (world, 115.25, 78.9985, 141.5538)
+2015-09-30 [07:27:39] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:27:55] [Server thread/NOTICE]: Player data not found for "asdr", creating new profile
+2015-09-30 [07:27:55] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 2 at (world, 128, 69, 128)
+2015-09-30 [07:27:56] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:28:48] [Server thread/INFO]: [power777888: Set ASDR's game mode to Survival Mode]
+2015-09-30 [07:28:48] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:28:48] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-09-30 [07:28:54] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 3 at (world, 152.9634, 83.7485, 124.7515)
+2015-09-30 [07:28:55] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:28:57] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:28:57] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-09-30 [07:29:13] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:29:13] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to timeout
+2015-09-30 [07:29:22] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 4 at (world, 150.5657, 71, 128.2613)
+2015-09-30 [07:29:23] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:29:25] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:29:25] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-09-30 [07:29:31] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 5 at (world, 150.3245, 71, 129.0502)
+2015-09-30 [07:29:32] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:29:37] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:29:37] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-09-30 [07:30:01] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 6 at (world, 150.3245, 70, 129.0502)
+2015-09-30 [07:30:02] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:30:08] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:30:08] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-09-30 [07:30:13] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 7 at (world, 149.3503, 66, 141.9956)
+2015-09-30 [07:30:14] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:30:48] [Server thread/INFO]: ASDR has just earned the achievement Getting Wood
+2015-09-30 [07:30:51] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 10 at (world, 148.4948, 88.5774, 121.4754)
+2015-09-30 [07:30:52] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:31:06] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:31:06] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-09-30 [07:31:12] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 16 at (world, 210.7, 76, 103.2367)
+2015-09-30 [07:31:13] [Server thread/INFO]: ASDR joined the game
+2015-09-30 [07:31:38] [Server thread/INFO]: ASDR left the game
+2015-09-30 [07:31:38] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to timeout
+2015-09-30 [07:33:46] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [07:33:46] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:33:46] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to Server closed
+2015-09-30 [07:33:46] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [07:33:47] [Server thread/INFO]: Stopping other threads
+2015-09-30 [07:34:08] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [07:34:08] [Server thread/INFO]: Loading server properties...
+2015-09-30 [07:34:08] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [07:34:08] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [07:34:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [07:34:08] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [07:34:08] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [07:34:08] [Server thread/NOTICE]: Level "world" not found
+2015-09-30 [07:34:08] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [07:34:08] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2015-09-30 [07:34:08] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [07:34:08] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [07:34:08] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [07:34:08] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [07:34:08] [Server thread/INFO]: Done (0.613s)! For help, type "help" or "?"
+2015-09-30 [07:34:11] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 1 at (world, 174.7231, 61, -30.4103)
+2015-09-30 [07:34:28] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:35:47] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:35:47] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to client disconnect
+2015-09-30 [07:35:51] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 2 at (world, -133.3684, 71, 37.7259)
+2015-09-30 [07:35:52] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:35:58] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:35:58] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to client disconnect
+2015-09-30 [07:36:00] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 3 at (world, -133.3, 71, 36.9057)
+2015-09-30 [07:36:01] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:36:07] [Server thread/INFO]: <power777888> hi
+2015-09-30 [07:36:18] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:36:18] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to client disconnect
+2015-09-30 [07:36:38] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged in with entity id 4 at (world, -128.0402, 78.4985, 37.8457)
+2015-09-30 [07:36:39] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:37:00] [Server thread/INFO]: power777888 died
+2015-09-30 [07:37:20] [Server thread/INFO]: power777888 died
+2015-09-30 [07:37:33] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:37:33] [Server thread/INFO]: power777888[/180.212.39.208:38848] logged out due to client disconnect
+2015-09-30 [07:39:32] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [07:39:32] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [07:39:34] [Server thread/INFO]: Stopping other threads
+2015-09-30 [07:41:28] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [07:41:28] [Server thread/INFO]: Loading server properties...
+2015-09-30 [07:41:28] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [07:41:28] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [07:41:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [07:41:28] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [07:41:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [07:41:29] [Server thread/NOTICE]: Level "world" not found
+2015-09-30 [07:41:29] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [07:41:29] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2015-09-30 [07:41:29] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [07:41:29] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [07:41:29] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [07:41:29] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [07:41:29] [Server thread/INFO]: Done (0.758s)! For help, type "help" or "?"
+2015-09-30 [07:41:36] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [07:41:36] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [07:41:37] [Server thread/INFO]: Stopping other threads
+2015-09-30 [07:41:47] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [07:41:47] [Server thread/INFO]: Loading server properties...
+2015-09-30 [07:41:47] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [07:41:47] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [07:41:47] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [07:41:47] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [07:41:47] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [07:41:48] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [07:41:48] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [07:41:48] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [07:41:48] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [07:41:48] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [07:41:48] [Server thread/INFO]: Done (0.601s)! For help, type "help" or "?"
+2015-09-30 [07:41:52] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged in with entity id 1 at (world, 128, 71, 128)
+2015-09-30 [07:41:53] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:42:06] [Server thread/INFO]: power777888 died
+2015-09-30 [07:44:29] [Server thread/INFO]: [/180.212.39.208:37706] logged out due to Login timeout
+2015-09-30 [07:46:12] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [07:46:12] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [07:46:12] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [07:46:12] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [07:46:12] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [07:46:12] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [07:46:12] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [07:46:12] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [07:46:12] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [07:46:12] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [07:46:12] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [07:46:12] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [07:46:12] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [07:46:12] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [07:46:12] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [07:46:12] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [07:46:12] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [07:46:12] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [07:46:12] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [07:46:12] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [07:46:12] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [07:46:12] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [07:46:12] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [07:46:12] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [07:46:12] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [07:46:12] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [07:46:12] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [07:46:12] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [07:46:12] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [07:46:12] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [07:46:12] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [07:46:12] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [07:46:12] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [07:46:12] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [07:46:12] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [07:46:12] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [07:48:31] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [07:48:31] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [07:48:31] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [07:48:31] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [07:48:31] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [07:48:31] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [07:48:31] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [07:48:31] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [07:48:31] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [07:48:31] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [07:48:31] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [07:48:31] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [07:48:31] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [07:48:31] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [07:48:31] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [07:48:31] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [07:48:31] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [07:48:31] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [07:48:31] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [07:48:31] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [07:48:31] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [07:48:31] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [07:48:31] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [07:48:31] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [07:48:31] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [07:48:31] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [07:48:31] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [07:48:31] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [07:48:31] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [07:48:31] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [07:48:31] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [07:48:31] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [07:48:31] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [07:48:31] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [07:48:31] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [07:48:31] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [07:48:40] [Server thread/INFO]: This server is running PocketMine-MP 1.6dev-30 「[REDACTED]」 implementing API version 1.13.0 for Minecraft: PE v0.12.1 alpha (protocol version 34)
+2015-09-30 [07:48:56] [Server thread/INFO]: Plugins (0):
+2015-09-30 [07:49:48] [Server thread/INFO]: There are 1/3000 players online:
+2015-09-30 [07:49:48] [Server thread/INFO]: power777888
+2015-09-30 [07:51:26] [Server thread/INFO]: You can only perform this command as a player
+2015-09-30 [07:51:36] [Server thread/INFO]: Usage: /setworldspawn [<x> <y> <z>]
+2015-09-30 [07:52:14] [Server thread/INFO]: [power777888: Set the world spawn point to (147, 74, 48)]
+2015-09-30 [07:52:38] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:52:38] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged out due to client disconnect
+2015-09-30 [07:53:05] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged in with entity id 2 at (world, 125.7243, 79.1235, 113.9851)
+2015-09-30 [07:53:06] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:53:38] [Server thread/INFO]: power777888 left the game
+2015-09-30 [07:53:38] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged out due to timeout
+2015-09-30 [07:54:01] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged in with entity id 3 at (world, 124.345, 65, 112.3785)
+2015-09-30 [07:54:02] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [07:54:22] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [07:56:16] [Server thread/NOTICE]: Player data not found for "steve", creating new profile
+2015-09-30 [07:56:16] [Server thread/INFO]: Steve[/180.212.39.208:46117] logged in with entity id 4 at (world, 147, 64, 48)
+2015-09-30 [07:56:17] [Server thread/INFO]: Steve joined the game
+2015-09-30 [07:56:44] [Server thread/INFO]: Steve left the game
+2015-09-30 [07:56:44] [Server thread/INFO]: Steve[/180.212.39.208:46117] logged out due to client disconnect
+2015-09-30 [07:56:48] [Server thread/INFO]: Steve[/180.212.39.208:46117] logged in with entity id 5 at (world, 147, 64, 48)
+2015-09-30 [07:56:49] [Server thread/INFO]: Steve joined the game
+2015-09-30 [07:58:48] [Server thread/INFO]: Steve left the game
+2015-09-30 [07:58:48] [Server thread/INFO]: Steve[/180.212.39.208:46117] logged out due to client disconnect
+2015-09-30 [07:59:03] [Server thread/NOTICE]: Player data not found for "sky", creating new profile
+2015-09-30 [07:59:03] [Server thread/INFO]: sky[/180.212.39.208:46117] logged in with entity id 6 at (world, 147, 64, 48)
+2015-09-30 [07:59:04] [Server thread/INFO]: sky joined the game
+2015-09-30 [07:59:09] [Server thread/INFO]: sky left the game
+2015-09-30 [07:59:09] [Server thread/INFO]: sky[/180.212.39.208:46117] logged out due to client disconnect
+2015-09-30 [07:59:33] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-09-30 [08:01:48] [Server thread/INFO]: sky[/180.212.39.208:40693] logged in with entity id 7 at (world, 147, 64, 48)
+2015-09-30 [08:01:49] [Server thread/INFO]: sky joined the game
+2015-09-30 [08:02:14] [Server thread/INFO]: sky left the game
+2015-09-30 [08:02:14] [Server thread/INFO]: sky[/180.212.39.208:40693] logged out due to client disconnect
+2015-09-30 [08:02:17] [Server thread/INFO]: sky[/180.212.39.208:40693] logged in with entity id 8 at (world, 147, 64, 48)
+2015-09-30 [08:02:18] [Server thread/INFO]: sky joined the game
+2015-09-30 [08:02:29] [Server thread/INFO]: power777888 left the game
+2015-09-30 [08:02:29] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged out due to client disconnect
+2015-09-30 [08:02:39] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged in with entity id 9 at (world, 130.7327, 65, 113.6398)
+2015-09-30 [08:02:40] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [08:03:36] [Server thread/INFO]: [power777888: Set the world spawn point to (131, 66, 111)]
+2015-09-30 [08:03:53] [Server thread/INFO]: power777888 left the game
+2015-09-30 [08:03:53] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged out due to timeout
+2015-09-30 [08:04:43] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged in with entity id 10 at (world, 130.58, 66, 110.632)
+2015-09-30 [08:04:43] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [08:04:47] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [08:04:47] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [08:04:47] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [08:04:47] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [08:04:47] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [08:04:47] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [08:04:47] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [08:04:47] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [08:04:47] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [08:04:47] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [08:04:47] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [08:04:47] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [08:04:47] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [08:04:47] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [08:04:47] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [08:04:47] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [08:04:47] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [08:04:47] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [08:04:47] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [08:04:47] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [08:04:47] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [08:04:47] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [08:04:47] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [08:04:47] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [08:04:47] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [08:04:47] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [08:04:47] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [08:04:47] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [08:04:47] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [08:04:47] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [08:04:47] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [08:04:47] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [08:04:47] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [08:04:47] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [08:04:47] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [08:04:47] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [08:05:02] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [08:05:07] [Server thread/INFO]: Usage: /timings <reset|report|on|off|paste>
+2015-09-30 [08:05:07] [Server thread/INFO]: sky left the game
+2015-09-30 [08:05:07] [Server thread/INFO]: sky[/180.212.39.208:40693] logged out due to timeout
+2015-09-30 [08:05:23] [Server thread/INFO]: Please enable timings by typing /timings on
+2015-09-30 [08:05:30] [Server thread/INFO]: Enabled Timings & Reset
+2015-09-30 [08:05:32] [Server thread/INFO]: [power777888: Set the time to 5000]
+2015-09-30 [08:05:43] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [08:05:45] [Server thread/INFO]: [power777888: Set the time to 6000]
+2015-09-30 [08:05:50] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [08:05:57] [Server thread/INFO]: [power777888: Set the time to 7000]
+2015-09-30 [08:06:14] [Server thread/INFO]: Usage: /time <set|add> <value> OR /time <start|stop|query>
+2015-09-30 [08:06:20] [Server thread/INFO]: Timings written to /home/power777888/mp1.5/timings/timings.txt
+2015-09-30 [08:06:51] [Server thread/INFO]: power777888 died
+2015-09-30 [08:07:14] [Server thread/INFO]: [power777888: Set the world spawn point to (130, 66, 110)]
+2015-09-30 [08:07:19] [Server thread/INFO]: power777888 died
+2015-09-30 [08:07:38] [Server thread/INFO]: [power777888: Set the world spawn point to (130, 66, 110)]
+2015-09-30 [08:07:52] [Server thread/INFO]: [power777888: Set the world spawn point to (131, 66, 111)]
+2015-09-30 [08:07:57] [Server thread/INFO]: power777888 died
+2015-09-30 [08:08:15] [Server thread/INFO]: sky[/180.212.39.208:39382] logged in with entity id 11 at (world, 129.0309, 67.1633, 106.0261)
+2015-09-30 [08:08:16] [Server thread/INFO]: sky joined the game
+2015-09-30 [08:08:43] [Server thread/INFO]: sky died
+2015-09-30 [08:08:43] [Server thread/INFO]: [power777888: Killed sky]
+2015-09-30 [08:09:05] [Server thread/INFO]: power777888 left the game
+2015-09-30 [08:09:05] [Server thread/INFO]: power777888[/180.212.39.208:47868] logged out due to timeout
+2015-09-30 [08:11:08] [Server thread/INFO]: sky left the game
+2015-09-30 [08:11:08] [Server thread/INFO]: sky[/180.212.39.208:39382] logged out due to timeout
+2015-09-30 [08:16:27] [Server thread/INFO]: power777888[/180.212.39.208:37642] logged in with entity id 12 at (world, 130.4915, 66, 110.3804)
+2015-09-30 [08:16:28] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [08:16:46] [Server thread/INFO]: <power777888> time set day
+2015-09-30 [08:16:53] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [08:17:03] [Server thread/INFO]: [power777888: Set the time to 7000]
+2015-09-30 [08:25:52] [Server thread/INFO]: power777888 left the game
+2015-09-30 [08:25:52] [Server thread/INFO]: power777888[/180.212.39.208:37642] logged out due to timeout
+2015-09-30 [08:26:53] [Server thread/INFO]: power777888[/180.212.39.208:37642] logged in with entity id 13 at (world, 125.7742, 68.1633, 113.0038)
+2015-09-30 [08:26:54] [Server thread/INFO]: power777888 joined the game
