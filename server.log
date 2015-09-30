@@ -591,3 +591,64 @@
 2015-09-30 [08:25:52] [Server thread/INFO]: power777888[/180.212.39.208:37642] logged out due to timeout
 2015-09-30 [08:26:53] [Server thread/INFO]: power777888[/180.212.39.208:37642] logged in with entity id 13 at (world, 125.7742, 68.1633, 113.0038)
 2015-09-30 [08:26:54] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [08:34:05] [Server thread/INFO]: power777888 left the game
+2015-09-30 [08:34:05] [Server thread/INFO]: power777888[/180.212.39.208:37642] logged out due to timeout
+2015-09-30 [08:37:18] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [08:37:18] [Server thread/INFO]: Loading server properties...
+2015-09-30 [08:37:18] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [08:37:18] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [08:37:18] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [08:37:18] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [08:37:18] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [12:37:19] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2015-09-30 [12:37:19] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2015-09-30 [12:37:19] [RakLibServer thread/EMERGENCY]: [RakLib Thread #140005419104000] RakLib crashed!
+2015-09-30 [08:37:19] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [08:37:19] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [08:37:19] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [08:37:19] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [08:37:19] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [08:37:19] [Server thread/INFO]: Done (0.623s)! For help, type "help" or "?"
+2015-09-30 [08:37:19] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed [raklib\server\UDPServerSocket]: socket_bind(): unable to bind address [98]: Address already in use
+2015-09-30 [08:37:36] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [08:37:37] [Server thread/INFO]: Stopping other threads
+2015-09-30 [08:38:00] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [08:38:00] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [08:38:00] [Server thread/INFO]: Stopping other threads
+2015-09-30 [08:38:03] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [08:38:03] [Server thread/INFO]: Loading server properties...
+2015-09-30 [08:38:03] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [08:38:03] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [08:38:03] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [08:38:03] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [08:38:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [08:38:04] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [08:38:04] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [08:38:04] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [08:38:04] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [08:38:04] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [08:38:04] [Server thread/INFO]: Done (0.583s)! For help, type "help" or "?"
+2015-09-30 [08:41:31] [Server thread/INFO]: power777888[/180.212.39.208:45808] logged in with entity id 1 at (world, 123.3724, 65, 109.9496)
+2015-09-30 [08:41:32] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [08:42:28] [Server thread/INFO]: [power777888: Set the world spawn point to (169, 73, 129)]
+2015-09-30 [08:50:48] [Server thread/INFO]: KEJY[/59.38.14.253:19132] logged in with entity id 2 at (world, 196.7998, 69, 97.149)
+2015-09-30 [08:50:49] [Server thread/INFO]: KEJY joined the game
+2015-09-30 [08:50:54] [Server thread/INFO]: <power777888> hi
+2015-09-30 [08:51:04] [Server thread/INFO]: <KEJY> Hi
+2015-09-30 [08:51:10] [Server thread/INFO]: <KEJY> Hi调白天
+2015-09-30 [08:51:23] [Server thread/INFO]: <power777888> time set 7000
+2015-09-30 [08:51:26] [Server thread/INFO]: <KEJY> 我在看恒大的比赛
+2015-09-30 [08:51:32] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [08:51:52] [Server thread/INFO]: <KEJY> 给我权限我来帮你
+2015-09-30 [08:52:04] [Server thread/INFO]: <power777888> no
+2015-09-30 [08:53:04] [Server thread/WARNING]: KEJY moved wrongly!
+2015-09-30 [08:53:07] [Server thread/INFO]: KEJY died
+2015-09-30 [08:53:07] [Server thread/INFO]: [power777888: Killed KEJY]
+2015-09-30 [08:53:15] [Server thread/INFO]: power777888 left the game
+2015-09-30 [08:53:15] [Server thread/INFO]: power777888[/180.212.39.208:45808] logged out due to client disconnect
+2015-09-30 [08:53:43] [Server thread/INFO]: power777888[/180.212.39.208:45808] logged in with entity id 6 at (world, 130.6545, 74.1235, 109.2452)
+2015-09-30 [08:53:44] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [08:54:27] [Server thread/INFO]: <KEJY> 怎么做浮空木牌
+2015-09-30 [08:57:21] [Server thread/WARNING]: KEJY moved wrongly!
+2015-09-30 [08:57:30] [Server thread/WARNING]: KEJY moved wrongly!
+2015-09-30 [08:57:30] [Server thread/WARNING]: KEJY moved wrongly!
