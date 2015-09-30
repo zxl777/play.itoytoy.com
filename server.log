@@ -670,3 +670,164 @@
 2015-09-30 [09:04:10] [Server thread/INFO]: KEJY[/59.38.14.253:19132] logged out due to client disconnect
 2015-09-30 [09:04:31] [Server thread/INFO]: power777888 left the game
 2015-09-30 [09:04:31] [Server thread/INFO]: power777888[/180.212.39.208:45808] logged out due to timeout
+2015-09-30 [09:20:28] [Server thread/INFO]: power777888[/180.212.39.208:33313] logged in with entity id 8 at (world, 130.7251, 65, 115.7945)
+2015-09-30 [09:20:29] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [09:20:54] [Server thread/INFO]: [power777888: Set the world spawn point to (130, 66, 111)]
+2015-09-30 [09:20:59] [Server thread/INFO]: power777888 died
+2015-09-30 [09:21:27] [Server thread/INFO]: power777888 left the game
+2015-09-30 [09:21:27] [Server thread/INFO]: power777888[/180.212.39.208:33313] logged out due to client disconnect
+2015-09-30 [09:26:53] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [09:26:53] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [09:26:54] [Server thread/INFO]: Stopping other threads
+2015-09-30 [09:28:17] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [09:28:17] [Server thread/INFO]: Loading server properties...
+2015-09-30 [09:28:17] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [09:28:17] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [09:28:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [09:28:17] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [09:28:17] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [09:28:17] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [09:28:18] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [09:28:18] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [09:28:18] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [09:28:18] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [09:28:18] [Server thread/INFO]: Done (0.595s)! For help, type "help" or "?"
+2015-09-30 [09:28:43] [Server thread/INFO]: power777888[/180.212.39.208:34109] logged in with entity id 1 at (world, 130.4853, 66.0244, 110.6107)
+2015-09-30 [09:28:44] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [09:30:14] [Server thread/INFO]: power777888 left the game
+2015-09-30 [09:30:14] [Server thread/INFO]: power777888[/180.212.39.208:34109] logged out due to timeout
+2015-09-30 [09:31:46] [Server thread/INFO]: power777888[/180.212.39.208:34109] logged in with entity id 2 at (world, 130.4807, 66, 109.5122)
+2015-09-30 [09:31:46] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [09:32:32] [Server thread/INFO]: power777888 died
+2015-09-30 [09:33:36] [Server thread/INFO]: power777888 left the game
+2015-09-30 [09:33:36] [Server thread/INFO]: power777888[/180.212.39.208:34109] logged out due to client disconnect
+2015-09-30 [09:33:53] [Server thread/NOTICE]: Player data not found for "power77788", creating new profile
+2015-09-30 [09:33:53] [Server thread/INFO]: power77788[/180.212.39.208:34109] logged in with entity id 3 at (world, 130, 66, 111)
+2015-09-30 [09:33:54] [Server thread/INFO]: power77788 joined the game
+2015-09-30 [09:34:18] [Server thread/INFO]: power77788 left the game
+2015-09-30 [09:34:18] [Server thread/INFO]: power77788[/180.212.39.208:34109] logged out due to client disconnect
+2015-09-30 [11:01:58] [Server thread/INFO]: [Server] Your green
+2015-09-30 [11:02:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [11:02:36] [Server thread/INFO]: [Server] AAAAA
+2015-09-30 [11:02:48] [Server thread/INFO]: [Server] SSS
+2015-09-30 [11:02:55] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:02:55] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:02:55] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:03:28] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:03:28] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:03:28] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:03:28] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:03:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:03:28] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:03:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:03:29] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:03:29] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:03:29] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:03:29] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:03:29] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:03:29] [Server thread/INFO]: Done (0.606s)! For help, type "help" or "?"
+2015-09-30 [11:03:53] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:03:53] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:03:54] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:04:35] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:04:35] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:04:35] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:04:35] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:04:35] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:04:35] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:04:35] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:04:35] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:04:36] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:04:36] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:04:36] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:04:36] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:04:36] [Server thread/INFO]: Done (0.622s)! For help, type "help" or "?"
+2015-09-30 [11:05:35] [Server thread/INFO]: power777888[/180.212.38.62:38613] logged in with entity id 1 at (world, 124.9051, 65.5, 109.0391)
+2015-09-30 [11:05:36] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [11:10:52] [Server thread/INFO]: power777888 left the game
+2015-09-30 [11:10:52] [Server thread/INFO]: power777888[/180.212.38.62:38613] logged out due to timeout
+2015-09-30 [11:13:38] [Server thread/INFO]: [Server] aa
+2015-09-30 [11:13:53] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-09-30 [11:14:04] [Server thread/INFO]: [Server] sd
+2015-09-30 [11:14:30] [Server thread/INFO]: [Server] ZZZZ
+2015-09-30 [11:14:41] [Server thread/INFO]: [Server] ZZZ
+2015-09-30 [11:15:24] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:15:24] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:15:29] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:16:57] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:16:57] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:16:57] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:16:57] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:16:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:16:57] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:16:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:16:57] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:16:57] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:16:57] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:16:57] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:16:57] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:16:57] [Server thread/INFO]: Done (0.584s)! For help, type "help" or "?"
+2015-09-30 [11:17:10] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:17:10] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:17:13] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:17:26] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:17:26] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:17:26] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:17:26] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:17:26] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:17:26] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:17:26] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:17:27] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:17:27] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:17:27] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:17:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:17:27] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:17:27] [Server thread/INFO]: Done (0.563s)! For help, type "help" or "?"
+2015-09-30 [11:19:19] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:19:19] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:19:22] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:19:54] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:19:54] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:19:54] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:19:54] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:19:54] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:19:54] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:19:54] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:19:55] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:19:55] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:19:55] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:19:55] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:19:55] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:19:55] [Server thread/INFO]: Done (0.609s)! For help, type "help" or "?"
+2015-09-30 [11:20:59] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:20:59] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:20:59] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:21:41] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:21:41] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:21:41] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:21:41] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:21:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:21:41] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:21:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:21:42] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:21:42] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:21:42] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:21:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:21:42] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:21:42] [Server thread/INFO]: Done (0.646s)! For help, type "help" or "?"
+2015-09-30 [11:22:18] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [11:22:18] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [11:22:23] [Server thread/INFO]: Stopping other threads
+2015-09-30 [11:24:41] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [11:24:41] [Server thread/INFO]: Loading server properties...
+2015-09-30 [11:24:41] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [11:24:41] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [11:24:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [11:24:41] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [11:24:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [11:24:42] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [11:24:42] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [11:24:42] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [11:24:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [11:24:42] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [11:24:42] [Server thread/INFO]: Done (0.592s)! For help, type "help" or "?"
