@@ -1,0 +1,24 @@
+---
+a:
+  x: 153.974213
+  "y": 64.000003
+  z: 96.989113
+  level: world
+  public: false
+home:
+  x: 135.592804
+  "y": 65.000003
+  z: 110.273857
+  level: world
+  public: false
+PVP:
+  address: Name
+  port: power777888
+  public: false
+Home:
+  x: 130.748611
+  "y": 66.000003
+  z: 110.521896
+  level: world
+  public: false
+...

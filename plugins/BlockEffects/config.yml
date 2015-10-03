@@ -1,0 +1,13 @@
+---
+"133:0":
+- effect: 1
+  amplifier: 50
+  duration: 20
+  visible: true
+  particle: water
+- effect: 8
+  amplifier: 3
+  duration: 3
+  visible: false
+  particle: water
+...

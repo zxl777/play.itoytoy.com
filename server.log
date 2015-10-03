@@ -831,3 +831,1214 @@
 2015-09-30 [11:24:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2015-09-30 [11:24:42] [Server thread/INFO]: Default game type: Creative Mode
 2015-09-30 [11:24:42] [Server thread/INFO]: Done (0.592s)! For help, type "help" or "?"
+2015-09-30 [11:34:21] [Server thread/INFO]: power777888[/180.212.38.62:33575] logged in with entity id 1 at (world, 122.1086, 65, 111.7397)
+2015-09-30 [11:34:22] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [11:39:33] [Server thread/INFO]: power777888 left the game
+2015-09-30 [11:39:33] [Server thread/INFO]: power777888[/180.212.38.62:33575] logged out due to timeout
+2015-09-30 [11:49:05] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [11:49:05] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [11:49:05] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [11:49:05] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [11:49:05] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [11:49:05] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [11:49:05] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [11:49:05] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [11:49:05] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [11:49:05] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [11:49:05] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [11:49:05] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [11:49:05] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [11:49:05] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [11:49:05] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [11:49:05] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [11:49:05] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [11:49:05] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [11:49:05] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [11:49:05] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [11:49:05] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [11:49:05] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [11:49:05] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [11:49:05] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [11:49:05] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [11:49:05] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [11:49:05] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [11:49:05] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [11:49:05] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [11:49:05] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [11:49:05] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [11:49:05] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [11:49:05] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [11:49:05] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [11:49:05] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [11:49:05] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [11:49:15] [Server thread/INFO]: Plugins (0):
+2015-09-30 [11:49:22] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [11:49:22] [Server thread/INFO]: Saving levels...
+2015-09-30 [11:49:22] [Server thread/INFO]: Reloading properties...
+2015-09-30 [11:49:22] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [11:49:22] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [11:49:22] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [11:49:37] [Server thread/INFO]: Plugins (1): SimpleWarp v2.1.0
+2015-09-30 [11:50:32] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-09-30 [11:50:32] [Server thread/INFO]: /addwarp: Add new warps.
+2015-09-30 [11:50:32] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-09-30 [11:50:32] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-09-30 [11:50:32] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-09-30 [11:50:32] [Server thread/INFO]: /closewarp: Close existing warps.
+2015-09-30 [11:50:32] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-09-30 [11:50:32] [Server thread/INFO]: /delwarp: Delete existing warps.
+2015-09-30 [11:50:32] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-09-30 [11:50:32] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-09-30 [11:50:32] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-09-30 [11:50:32] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-09-30 [11:50:32] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-09-30 [11:50:32] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-09-30 [11:50:32] [Server thread/INFO]: /help: Shows the help menu
+2015-09-30 [11:50:32] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-09-30 [11:50:32] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-09-30 [11:50:32] [Server thread/INFO]: /list: Lists all online players
+2015-09-30 [11:50:32] [Server thread/INFO]: /listwarps: List all your warps.
+2015-09-30 [11:50:32] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-09-30 [11:50:32] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-09-30 [11:50:32] [Server thread/INFO]: /openwarp: Open existing warps.
+2015-09-30 [11:50:32] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-09-30 [11:50:32] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-09-30 [11:50:32] [Server thread/INFO]: /particle: Adds particles to a world
+2015-09-30 [11:50:32] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-09-30 [11:50:32] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-09-30 [11:50:32] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-09-30 [11:50:32] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-09-30 [11:50:32] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-09-30 [11:50:32] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-09-30 [11:50:32] [Server thread/INFO]: /seed: Shows the world seed
+2015-09-30 [11:50:32] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-09-30 [11:50:32] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-09-30 [11:50:32] [Server thread/INFO]: /stop: Stops the server
+2015-09-30 [11:50:32] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-09-30 [11:50:32] [Server thread/INFO]: /time: Changes the time on each world
+2015-09-30 [11:50:32] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-09-30 [11:50:32] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-09-30 [11:50:32] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-09-30 [11:50:32] [Server thread/INFO]: /warp: Warp around your world.
+2015-09-30 [11:50:32] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-09-30 [11:50:46] [Server thread/INFO]: You specified a player which isn't loaded.
+2015-09-30 [11:51:42] [Server thread/INFO]: power777888[/180.212.38.62:48682] logged in with entity id 2 at (world, 122.1086, 65, 111.7397)
+2015-09-30 [11:51:43] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [11:59:13] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [11:59:13] [Server thread/INFO]: Saving levels...
+2015-09-30 [11:59:13] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [11:59:13] [Server thread/INFO]: Reloading properties...
+2015-09-30 [11:59:13] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [11:59:13] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [11:59:13] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [11:59:13] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [11:59:13] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [11:59:17] [Server thread/INFO]: Plugins (2): SimpleWarp v2.1.0, WarpSigns v0.0.1
+2015-09-30 [12:02:38] [Server thread/INFO]: power777888 left the game
+2015-09-30 [12:02:38] [Server thread/INFO]: power777888[/180.212.38.62:48682] logged out due to client disconnect
+2015-09-30 [12:02:41] [Server thread/INFO]: power777888[/180.212.38.62:48682] logged in with entity id 3 at (world, 136.957, 65, 110.0618)
+2015-09-30 [12:02:42] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [12:11:37] [Server thread/INFO]: power777888 left the game
+2015-09-30 [12:11:37] [Server thread/INFO]: power777888[/180.212.38.62:48682] logged out due to timeout
+2015-09-30 [12:12:43] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [12:12:43] [Server thread/INFO]: Saving levels...
+2015-09-30 [12:12:43] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [12:12:43] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [12:12:43] [Server thread/INFO]: Reloading properties...
+2015-09-30 [12:12:43] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [12:12:43] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [12:12:43] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [12:12:43] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [12:12:43] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [12:12:43] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [12:12:43] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [12:12:43] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [12:13:21] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [12:13:21] [Server thread/INFO]: Saving levels...
+2015-09-30 [12:13:21] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [12:13:21] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [12:13:21] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [12:13:21] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [12:13:21] [Server thread/INFO]: Reloading properties...
+2015-09-30 [12:13:21] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [12:13:21] [Server thread/INFO]: Loading WalkingParticles v2.0.0 beta
+2015-09-30 [12:13:21] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [12:13:21] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [12:13:21] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [12:13:21] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [12:13:21] [Server thread/INFO]: Enabling WalkingParticles v2.0.0 beta
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Loading resources..
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Checking config file..
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Checking for update..  It may take you some time...  (Channel: beta)
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Loading economy plugins..
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] No economy plugin found!
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Loading plugin..
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Loaded Successfully!
+2015-09-30 [12:13:21] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [12:13:21] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [12:13:21] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [12:13:21] [Server thread/INFO]: [WalkingParticles] Checking for update..  It may take you some time...  (Channel: beta)
+2015-09-30 [12:14:23] [Server thread/INFO]: power777888[/180.212.38.62:39312] logged in with entity id 5 at (world, 135.6186, 65, 108.6725)
+2015-09-30 [12:14:24] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [12:15:40] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [12:15:40] [Server thread/INFO]: Saving levels...
+2015-09-30 [12:15:40] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [12:15:40] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [12:15:40] [Server thread/INFO]: Disabling WalkingParticles v2.0.0 beta
+2015-09-30 [12:15:40] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [12:15:40] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [12:15:40] [Server thread/INFO]: Reloading properties...
+2015-09-30 [12:15:40] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [12:15:40] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [12:15:40] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [12:15:40] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [12:15:40] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [12:15:40] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [12:15:40] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [12:15:40] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [12:28:40] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [12:28:41] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [12:28:41] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [12:28:41] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [12:28:41] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [12:28:41] [Server thread/INFO]: power777888 left the game
+2015-09-30 [12:28:41] [Server thread/INFO]: power777888[/180.212.38.62:39312] logged out due to Server closed
+2015-09-30 [12:28:41] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [12:28:41] [Server thread/INFO]: Stopping other threads
+2015-09-30 [12:28:47] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [12:28:47] [Server thread/INFO]: Loading server properties...
+2015-09-30 [12:28:47] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [12:28:47] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [12:28:47] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [12:28:47] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [12:28:47] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [12:28:47] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [12:28:47] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [12:28:47] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [12:28:47] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [12:28:47] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [12:28:47] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [12:28:47] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [12:28:47] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [12:28:47] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [12:28:47] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [12:28:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [12:28:47] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [12:28:47] [Server thread/INFO]: Done (0.662s)! For help, type "help" or "?"
+2015-09-30 [12:28:55] [Server thread/INFO]: power777888[/180.212.38.62:39312] logged in with entity id 1 at (world, 163.0953, 65, 97.8759)
+2015-09-30 [12:28:56] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [12:30:43] [Server thread/INFO]: power777888 left the game
+2015-09-30 [12:30:43] [Server thread/INFO]: power777888[/180.212.38.62:39312] logged out due to timeout
+2015-09-30 [20:41:32] [Server thread/INFO]: power777888[/180.212.38.62:37239] logged in with entity id 2 at (world, 162.0804, 64, 95.4545)
+2015-09-30 [20:41:33] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [20:43:02] [Server thread/INFO]: power777888 left the game
+2015-09-30 [20:43:02] [Server thread/INFO]: power777888[/180.212.38.62:37239] logged out due to timeout
+2015-09-30 [20:44:36] [Server thread/INFO]: power777888[/180.212.38.62:37239] logged in with entity id 3 at (world, 160.7346, 64, 97.4265)
+2015-09-30 [20:44:37] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [20:45:43] [Server thread/INFO]: [power777888: Set the time to 7000]
+2015-09-30 [20:48:02] [Server thread/INFO]: power777888 left the game
+2015-09-30 [20:48:02] [Server thread/INFO]: power777888[/180.212.38.62:37239] logged out due to timeout
+2015-09-30 [20:49:31] [Server thread/INFO]: power777888[/180.212.38.62:37239] logged in with entity id 4 at (world, 128.9768, 66, 110.4166)
+2015-09-30 [20:49:32] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [20:51:50] [Server thread/INFO]: power777888 died
+2015-09-30 [20:54:13] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [21:06:42] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [21:19:43] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [21:25:19] [Server thread/INFO]: power777888 left the game
+2015-09-30 [21:25:19] [Server thread/INFO]: power777888[/180.212.38.62:37239] logged out due to timeout
+2015-09-30 [21:30:10] [Server thread/INFO]: power777888[/180.212.38.62:47194] logged in with entity id 30 at (world, 129.0982, 67.7735, 114.2695)
+2015-09-30 [21:30:11] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [21:36:46] [Server thread/INFO]: power777888 left the game
+2015-09-30 [21:36:46] [Server thread/INFO]: power777888[/180.212.38.62:47194] logged out due to timeout
+2015-09-30 [21:41:04] [Server thread/INFO]: power777888[/180.212.38.62:40699] logged in with entity id 31 at (world, 132.1009, 73.5383, 108.3063)
+2015-09-30 [21:41:05] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [21:49:38] [Server thread/INFO]: power777888 left the game
+2015-09-30 [21:49:38] [Server thread/INFO]: power777888[/180.212.38.62:40699] logged out due to timeout
+2015-09-30 [21:50:09] [Server thread/INFO]: power777888[/180.212.38.62:40699] logged in with entity id 32 at (world, 146.0869, 77.6632, 115.8505)
+2015-09-30 [21:50:10] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [21:52:44] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [21:59:26] [Server thread/INFO]: power777888 left the game
+2015-09-30 [21:59:26] [Server thread/INFO]: power777888[/180.212.38.62:40699] logged out due to client disconnect
+2015-09-30 [22:10:22] [Server thread/NOTICE]: Player data not found for "webzk", creating new profile
+2015-09-30 [22:10:22] [Server thread/INFO]: webzk[/113.103.133.113:18478] logged in with entity id 34 at (world, 130, 66, 111)
+2015-09-30 [22:10:22] [Server thread/INFO]: webzk joined the game
+2015-09-30 [22:12:09] [Server thread/INFO]: webzk left the game
+2015-09-30 [22:12:09] [Server thread/INFO]: webzk[/113.103.133.113:18478] logged out due to client disconnect
+2015-09-30 [22:37:03] [Server thread/INFO]: power777888[/180.212.38.62:48515] logged in with entity id 35 at (world, 131.1351, 63.4988, 96.2945)
+2015-09-30 [22:37:04] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [22:42:53] [Server thread/INFO]: power777888 left the game
+2015-09-30 [22:42:53] [Server thread/INFO]: power777888[/180.212.38.62:48515] logged out due to timeout
+2015-09-30 [22:59:54] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [22:59:54] [Server thread/INFO]: Saving levels...
+2015-09-30 [22:59:54] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [22:59:54] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [22:59:54] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [22:59:54] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [22:59:54] [Server thread/INFO]: Reloading properties...
+2015-09-30 [22:59:54] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [22:59:54] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [22:59:54] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [22:59:54] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [22:59:54] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [22:59:54] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [22:59:54] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [22:59:54] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [23:00:14] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged in with entity id 37 at (world, 130.6449, 73.6896, 95.4497)
+2015-09-30 [23:00:15] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [23:01:41] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [23:01:41] [Server thread/INFO]: Saving levels...
+2015-09-30 [23:01:41] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [23:01:41] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [23:01:41] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [23:01:41] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [23:01:41] [Server thread/INFO]: Reloading properties...
+2015-09-30 [23:01:41] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [23:01:41] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [23:01:41] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [23:01:41] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [23:01:41] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [23:01:41] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [23:01:41] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [23:01:42] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [23:01:52] [Server thread/INFO]: power777888 left the game
+2015-09-30 [23:01:52] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged out due to client disconnect
+2015-09-30 [23:01:55] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged in with entity id 38 at (world, 129.4623, 64.0625, 95.2521)
+2015-09-30 [23:01:56] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [23:02:54] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [23:02:54] [Server thread/INFO]: Saving levels...
+2015-09-30 [23:02:54] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [23:02:54] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [23:02:54] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [23:02:54] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [23:02:54] [Server thread/INFO]: Reloading properties...
+2015-09-30 [23:02:54] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [23:02:54] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [23:02:54] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [23:02:54] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [23:02:54] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [23:02:54] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [23:02:54] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [23:02:54] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [23:03:49] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [23:03:49] [Server thread/INFO]: Saving levels...
+2015-09-30 [23:03:49] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [23:03:49] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [23:03:49] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [23:03:49] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [23:03:49] [Server thread/INFO]: Reloading properties...
+2015-09-30 [23:03:49] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [23:03:49] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [23:03:49] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [23:03:49] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [23:03:49] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [23:03:49] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [23:03:49] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [23:03:49] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [23:03:57] [Server thread/INFO]: power777888 left the game
+2015-09-30 [23:03:57] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged out due to client disconnect
+2015-09-30 [23:04:00] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged in with entity id 39 at (world, 131.0109, 64.0625, 92.8032)
+2015-09-30 [23:04:01] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [23:04:11] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-09-30 [23:05:36] [Server thread/INFO]: [power777888: Set own game mode to Spectator Mode]
+2015-09-30 [23:06:15] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-09-30 [23:06:42] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-09-30 [23:07:08] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-09-30 [23:07:18] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-09-30 [23:07:18] [Server thread/INFO]: Saving levels...
+2015-09-30 [23:07:19] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [23:07:19] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [23:07:19] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [23:07:19] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [23:07:19] [Server thread/INFO]: Reloading properties...
+2015-09-30 [23:07:19] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [23:07:19] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [23:07:19] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [23:07:19] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [23:07:19] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [23:07:19] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [23:07:19] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [23:07:19] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-09-30 [23:07:42] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-09-30 [23:07:42] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-09-30 [23:07:42] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-09-30 [23:07:42] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-09-30 [23:07:42] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-09-30 [23:07:42] [Server thread/INFO]: power777888 left the game
+2015-09-30 [23:07:42] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged out due to Server closed
+2015-09-30 [23:07:42] [Server thread/INFO]: Unloading level "world"
+2015-09-30 [23:07:43] [Server thread/INFO]: Stopping other threads
+2015-09-30 [23:07:46] [Server thread/INFO]: Loading pocketmine.yml...
+2015-09-30 [23:07:46] [Server thread/INFO]: Loading server properties...
+2015-09-30 [23:07:46] [Server thread/INFO]: Selected English (eng) as the base language
+2015-09-30 [23:07:46] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-09-30 [23:07:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-09-30 [23:07:46] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-09-30 [23:07:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-09-30 [23:07:46] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-09-30 [23:07:46] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-09-30 [23:07:46] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-09-30 [23:07:47] [Server thread/INFO]: Preparing level "world"
+2015-09-30 [23:07:47] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-09-30 [23:07:47] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-09-30 [23:07:47] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-09-30 [23:07:47] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-09-30 [23:07:47] [Server thread/INFO]: Starting GS4 status listener
+2015-09-30 [23:07:47] [Server thread/INFO]: Setting query port to 19132
+2015-09-30 [23:07:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-09-30 [23:07:47] [Server thread/INFO]: Default game type: Creative Mode
+2015-09-30 [23:07:47] [Server thread/INFO]: Done (0.648s)! For help, type "help" or "?"
+2015-09-30 [23:07:49] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged in with entity id 1 at (world, 129.5964, 64.0625, 94.7989)
+2015-09-30 [23:07:50] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [23:09:33] [Server thread/INFO]: power777888 left the game
+2015-09-30 [23:09:33] [Server thread/INFO]: power777888[/180.212.38.62:40901] logged out due to client disconnect
+2015-09-30 [23:50:41] [Server thread/INFO]: power777888[/180.212.38.62:40073] logged in with entity id 4 at (world, 129.5316, 66, 110.3638)
+2015-09-30 [23:50:42] [Server thread/INFO]: power777888 joined the game
+2015-09-30 [23:53:57] [Server thread/INFO]: power777888 left the game
+2015-09-30 [23:53:57] [Server thread/INFO]: power777888[/180.212.38.62:40073] logged out due to timeout
+2015-10-01 [00:20:16] [Server thread/INFO]: power777888[/180.212.38.62:45496] logged in with entity id 9 at (world, 130.5208, 64.0625, 93.5559)
+2015-10-01 [00:20:17] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [00:21:50] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [00:26:37] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-10-01 [00:26:37] [Server thread/INFO]: power777888 left the game
+2015-10-01 [00:26:37] [Server thread/INFO]: power777888[/180.212.38.62:45496] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-10-01 [00:26:41] [Server thread/INFO]: power777888[/180.212.38.62:45496] logged in with entity id 10 at (world, 133.6812, 67.003, 103.4049)
+2015-10-01 [00:26:42] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [00:27:17] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-10-01 [00:28:18] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-10-01 [00:33:29] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [00:43:37] [Server thread/INFO]: power777888 left the game
+2015-10-01 [00:43:37] [Server thread/INFO]: power777888[/180.212.38.62:45496] logged out due to timeout
+2015-10-01 [00:58:45] [Server thread/INFO]: power777888[/180.212.38.62:48631] logged in with entity id 58 at (world, 140.6055, 86.7485, 114.0362)
+2015-10-01 [00:58:46] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [01:00:40] [Server thread/INFO]: power777888 left the game
+2015-10-01 [01:00:40] [Server thread/INFO]: power777888[/180.212.38.62:48631] logged out due to timeout
+2015-10-01 [01:03:22] [Server thread/INFO]: webzk[/113.103.133.113:19257] logged in with entity id 59 at (world, 127.5269, 66.7883, 107.1369)
+2015-10-01 [01:03:23] [Server thread/INFO]: webzk joined the game
+2015-10-01 [01:05:25] [Server thread/INFO]: power777888[/180.212.38.62:48072] logged in with entity id 80 at (world, 153.6387, 80.7485, 112.9587)
+2015-10-01 [01:05:26] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [01:05:37] [Server thread/NOTICE]: Player data not found for "yx_k", creating new profile
+2015-10-01 [01:05:37] [Server thread/INFO]: yx_k[/218.13.189.246:53997] logged in with entity id 83 at (world, 130, 66, 111)
+2015-10-01 [01:05:38] [Server thread/INFO]: yx_k joined the game
+2015-10-01 [01:05:43] [Server thread/INFO]: <power777888> hi
+2015-10-01 [01:05:49] [Server thread/INFO]: <yx_k> hi，同志们好！
+2015-10-01 [01:05:59] [Server thread/INFO]: yx_k left the game
+2015-10-01 [01:05:59] [Server thread/INFO]: yx_k[/218.13.189.246:53997] logged out due to client disconnect
+2015-10-01 [01:06:10] [Server thread/INFO]: <webzk> 777888你怎么不用皮肤
+2015-10-01 [01:06:12] [Server thread/INFO]: yx_k[/218.13.189.246:53997] logged in with entity id 84 at (world, 130, 66, 111)
+2015-10-01 [01:06:13] [Server thread/INFO]: yx_k joined the game
+2015-10-01 [01:06:20] [Server thread/INFO]: <yx_k> 可能皮肤，搞错了
+2015-10-01 [01:06:27] [Server thread/INFO]: [power777888: Set yx_k's game mode to Adventure Mode]
+2015-10-01 [01:06:41] [Server thread/INFO]: <webzk> 为什么是创造
+2015-10-01 [01:06:52] [Server thread/INFO]: <yx_k> 怎么就变成生存了
+2015-10-01 [01:07:03] [Server thread/INFO]: <webzk> 我是创造
+2015-10-01 [01:07:05] [Server thread/INFO]: [power777888: Set webzk's game mode to Adventure Mode]
+2015-10-01 [01:07:08] [Server thread/INFO]: <webzk> 好奇怪
+2015-10-01 [01:07:13] [Server thread/INFO]: <yx_k> 你试着飞行
+2015-10-01 [01:07:17] [Server thread/INFO]: <webzk> 好吧
+2015-10-01 [01:07:17] [Server thread/INFO]: <yx_k> 就会改成生存
+2015-10-01 [01:07:20] [Server thread/INFO]: <power777888> gamemode
+2015-10-01 [01:07:22] [Server thread/INFO]: <webzk> 游戏模式更新
+2015-10-01 [01:07:36] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [01:07:37] [Server thread/INFO]: <webzk> 跑酷我最在行
+2015-10-01 [01:07:47] [Server thread/INFO]: <power777888> qu na bian kan kan
+2015-10-01 [01:07:47] [Server thread/INFO]: <yx_k> 那你倒是走哇，别等我
+2015-10-01 [01:07:53] [Server thread/INFO]: <webzk> 群猪走开
+2015-10-01 [01:08:10] [Server thread/INFO]: <webzk> oh shit
+2015-10-01 [01:08:28] [Server thread/INFO]: <webzk> 你们等一下
+2015-10-01 [01:08:34] [Server thread/INFO]: <webzk> 我换一下名字
+2015-10-01 [01:08:38] [Server thread/INFO]: webzk left the game
+2015-10-01 [01:08:38] [Server thread/INFO]: webzk[/113.103.133.113:19257] logged out due to client disconnect
+2015-10-01 [01:08:39] [Server thread/INFO]: <power777888> en
+2015-10-01 [01:08:52] [Server thread/NOTICE]: Player data not found for "xiao_jiong", creating new profile
+2015-10-01 [01:08:52] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19257] logged in with entity id 88 at (world, 130, 66, 111)
+2015-10-01 [01:08:53] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [01:09:16] [Server thread/INFO]: <xiao_jiong> 我是哎创造
+2015-10-01 [01:09:17] [Server thread/INFO]: yx_k left the game
+2015-10-01 [01:09:17] [Server thread/INFO]: yx_k[/218.13.189.246:53997] logged out due to client disconnect
+2015-10-01 [01:09:19] [Server thread/INFO]: yx_k[/218.13.189.246:53997] logged in with entity id 89 at (world, 132.1637, 73, 113.5853)
+2015-10-01 [01:09:20] [Server thread/INFO]: yx_k joined the game
+2015-10-01 [01:09:35] [Server thread/INFO]: [power777888: Set xiao_jiong's game mode to Adventure Mode]
+2015-10-01 [01:09:35] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [01:09:35] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19257] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-10-01 [01:09:42] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19257] logged in with entity id 95 at (world, 130.0711, 72.6568, 115.6187)
+2015-10-01 [01:09:43] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [01:10:01] [Server thread/INFO]: <xiao_jiong> 雪球
+2015-10-01 [01:10:03] [Server thread/INFO]: <xiao_jiong> 而已
+2015-10-01 [01:10:11] [Server thread/INFO]: <power777888> gen wo zou
+2015-10-01 [01:10:11] [Server thread/INFO]: <yx_k> 给我改创造
+2015-10-01 [01:10:17] [Server thread/INFO]: <xiao_jiong> 你们的皮肤怎么是我的
+2015-10-01 [01:10:54] [Server thread/INFO]: <yx_k> 你道时给我改创造
+2015-10-01 [01:11:04] [Server thread/INFO]: <power777888> gamemode 1
+2015-10-01 [01:11:15] [Server thread/INFO]: <xiao_jiong> 我呢
+2015-10-01 [01:11:15] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-10-01 [01:11:41] [Server thread/INFO]: <yx_k> 改不了啊，你是不是没用，不服气
+2015-10-01 [01:11:47] [Server thread/INFO]: <yx_k> 服务器
+2015-10-01 [01:11:56] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [01:11:56] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19257] logged out due to timeout
+2015-10-01 [01:11:58] [Server thread/INFO]: <power777888> gamemode 1 yx_k
+2015-10-01 [01:12:01] [Server thread/INFO]: <yx_k> 亏你还无主
+2015-10-01 [01:12:12] [Server thread/INFO]: <yx_k> 不行啊，傻
+2015-10-01 [01:12:14] [Server thread/INFO]: [power777888: Set yx_k's game mode to Creative Mode]
+2015-10-01 [01:12:21] [Server thread/INFO]: <yx_k> ←_←
+2015-10-01 [01:12:26] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-10-01 [01:12:42] [Server thread/INFO]: <yx_k> 你脑子是拿来干嘛用的←_←
+2015-10-01 [01:13:32] [Server thread/INFO]: yx_k died
+2015-10-01 [01:13:32] [Server thread/INFO]: [power777888: Killed yx_k]
+2015-10-01 [01:13:43] [Server thread/INFO]: <yx_k> 哦，谢了
+2015-10-01 [01:13:53] [Server thread/INFO]: <yx_k> 总算正常了
+2015-10-01 [01:15:19] [Server thread/INFO]: <power777888> bu shi mei tan
+2015-10-01 [01:15:24] [Server thread/INFO]: yx_k left the game
+2015-10-01 [01:15:24] [Server thread/INFO]: yx_k[/218.13.189.246:53997] logged out due to client disconnect
+2015-10-01 [01:15:49] [Server thread/INFO]: power777888 left the game
+2015-10-01 [01:15:49] [Server thread/INFO]: power777888[/180.212.38.62:48072] logged out due to timeout
+2015-10-01 [01:16:01] [Server thread/INFO]: power777888[/180.212.38.62:48072] logged in with entity id 116 at (world, 146.3304, 86.1235, 121.6446)
+2015-10-01 [01:16:02] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [01:18:26] [Server thread/INFO]: power777888 left the game
+2015-10-01 [01:18:26] [Server thread/INFO]: power777888[/180.212.38.62:48072] logged out due to timeout
+2015-10-01 [01:18:28] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19259] logged in with entity id 117 at (world, 132.3486, 65, 102.9658)
+2015-10-01 [01:18:29] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [01:18:44] [Server thread/INFO]: <xiao_jiong> sorry
+2015-10-01 [01:19:25] [Server thread/INFO]: <xiao_jiong> 刚刚手机强制关机
+2015-10-01 [01:21:03] [Server thread/INFO]: power777888[/180.212.38.62:47831] logged in with entity id 118 at (world, 125.9734, 85.6632, 121.2699)
+2015-10-01 [01:21:04] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [01:24:07] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [01:24:45] [Server thread/INFO]: <xiao_jiong> 给我创造(ฅ>ω<*ฅ)
+2015-10-01 [01:25:05] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-10-01 [01:25:58] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-10-01 [01:27:24] [Server thread/INFO]: <xiao_jiong> 777888给我创造(ฅ>ω<*ฅ)
+2015-10-01 [01:27:43] [Server thread/INFO]: [power777888: Teleported xiao_jiong to power777888]
+2015-10-01 [01:29:12] [Server thread/INFO]: xiao_jiong drowned
+2015-10-01 [01:29:15] [Server thread/WARNING]: xiao_jiong moved wrongly!
+2015-10-01 [01:30:25] [Server thread/INFO]: <xiao_jiong> what are you doing?
+2015-10-01 [01:30:58] [Server thread/INFO]: [power777888: Set xiao_jiong's game mode to Spectator Mode]
+2015-10-01 [01:31:31] [Server thread/INFO]: [power777888: Set own game mode to Spectator Mode]
+2015-10-01 [01:31:49] [Server thread/INFO]: <xiao_jiong> 你给我穿透模式?
+2015-10-01 [01:31:55] [Server thread/INFO]: <power777888> en
+2015-10-01 [01:32:31] [Server thread/INFO]: <xiao_jiong> 你在哪里
+2015-10-01 [01:32:35] [Server thread/INFO]: [power777888: Set xiao_jiong's game mode to Adventure Mode]
+2015-10-01 [01:32:48] [Server thread/INFO]: <xiao_jiong> 创造
+2015-10-01 [01:32:52] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-10-01 [01:33:20] [Server thread/INFO]: <xiao_jiong> help/
+2015-10-01 [01:33:37] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [01:33:53] [Server thread/INFO]: <xiao_jiong> kill
+2015-10-01 [01:33:57] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [01:34:10] [Server thread/INFO]: <xiao_jiong> 你干嘛
+2015-10-01 [01:34:13] [Server thread/INFO]: [power777888: Given Speed (ID 1) * 0 to xiao_jiong for 255 seconds]
+2015-10-01 [01:34:34] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [01:34:40] [Server thread/INFO]: power777888 died
+2015-10-01 [01:34:49] [Server thread/INFO]: power777888 died
+2015-10-01 [01:34:55] [Server thread/INFO]: <xiao_jiong> 你打我电干嘛
+2015-10-01 [01:34:56] [Server thread/INFO]: power777888 died
+2015-10-01 [01:35:40] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [01:36:35] [Server thread/INFO]: xiao_jiong was slain by power777888
+2015-10-01 [01:37:00] [Server thread/INFO]: <xiao_jiong> kill me
+2015-10-01 [01:37:05] [Server thread/INFO]: <power777888> no
+2015-10-01 [01:37:19] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [01:37:50] [Server thread/INFO]: <xiao_jiong> what are you
+2015-10-01 [01:39:26] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [01:39:56] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 136 at (world, 211.7, 76, 102.4158)
+2015-10-01 [01:39:57] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:40:05] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:40:05] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-10-01 [01:40:17] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 137 at (world, 197.714, 64, 111.995)
+2015-10-01 [01:40:18] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:40:20] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:40:20] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-10-01 [01:40:24] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 138 at (world, 195.7129, 64, 112.6841)
+2015-10-01 [01:40:24] [Server thread/INFO]: <xiao_jiong> 都怪你
+2015-10-01 [01:40:25] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:40:55] [Server thread/INFO]: <xiao_jiong> 你输入
+2015-10-01 [01:41:02] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [01:41:07] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:41:07] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to timeout
+2015-10-01 [01:41:49] [Server thread/INFO]: xiao_jiong was slain by power777888
+2015-10-01 [01:41:59] [Server thread/INFO]: <xiao_jiong> (ಥ_ಥ)
+2015-10-01 [01:42:18] [Server thread/INFO]: <xiao_jiong> 给我创造(ಥ_ಥ)
+2015-10-01 [01:42:48] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 139 at (world, 134.2972, 64, 100.3102)
+2015-10-01 [01:42:49] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:43:07] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:43:28] [Server thread/WARNING]: ASDR moved wrongly!
+2015-10-01 [01:43:35] [Server thread/INFO]: xiao_jiong was slain by ASDR
+2015-10-01 [01:43:36] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:44:05] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:44:30] [Server thread/INFO]: [power777888: Set ASDR's game mode to Adventure Mode]
+2015-10-01 [01:44:47] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:44:49] [Server thread/INFO]: <xiao_jiong> 刚刚谁打我
+2015-10-01 [01:44:52] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:44:52] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-10-01 [01:44:56] [Server thread/INFO]: <power777888> ASDR
+2015-10-01 [01:44:59] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 150 at (world, 152.8225, 65.2548, 113.2101)
+2015-10-01 [01:45:00] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:45:07] [Server thread/INFO]: <xiao_jiong> (ಥ_ಥ)
+2015-10-01 [01:45:07] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:45:07] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-10-01 [01:45:11] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 151 at (world, 150.8079, 64, 115.0964)
+2015-10-01 [01:45:12] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:45:28] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:46:02] [Server thread/INFO]: <xiao_jiong> help me
+2015-10-01 [01:46:07] [Server thread/INFO]: <power777888> en
+2015-10-01 [01:46:21] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-10-01 [01:46:28] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:46:55] [Server thread/INFO]: ASDR died
+2015-10-01 [01:46:55] [Server thread/INFO]: [power777888: Killed ASDR]
+2015-10-01 [01:47:08] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:47:10] [Server thread/INFO]: <xiao_jiong> 怎么看不见了
+2015-10-01 [01:48:07] [Server thread/INFO]: ASDR was slain by power777888
+2015-10-01 [01:48:14] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:48:14] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to client disconnect
+2015-10-01 [01:48:22] [Server thread/INFO]: <xiao_jiong> 僵尸怎么不动弹
+2015-10-01 [01:48:32] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-10-01 [01:50:16] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged in with entity id 152 at (world, 132.5019, 66, 110.5418)
+2015-10-01 [01:50:17] [Server thread/INFO]: ASDR joined the game
+2015-10-01 [01:50:22] [Server thread/INFO]: [power777888: Given Diamond Sword (276:0) * 1 to xiao_jiong]
+2015-10-01 [01:52:08] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [01:52:08] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19259] logged out due to timeout
+2015-10-01 [01:52:08] [Server thread/INFO]: ASDR left the game
+2015-10-01 [01:52:08] [Server thread/INFO]: ASDR[/110.96.143.35:19132] logged out due to timeout
+2015-10-01 [01:52:22] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19259] logged in with entity id 154 at (world, 132.8, 65.5, 110.9166)
+2015-10-01 [01:52:23] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [01:52:33] [Server thread/INFO]: power777888 left the game
+2015-10-01 [01:52:33] [Server thread/INFO]: power777888[/180.212.38.62:47831] logged out due to timeout
+2015-10-01 [01:56:33] [Server thread/INFO]: power777888[/180.212.38.62:46028] logged in with entity id 155 at (world, 130.7791, 71.1235, 110.3254)
+2015-10-01 [01:56:34] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [01:57:03] [Server thread/INFO]: power777888 left the game
+2015-10-01 [01:57:03] [Server thread/INFO]: power777888[/180.212.38.62:46028] logged out due to timeout
+2015-10-01 [01:58:52] [Server thread/INFO]: power777888[/180.212.38.62:46028] logged in with entity id 156 at (world, 136.8294, 65, 112.3993)
+2015-10-01 [01:58:53] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [01:58:59] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [01:58:59] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19259] logged out due to timeout
+2015-10-01 [01:59:21] [Server thread/INFO]: power777888 left the game
+2015-10-01 [01:59:21] [Server thread/INFO]: power777888[/180.212.38.62:46028] logged out due to timeout
+2015-10-01 [02:04:16] [Server thread/INFO]: [/180.212.38.62:33068] logged out due to Login timeout
+2015-10-01 [02:12:06] [Server thread/NOTICE]: Player data not found for "inchir", creating new profile
+2015-10-01 [02:12:06] [Server thread/INFO]: inchir[/101.28.176.122:19132] logged in with entity id 157 at (world, 130, 66, 111)
+2015-10-01 [02:12:07] [Server thread/INFO]: inchir joined the game
+2015-10-01 [02:12:23] [Server thread/INFO]: inchir left the game
+2015-10-01 [02:12:23] [Server thread/INFO]: inchir[/101.28.176.122:19132] logged out due to client disconnect
+2015-10-01 [02:12:28] [Server thread/INFO]: inchir[/101.28.176.122:19132] logged in with entity id 158 at (world, 130, 66, 111)
+2015-10-01 [02:12:29] [Server thread/INFO]: inchir joined the game
+2015-10-01 [02:13:23] [Server thread/INFO]: <inchir> 有人吗
+2015-10-01 [02:13:43] [Server thread/INFO]: inchir left the game
+2015-10-01 [02:13:43] [Server thread/INFO]: inchir[/101.28.176.122:19132] logged out due to client disconnect
+2015-10-01 [02:17:30] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19262] logged in with entity id 159 at (world, 139.075, 65, 108.475)
+2015-10-01 [02:17:31] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [02:21:10] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [02:26:10] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [02:26:10] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19262] logged out due to client disconnect
+2015-10-01 [02:28:22] [Server thread/INFO]: power777888[/180.212.38.62:38327] logged in with entity id 161 at (world, 144.8065, 85.8735, 112.1138)
+2015-10-01 [02:28:23] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [02:28:58] [Server thread/INFO]: power777888 left the game
+2015-10-01 [02:28:58] [Server thread/INFO]: power777888[/180.212.38.62:38327] logged out due to timeout
+2015-10-01 [02:29:03] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19263] logged in with entity id 162 at (world, 134.3015, 64.0625, 92.2288)
+2015-10-01 [02:29:04] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [02:30:28] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [02:30:28] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19263] logged out due to client disconnect
+2015-10-01 [02:31:03] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19263] logged in with entity id 163 at (world, 130.5407, 66, 109.9801)
+2015-10-01 [02:31:04] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [02:31:09] [Server thread/INFO]: KEJY[/113.74.50.243:19132] logged in with entity id 164 at (world, 128.3469, 65, 116.005)
+2015-10-01 [02:31:10] [Server thread/INFO]: KEJY joined the game
+2015-10-01 [02:31:15] [Server thread/INFO]: KEJY was slain by xiao_jiong
+2015-10-01 [02:31:26] [Server thread/WARNING]: KEJY moved wrongly!
+2015-10-01 [02:31:38] [Server thread/INFO]: <KEJY> 别搞
+2015-10-01 [02:31:43] [Server thread/INFO]: <xiao_jiong> ok
+2015-10-01 [02:32:02] [Server thread/INFO]: <KEJY> 我是进来帮忙的
+2015-10-01 [02:32:13] [Server thread/INFO]: <KEJY> 腐竹呢
+2015-10-01 [02:32:21] [Server thread/INFO]: <xiao_jiong> 母鸡
+2015-10-01 [02:32:29] [Server thread/INFO]: <KEJY> 你那两人
+2015-10-01 [02:32:36] [Server thread/INFO]: <KEJY> 哪里人
+2015-10-01 [02:32:43] [Server thread/INFO]: <xiao_jiong> 我斗门
+2015-10-01 [02:32:57] [Server thread/INFO]: <KEJY> 我香洲的
+2015-10-01 [02:33:20] [Server thread/INFO]: <xiao_jiong> 下来
+2015-10-01 [02:33:25] [Server thread/INFO]: <xiao_jiong> 下来打村民
+2015-10-01 [02:33:31] [Server thread/INFO]: <KEJY> 看不到
+2015-10-01 [02:34:08] [Server thread/INFO]: <xiao_jiong> 很难下的
+2015-10-01 [02:34:43] [Server thread/INFO]: <xiao_jiong> 打
+2015-10-01 [02:34:46] [Server thread/INFO]: <xiao_jiong> 打村民
+2015-10-01 [02:35:23] [Server thread/INFO]: <KEJY> 你是妹子吗
+2015-10-01 [02:35:43] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [02:35:56] [Server thread/INFO]: <xiao_jiong> pig
+2015-10-01 [02:36:07] [Server thread/INFO]: <xiao_jiong> 是啊
+2015-10-01 [02:36:12] [Server thread/INFO]: <xiao_jiong> 是啊是啊
+2015-10-01 [02:36:14] [Server thread/INFO]: <KEJY> 哦
+2015-10-01 [02:36:39] [Server thread/INFO]: <KEJY> 你斗门那个学校
+2015-10-01 [02:37:04] [Server thread/INFO]: <xiao_jiong> 白蕉中心
+2015-10-01 [02:37:11] [Server thread/INFO]: <KEJY> 额。。。。。
+2015-10-01 [02:37:17] [Server thread/INFO]: <KEJY> 那个学校
+2015-10-01 [02:37:41] [Server thread/INFO]: <xiao_jiong> 小学
+2015-10-01 [02:37:50] [Server thread/INFO]: <KEJY> 好吧
+2015-10-01 [02:37:57] [Server thread/INFO]: <KEJY> 我中学的
+2015-10-01 [02:38:33] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [02:39:25] [Server thread/INFO]: KEJY left the game
+2015-10-01 [02:39:25] [Server thread/INFO]: KEJY[/113.74.50.243:19132] logged out due to client disconnect
+2015-10-01 [02:40:10] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [02:40:10] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19263] logged out due to client disconnect
+2015-10-01 [02:47:03] [Server thread/INFO]: This server is running PocketMine-MP 1.6dev-30 「[REDACTED]」 implementing API version 1.13.0 for Minecraft: PE v0.12.1 alpha (protocol version 34)
+2015-10-01 [02:47:11] [Server thread/INFO]: This server is running PocketMine-MP 1.6dev-30 「[REDACTED]」 implementing API version 1.13.0 for Minecraft: PE v0.12.1 alpha (protocol version 34)
+2015-10-01 [02:57:39] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19264] logged in with entity id 166 at (world, 130, 66, 111)
+2015-10-01 [02:57:40] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [03:02:11] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [03:05:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-10-01 [03:06:17] [Server thread/INFO]: [Server] 呵⃝呵⃝
+2015-10-01 [03:06:34] [Server thread/INFO]: <xiao_jiong> 谁啊
+2015-10-01 [03:06:55] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-10-01 [03:07:24] [Server thread/INFO]: [Server] 腐服主
+2015-10-01 [03:07:44] [Server thread/INFO]: [Server] 服主
+2015-10-01 [03:07:53] [Server thread/INFO]: <xiao_jiong> 在哪
+2015-10-01 [03:07:56] [Server thread/INFO]: <xiao_jiong> 粗来
+2015-10-01 [03:08:32] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-10-01 [03:08:45] [Server thread/INFO]: [Server] 用后台了
+2015-10-01 [03:09:04] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [03:09:04] [Server thread/INFO]: [CONSOLE: Killed xiao_jiong]
+2015-10-01 [03:09:16] [Server thread/INFO]: <xiao_jiong> 进来吧
+2015-10-01 [03:09:31] [Server thread/INFO]: [Server] e
+2015-10-01 [03:14:16] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [03:14:16] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19264] logged out due to timeout
+2015-10-01 [03:15:53] [Server thread/INFO]: power777888[/180.212.38.62:40808] logged in with entity id 167 at (world, 139.9654, 79.6235, 117.9837)
+2015-10-01 [03:15:54] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:16:01] [Server thread/INFO]: <power777888> hi
+2015-10-01 [03:17:26] [Server thread/INFO]: power777888 left the game
+2015-10-01 [03:17:26] [Server thread/INFO]: power777888[/180.212.38.62:40808] logged out due to timeout
+2015-10-01 [03:17:49] [Server thread/INFO]: power777888[/180.212.38.62:40808] logged in with entity id 170 at (world, 119.6779, 69.612, 115.576)
+2015-10-01 [03:17:50] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:18:14] [Server thread/INFO]: power777888 left the game
+2015-10-01 [03:18:14] [Server thread/INFO]: power777888[/180.212.38.62:40808] logged out due to timeout
+2015-10-01 [03:20:05] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19266] logged in with entity id 171 at (world, 121.925, 65, 109.352)
+2015-10-01 [03:20:06] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [03:20:25] [Server thread/INFO]: power777888[/180.212.38.62:40808] logged in with entity id 172 at (world, 155.8946, 66.326, 115.3998)
+2015-10-01 [03:20:26] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:26:07] [Server thread/INFO]: power777888 left the game
+2015-10-01 [03:26:07] [Server thread/INFO]: power777888[/180.212.38.62:40808] logged out due to timeout
+2015-10-01 [03:26:10] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [03:26:10] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19266] logged out due to client disconnect
+2015-10-01 [03:27:43] [Server thread/NOTICE]: Player data not found for "hedshen", creating new profile
+2015-10-01 [03:27:43] [Server thread/INFO]: HeDshen[/58.46.128.240:1823] logged in with entity id 173 at (world, 130, 66, 111)
+2015-10-01 [03:27:44] [Server thread/INFO]: HeDshen joined the game
+2015-10-01 [03:28:52] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19270] logged in with entity id 174 at (world, 155.8024, 64, 117.3215)
+2015-10-01 [03:28:53] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [03:29:04] [Server thread/INFO]: xiao_jiong was slain by HeDshen
+2015-10-01 [03:29:25] [Server thread/INFO]: <HeDshen> 对不起
+2015-10-01 [03:30:02] [Server thread/INFO]: xiao_jiong died
+2015-10-01 [03:31:11] [Server thread/INFO]: HeDshen left the game
+2015-10-01 [03:31:11] [Server thread/INFO]: HeDshen[/58.46.128.240:1823] logged out due to timeout
+2015-10-01 [03:32:31] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [03:32:31] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19270] logged out due to timeout
+2015-10-01 [03:33:55] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged in with entity id 175 at (world, 155.8946, 64, 115.3998)
+2015-10-01 [03:33:56] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:34:25] [Server thread/INFO]: power777888 left the game
+2015-10-01 [03:34:25] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged out due to timeout
+2015-10-01 [03:34:31] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged in with entity id 176 at (world, 142.763, 92.7485, 92.7884)
+2015-10-01 [03:34:32] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:39:44] [Server thread/INFO]: power777888 left the game
+2015-10-01 [03:39:44] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged out due to client disconnect
+2015-10-01 [03:39:56] [Server thread/INFO]: power77788[/180.212.38.62:43430] logged in with entity id 177 at (world, 127.3, 65, 108.2718)
+2015-10-01 [03:39:57] [Server thread/INFO]: power77788 joined the game
+2015-10-01 [03:40:46] [Server thread/INFO]: power77788 left the game
+2015-10-01 [03:40:46] [Server thread/INFO]: power77788[/180.212.38.62:43430] logged out due to client disconnect
+2015-10-01 [03:40:55] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged in with entity id 178 at (world, 125.3227, 69.1235, 113.5566)
+2015-10-01 [03:40:56] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:44:46] [Server thread/INFO]: power777888 left the game
+2015-10-01 [03:44:46] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged out due to timeout
+2015-10-01 [03:45:02] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged in with entity id 181 at (world, 150.2044, 90.6235, 132.048)
+2015-10-01 [03:45:03] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [03:46:40] [Server thread/INFO]: HeDshen[/58.46.128.240:3325] logged in with entity id 182 at (world, 117.538, 64.0937, 99.2694)
+2015-10-01 [03:46:41] [Server thread/INFO]: HeDshen joined the game
+2015-10-01 [03:46:45] [Server thread/INFO]: <power777888> hi
+2015-10-01 [03:46:56] [Server thread/INFO]: <HeDshen> hi
+2015-10-01 [03:47:34] [Server thread/INFO]: <power777888> 干嘛啊
+2015-10-01 [03:47:53] [Server thread/INFO]: <HeDshen> 做陷阱
+2015-10-01 [03:48:11] [Server thread/INFO]: [power777888: Set HeDshen's game mode to Adventure Mode]
+2015-10-01 [03:48:24] [Server thread/INFO]: HeDshen left the game
+2015-10-01 [03:48:24] [Server thread/INFO]: HeDshen[/58.46.128.240:3325] logged out due to client disconnect
+2015-10-01 [03:48:35] [Server thread/INFO]: HeDshen[/58.46.128.240:3325] logged in with entity id 183 at (world, 121.7719, 64, 144.8704)
+2015-10-01 [03:48:36] [Server thread/INFO]: HeDshen joined the game
+2015-10-01 [03:48:49] [Server thread/INFO]: <power777888> bu zuo xian jing
+2015-10-01 [03:49:01] [Server thread/INFO]: <HeDshen> w喔
+2015-10-01 [03:49:21] [Server thread/INFO]: <HeDshen> 那可以给我op吗
+2015-10-01 [03:49:27] [Server thread/INFO]: [power777888: Teleported HeDshen to power777888]
+2015-10-01 [03:49:29] [Server thread/INFO]: <power777888> no
+2015-10-01 [03:49:30] [Server thread/INFO]: HeDshen fell from a high place
+2015-10-01 [03:49:48] [Server thread/INFO]: <HeDshen> 为什么
+2015-10-01 [03:49:54] [Server thread/INFO]: <HeDshen> 为什么求你了
+2015-10-01 [03:49:59] [Server thread/INFO]: <HeDshen> 为什么求你了求你了
+2015-10-01 [03:49:59] [Server thread/INFO]: <power777888> gen wo zou
+2015-10-01 [03:50:17] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [03:51:14] [Server thread/INFO]: [power777888: Given Jump Boost (ID 8) * 255 to power777888 for 20 seconds]
+2015-10-01 [03:51:29] [Server thread/INFO]: <HeDshen> 可以给我op吗？求你了
+2015-10-01 [03:51:40] [Server thread/INFO]: [power777888: Given Jump Boost (ID 8) * 0 to power777888 for 50 seconds]
+2015-10-01 [03:52:28] [Server thread/INFO]: [power777888: Given Jump Boost (ID 8) * 50 to power777888 for 20 seconds]
+2015-10-01 [03:53:04] [Server thread/INFO]: <HeDshen> 求你了
+2015-10-01 [03:53:19] [Server thread/INFO]: <HeDshen> 给我op吗
+2015-10-01 [03:55:22] [Server thread/INFO]: HeDshen was shot by power777888
+2015-10-01 [03:55:39] [Server thread/INFO]: <power777888> what
+2015-10-01 [03:55:47] [Server thread/INFO]: <HeDshen> 你干嘛
+2015-10-01 [03:55:54] [Server thread/WARNING]: HeDshen moved wrongly!
+2015-10-01 [03:55:55] [Server thread/WARNING]: HeDshen moved wrongly!
+2015-10-01 [03:55:57] [Server thread/INFO]: <power777888> shi gong jian
+2015-10-01 [03:56:07] [Server thread/INFO]: <HeDshen> wo
+2015-10-01 [03:56:28] [Server thread/INFO]: <HeDshen> ni ke yi gei wo op ma
+2015-10-01 [03:56:36] [Server thread/INFO]: <power777888> no
+2015-10-01 [03:56:41] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19273] logged in with entity id 224 at (world, 123.8491, 68, 113.7706)
+2015-10-01 [03:56:42] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [03:56:46] [Server thread/INFO]: <power777888> hi
+2015-10-01 [03:57:03] [Server thread/WARNING]: xiao_jiong moved wrongly!
+2015-10-01 [03:57:25] [Server thread/INFO]: HeDshen left the game
+2015-10-01 [03:57:25] [Server thread/INFO]: HeDshen[/58.46.128.240:3325] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-10-01 [03:57:40] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [03:57:40] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19273] logged out due to client disconnect
+2015-10-01 [03:58:13] [Server thread/INFO]: HeDshen[/58.46.128.240:3325] logged in with entity id 245 at (world, 133.5218, 66.0244, 101.925)
+2015-10-01 [03:58:14] [Server thread/INFO]: HeDshen joined the game
+2015-10-01 [03:58:34] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19273] logged in with entity id 246 at (world, 130.1248, 64.0625, 95.7109)
+2015-10-01 [03:58:35] [Server thread/INFO]: xiao_jiong joined the game
+2015-10-01 [03:58:53] [Server thread/INFO]: <xiao_jiong> 求创造
+2015-10-01 [03:59:12] [Server thread/INFO]: <HeDshen> 求创造
+2015-10-01 [03:59:15] [Server thread/INFO]: xiao_jiong left the game
+2015-10-01 [03:59:15] [Server thread/INFO]: xiao_jiong[/113.103.133.113:19273] logged out due to client disconnect
+2015-10-01 [04:00:09] [Server thread/INFO]: <HeDshen> 我退服了
+2015-10-01 [04:00:10] [Server thread/INFO]: <power777888> yx_kqq qun?
+2015-10-01 [04:00:27] [Server thread/INFO]: <HeDshen> 什么意思
+2015-10-01 [04:00:46] [Server thread/INFO]: <power777888> yx的Qq
+2015-10-01 [04:00:47] [Server thread/INFO]: <HeDshen> 求创造
+2015-10-01 [04:00:50] [Server thread/INFO]: <power777888> 群
+2015-10-01 [04:01:00] [Server thread/INFO]: <HeDshen> 干嘛
+2015-10-01 [04:01:04] [Server thread/INFO]: <power777888> haoba
+2015-10-01 [04:01:39] [Server thread/INFO]: [power777888: Set HeDshen's game mode to Creative Mode]
+2015-10-01 [04:01:50] [Server thread/INFO]: <HeDshen> 谢谢
+2015-10-01 [04:02:12] [Server thread/INFO]: <power777888> bukeqi
+2015-10-01 [04:02:41] [Server thread/INFO]: <HeDshen> 等下我加你好友
+2015-10-01 [04:02:47] [Server thread/INFO]: <HeDshen> 等下我加你好友可以吗
+2015-10-01 [04:03:11] [Server thread/INFO]: <power777888> ky
+2015-10-01 [04:03:20] [Server thread/INFO]: <HeDshen> en
+2015-10-01 [04:04:13] [Server thread/INFO]: <HeDshen> 你几年级了呀？
+2015-10-01 [04:04:43] [Server thread/INFO]: <power777888> 不能熊地图
+2015-10-01 [04:05:12] [Server thread/INFO]: <HeDshen> e
+2015-10-01 [04:05:37] [Server thread/INFO]: <power777888> 呵呵
+2015-10-01 [04:05:41] [Server thread/INFO]: <HeDshen> e算了，你不想说就不说吧
+2015-10-01 [04:06:18] [Server thread/INFO]: <HeDshen> 怎么打颜色的字啊
+2015-10-01 [04:06:20] [Server thread/INFO]: <power777888> 滑稽
+2015-10-01 [04:06:38] [Server thread/INFO]: <power777888> 需要
+2015-10-01 [04:06:43] [Server thread/INFO]: <HeDshen> 怎么打颜色的字啊教一下我
+2015-10-01 [04:06:54] [Server thread/INFO]: <power777888> op
+2015-10-01 [04:07:04] [Server thread/INFO]: <HeDshen> 额
+2015-10-01 [04:07:05] [Server thread/INFO]: <power777888> 
+2015-10-01 [04:07:13] [Server thread/INFO]: <power777888> 
+2015-10-01 [04:07:16] [Server thread/INFO]: <HeDshen> 额我现在不是op吗
+2015-10-01 [04:07:39] [Server thread/INFO]: <power777888> 额
+2015-10-01 [04:07:44] [Server thread/INFO]: <HeDshen> time ste 0
+2015-10-01 [04:08:27] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [04:08:29] [Server thread/INFO]: <HeDshen> 喂，在吗
+2015-10-01 [04:08:38] [Server thread/INFO]: <power777888> zai
+2015-10-01 [04:08:54] [Server thread/INFO]: <HeDshen> 我不是op吗
+2015-10-01 [04:10:33] [Server thread/INFO]: HeDshen left the game
+2015-10-01 [04:10:33] [Server thread/INFO]: HeDshen[/58.46.128.240:3325] logged out due to timeout
+2015-10-01 [04:10:59] [Server thread/INFO]: power777888 left the game
+2015-10-01 [04:10:59] [Server thread/INFO]: power777888[/180.212.38.62:43430] logged out due to timeout
+2015-10-01 [04:14:09] [Server thread/NOTICE]: Player data not found for "nathan_gao", creating new profile
+2015-10-01 [04:14:09] [Server thread/INFO]: Nathan_Gao[/123.116.106.60:19132] logged in with entity id 275 at (world, 130, 66, 111)
+2015-10-01 [04:14:10] [Server thread/INFO]: Nathan_Gao joined the game
+2015-10-01 [04:16:22] [Server thread/INFO]: Nathan_Gao left the game
+2015-10-01 [04:16:22] [Server thread/INFO]: Nathan_Gao[/123.116.106.60:19132] logged out due to client disconnect
+2015-10-01 [04:17:48] [Server thread/NOTICE]: Player data not found for "wrbzk", creating new profile
+2015-10-01 [04:17:48] [Server thread/INFO]: wrbzk[/113.103.133.113:19132] logged in with entity id 276 at (world, 130, 66, 111)
+2015-10-01 [04:17:49] [Server thread/INFO]: wrbzk joined the game
+2015-10-01 [04:36:46] [Server thread/INFO]: wrbzk left the game
+2015-10-01 [04:36:46] [Server thread/INFO]: wrbzk[/113.103.133.113:19132] logged out due to timeout
+2015-10-01 [06:45:15] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-10-01 [06:45:15] [Server thread/INFO]: /addwarp: Add new warps.
+2015-10-01 [06:45:15] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-10-01 [06:45:15] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-10-01 [06:45:15] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-10-01 [06:45:15] [Server thread/INFO]: /closewarp: Close existing warps.
+2015-10-01 [06:45:15] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-10-01 [06:45:15] [Server thread/INFO]: /delwarp: Delete existing warps.
+2015-10-01 [06:45:15] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-10-01 [06:45:15] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-10-01 [06:45:15] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-10-01 [06:45:15] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-10-01 [06:45:15] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-10-01 [06:45:15] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-10-01 [06:45:15] [Server thread/INFO]: /help: Shows the help menu
+2015-10-01 [06:45:15] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-10-01 [06:45:15] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-10-01 [06:45:15] [Server thread/INFO]: /list: Lists all online players
+2015-10-01 [06:45:15] [Server thread/INFO]: /listwarps: List all your warps.
+2015-10-01 [06:45:15] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-10-01 [06:45:15] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-10-01 [06:45:15] [Server thread/INFO]: /openwarp: Open existing warps.
+2015-10-01 [06:45:15] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-10-01 [06:45:15] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-10-01 [06:45:15] [Server thread/INFO]: /particle: Adds particles to a world
+2015-10-01 [06:45:15] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-10-01 [06:45:15] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-10-01 [06:45:15] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-10-01 [06:45:15] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-10-01 [06:45:15] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-10-01 [06:45:15] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-10-01 [06:45:15] [Server thread/INFO]: /seed: Shows the world seed
+2015-10-01 [06:45:15] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-10-01 [06:45:15] [Server thread/INFO]: /signdoctor: 
+2015-10-01 [06:45:15] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-10-01 [06:45:15] [Server thread/INFO]: /stop: Stops the server
+2015-10-01 [06:45:15] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-10-01 [06:45:15] [Server thread/INFO]: /time: Changes the time on each world
+2015-10-01 [06:45:15] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-10-01 [06:45:15] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-10-01 [06:45:15] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-10-01 [06:45:15] [Server thread/INFO]: /warp: Warp around your world.
+2015-10-01 [06:45:15] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-10-01 [06:47:20] [Server thread/INFO]: [/180.212.38.62:37785] logged out due to Login timeout
+2015-10-01 [06:54:28] [Server thread/INFO]: power777888[/180.212.38.62:46515] logged in with entity id 277 at (world, 157.4611, 64, 118.7435)
+2015-10-01 [06:54:29] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [06:54:43] [Server thread/INFO]: power777888 left the game
+2015-10-01 [06:54:43] [Server thread/INFO]: power777888[/180.212.38.62:46515] logged out due to client disconnect
+2015-10-01 [06:55:56] [Server thread/INFO]: power77788[/180.212.38.62:46515] logged in with entity id 278 at (world, 153.2875, 78.155, 118.032)
+2015-10-01 [06:55:57] [Server thread/INFO]: power77788 joined the game
+2015-10-01 [06:57:17] [Server thread/INFO]: power77788 left the game
+2015-10-01 [06:57:17] [Server thread/INFO]: power77788[/180.212.38.62:46515] logged out due to client disconnect
+2015-10-01 [06:57:44] [Server thread/NOTICE]: Player data not found for "power777", creating new profile
+2015-10-01 [06:57:44] [Server thread/INFO]: power777[/180.212.38.62:46515] logged in with entity id 279 at (world, 130, 66, 111)
+2015-10-01 [06:57:45] [Server thread/INFO]: power777 joined the game
+2015-10-01 [06:59:53] [Server thread/INFO]: power777 left the game
+2015-10-01 [06:59:53] [Server thread/INFO]: power777[/180.212.38.62:46515] logged out due to client disconnect
+2015-10-01 [07:01:51] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-10-01 [07:01:51] [Server thread/INFO]: Saving levels...
+2015-10-01 [07:01:51] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-01 [07:01:51] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-01 [07:01:51] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-01 [07:01:51] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-01 [07:01:51] [Server thread/INFO]: Reloading properties...
+2015-10-01 [07:01:51] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-01 [07:01:51] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-01 [07:01:51] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-01 [07:01:51] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-01 [07:01:51] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-01 [07:01:51] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-01 [07:01:51] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-01 [07:01:52] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-10-01 [07:02:04] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-01 [07:02:04] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-01 [07:02:04] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-01 [07:02:04] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-01 [07:02:04] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-01 [07:02:04] [Server thread/INFO]: Unloading level "world"
+2015-10-01 [07:02:04] [Server thread/INFO]: Stopping other threads
+2015-10-01 [07:02:06] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-01 [07:02:06] [Server thread/INFO]: Loading server properties...
+2015-10-01 [07:02:06] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-01 [07:02:06] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-01 [07:02:06] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-01 [07:02:06] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-01 [07:02:06] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-01 [07:02:07] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-01 [07:02:07] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-01 [07:02:07] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-01 [07:02:07] [Server thread/INFO]: Preparing level "world"
+2015-10-01 [07:02:07] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-01 [07:02:07] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-01 [07:02:07] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-01 [07:02:07] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-01 [07:02:07] [Server thread/INFO]: Starting GS4 status listener
+2015-10-01 [07:02:07] [Server thread/INFO]: Setting query port to 19132
+2015-10-01 [07:02:07] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-01 [07:02:07] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-01 [07:02:07] [Server thread/INFO]: Done (0.623s)! For help, type "help" or "?"
+2015-10-01 [07:03:15] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-10-01 [07:03:15] [Server thread/INFO]: Saving levels...
+2015-10-01 [07:03:15] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-01 [07:03:15] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-01 [07:03:15] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-01 [07:03:15] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-01 [07:03:15] [Server thread/INFO]: Reloading properties...
+2015-10-01 [07:03:15] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-01 [07:03:15] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-01 [07:03:15] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-01 [07:03:15] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-01 [07:03:15] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-01 [07:03:15] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-01 [07:03:15] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-01 [07:03:15] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-10-01 [07:03:24] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-01 [07:03:24] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-01 [07:03:24] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-01 [07:03:24] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-01 [07:03:24] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-01 [07:03:24] [Server thread/INFO]: Unloading level "world"
+2015-10-01 [07:03:25] [Server thread/INFO]: Stopping other threads
+2015-10-01 [07:03:27] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-01 [07:03:27] [Server thread/INFO]: Loading server properties...
+2015-10-01 [07:03:27] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-01 [07:03:27] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-01 [07:03:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-01 [07:03:27] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-01 [07:03:27] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-01 [07:03:27] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-01 [07:03:27] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-01 [07:03:27] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-01 [07:03:28] [Server thread/INFO]: Preparing level "world"
+2015-10-01 [07:03:28] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-01 [07:03:28] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-01 [07:03:28] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-01 [07:03:28] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-01 [07:03:28] [Server thread/INFO]: Starting GS4 status listener
+2015-10-01 [07:03:28] [Server thread/INFO]: Setting query port to 19132
+2015-10-01 [07:03:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-01 [07:03:28] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-01 [07:03:28] [Server thread/INFO]: Done (0.655s)! For help, type "help" or "?"
+2015-10-01 [07:03:58] [Server thread/INFO]: power777888[/180.212.38.62:46515] logged in with entity id 1 at (world, 157.2511, 87.311, 106.4775)
+2015-10-01 [07:03:59] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [07:04:06] [Server thread/INFO]: power777888 left the game
+2015-10-01 [07:04:06] [Server thread/INFO]: power777888[/180.212.38.62:46515] logged out due to client disconnect
+2015-10-01 [07:04:22] [Server thread/NOTICE]: Player data not found for "power7778", creating new profile
+2015-10-01 [07:04:22] [Server thread/INFO]: power7778[/180.212.38.62:46515] logged in with entity id 5 at (world, 130, 66, 111)
+2015-10-01 [07:04:22] [Server thread/INFO]: power7778[/180.212.38.62:46515] logged out due to client disconnect
+2015-10-01 [07:04:26] [Server thread/INFO]: power7778[/180.212.38.62:46515] logged in with entity id 6 at (world, 130, 66, 111)
+2015-10-01 [07:04:27] [Server thread/INFO]: power7778 joined the game
+2015-10-01 [07:04:36] [Server thread/INFO]: power7778 left the game
+2015-10-01 [07:04:36] [Server thread/INFO]: power7778[/180.212.38.62:46515] logged out due to client disconnect
+2015-10-01 [07:15:29] [Server thread/INFO]: power777888[/180.212.38.62:45786] logged in with entity id 7 at (world, 158.224, 70.2883, 113.4361)
+2015-10-01 [07:15:30] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [07:20:05] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-01 [07:21:28] [Server thread/INFO]: power777888 left the game
+2015-10-01 [07:21:28] [Server thread/INFO]: power777888[/180.212.38.62:45786] logged out due to client disconnect
+2015-10-01 [08:54:25] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-01 [08:54:25] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-01 [08:54:25] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-01 [08:54:25] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-01 [08:54:25] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-01 [08:54:25] [Server thread/INFO]: Unloading level "world"
+2015-10-01 [08:54:30] [Server thread/INFO]: Stopping other threads
+2015-10-01 [08:54:32] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-01 [08:54:32] [Server thread/INFO]: Loading server properties...
+2015-10-01 [08:54:32] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-01 [08:54:32] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-01 [08:54:32] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-01 [08:54:32] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-01 [08:54:32] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-01 [08:54:33] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-01 [08:54:33] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-01 [08:54:33] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-01 [08:54:33] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-01 [08:54:33] [Server thread/INFO]: Preparing level "world"
+2015-10-01 [08:54:33] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-01 [08:54:33] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-01 [08:54:33] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-01 [08:54:33] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-01 [08:54:33] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-01 [08:54:33] [Server thread/INFO]: Starting GS4 status listener
+2015-10-01 [08:54:33] [Server thread/INFO]: Setting query port to 19132
+2015-10-01 [08:54:33] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-01 [08:54:33] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-01 [08:54:33] [Server thread/INFO]: Done (0.652s)! For help, type "help" or "?"
+2015-10-01 [20:18:35] [Server thread/INFO]: yx_k[/218.13.189.246:13605] logged in with entity id 3 at (world, 147.9988, 83.8735, 115.9411)
+2015-10-01 [20:18:36] [Server thread/INFO]: yx_k joined the game
+2015-10-01 [20:21:58] [Server thread/INFO]: yx_k left the game
+2015-10-01 [20:21:58] [Server thread/INFO]: yx_k[/218.13.189.246:13605] logged out due to client disconnect
+2015-10-01 [20:42:05] [Server thread/INFO]: power777888[/180.212.38.62:41134] logged in with entity id 5 at (world, 143.1835, 78.6632, 112.4143)
+2015-10-01 [20:42:06] [Server thread/INFO]: power777888 joined the game
+2015-10-01 [20:48:40] [Server thread/INFO]: power777888 left the game
+2015-10-01 [20:48:40] [Server thread/INFO]: power777888[/180.212.38.62:41134] logged out due to timeout
+2015-10-01 [21:04:05] [Server thread/INFO]: inchir[/106.117.177.87:14025] logged in with entity id 6 at (world, 129.6721, 66, 110.2987)
+2015-10-01 [21:04:06] [Server thread/INFO]: inchir joined the game
+2015-10-01 [21:05:57] [Server thread/INFO]: inchir left the game
+2015-10-01 [21:05:57] [Server thread/INFO]: inchir[/106.117.177.87:14025] logged out due to timeout
+2015-10-01 [23:32:15] [Server thread/NOTICE]: Player data not found for "blg", creating new profile
+2015-10-01 [23:32:15] [Server thread/INFO]: blg[/120.68.50.55:9572] logged in with entity id 16 at (world, 130, 66, 111)
+2015-10-01 [23:32:16] [Server thread/INFO]: blg joined the game
+2015-10-01 [23:32:32] [Server thread/INFO]: <blg> 谁在
+2015-10-01 [23:32:38] [Server thread/INFO]: <blg> 我是狮子
+2015-10-01 [23:32:57] [Server thread/INFO]: blg left the game
+2015-10-01 [23:32:57] [Server thread/INFO]: blg[/120.68.50.55:9572] logged out due to client disconnect
+2015-10-01 [23:34:30] [Server thread/NOTICE]: Player data not found for "lly", creating new profile
+2015-10-01 [23:34:30] [Server thread/INFO]: LLY[/49.115.217.44:19132] logged in with entity id 17 at (world, 130, 66, 111)
+2015-10-01 [23:34:31] [Server thread/INFO]: LLY joined the game
+2015-10-01 [23:36:49] [Server thread/INFO]: blg[/120.68.50.55:9572] logged in with entity id 18 at (world, 132.2046, 66, 109.982)
+2015-10-01 [23:36:50] [Server thread/INFO]: blg joined the game
+2015-10-01 [23:38:05] [Server thread/INFO]: blg left the game
+2015-10-01 [23:38:05] [Server thread/INFO]: blg[/120.68.50.55:9572] logged out due to timeout
+2015-10-01 [23:40:04] [Server thread/INFO]: <LLY> sjdjkzizis
+2015-10-01 [23:40:06] [Server thread/INFO]: <LLY> jsjsjisis
+2015-10-01 [23:40:10] [Server thread/INFO]: <LLY> sksiidjsjsj
+2015-10-01 [23:40:12] [Server thread/INFO]: <LLY> ajsnmszmkdmsndijxd
+2015-10-01 [23:40:23] [Server thread/INFO]: LLY left the game
+2015-10-01 [23:40:23] [Server thread/INFO]: LLY[/49.115.217.44:19132] logged out due to client disconnect
+2015-10-01 [23:44:58] [Server thread/INFO]: blg[/120.68.50.55:9572] logged in with entity id 19 at (world, 152.3832, 64, 116.0771)
+2015-10-01 [23:44:59] [Server thread/INFO]: blg joined the game
+2015-10-01 [23:46:33] [Server thread/INFO]: blg left the game
+2015-10-01 [23:46:33] [Server thread/INFO]: blg[/120.68.50.55:9572] logged out due to client disconnect
+2015-10-01 [23:54:28] [Server thread/INFO]: HeDshen[/175.3.112.108:21163] logged in with entity id 20 at (world, 134.8639, 84.0382, 108.2573)
+2015-10-01 [23:54:29] [Server thread/INFO]: HeDshen joined the game
+2015-10-01 [23:54:40] [Server thread/INFO]: HeDshen left the game
+2015-10-01 [23:54:40] [Server thread/INFO]: HeDshen[/175.3.112.108:21163] logged out due to timeout
+2015-10-02 [00:21:25] [Server thread/INFO]: Kejy[/125.89.19.23:19132] logged in with entity id 21 at (world, 135.1198, 65, 109.6636)
+2015-10-02 [00:21:26] [Server thread/INFO]: Kejy joined the game
+2015-10-02 [00:26:27] [Server thread/INFO]: Kejy left the game
+2015-10-02 [00:26:27] [Server thread/INFO]: Kejy[/125.89.19.23:19132] logged out due to client disconnect
+2015-10-02 [00:37:26] [Server thread/INFO]: Kejy[/125.89.19.23:19132] logged in with entity id 22 at (world, 133.5782, 65, 113.0864)
+2015-10-02 [00:37:27] [Server thread/INFO]: Kejy joined the game
+2015-10-02 [00:37:31] [Server thread/INFO]: Kejy left the game
+2015-10-02 [00:37:31] [Server thread/INFO]: Kejy[/125.89.19.23:19132] logged out due to client disconnect
+2015-10-02 [01:06:38] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged in with entity id 23 at (world, 155.7532, 87, 114.99)
+2015-10-02 [01:06:39] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [01:06:53] [Server thread/INFO]: power777888 left the game
+2015-10-02 [01:06:53] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged out due to timeout
+2015-10-02 [01:07:09] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged in with entity id 24 at (world, 155.7532, 64, 114.99)
+2015-10-02 [01:07:09] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [01:09:00] [Server thread/INFO]: power777888 left the game
+2015-10-02 [01:09:00] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged out due to client disconnect
+2015-10-02 [01:09:04] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged in with entity id 47 at (world, 157.2783, 86.1719, 114.6687)
+2015-10-02 [01:09:04] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [01:12:14] [Server thread/INFO]: power777888 left the game
+2015-10-02 [01:12:14] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged out due to client disconnect
+2015-10-02 [01:12:17] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged in with entity id 75 at (world, 148.0119, 80.7991, 119.7576)
+2015-10-02 [01:12:18] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [01:14:08] [Server thread/INFO]: power777888 left the game
+2015-10-02 [01:14:08] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged out due to timeout
+2015-10-02 [01:14:31] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged in with entity id 86 at (world, 123.533, 80.4133, 116.346)
+2015-10-02 [01:14:32] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [01:14:40] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-02 [01:15:02] [Server thread/INFO]: <power777888> Player VS Player
+2015-10-02 [01:20:31] [Server thread/INFO]: blg[/120.68.50.55:16494] logged in with entity id 87 at (world, 125.7, 65, 114.7)
+2015-10-02 [01:20:32] [Server thread/INFO]: blg joined the game
+2015-10-02 [01:20:36] [Server thread/INFO]: <power777888> hi
+2015-10-02 [01:20:47] [Server thread/INFO]: <blg> hi
+2015-10-02 [01:20:59] [Server thread/INFO]: <blg> 我是狮子
+2015-10-02 [01:21:04] [Server thread/INFO]: <power777888> o
+2015-10-02 [01:21:53] [Server thread/INFO]: <blg> cao
+2015-10-02 [01:22:05] [Server thread/INFO]: <power777888> ka
+2015-10-02 [01:22:06] [Server thread/INFO]: <blg> 能不能给op
+2015-10-02 [01:22:10] [Server thread/INFO]: <power777888> no
+2015-10-02 [01:22:21] [Server thread/INFO]: <blg> 好吧
+2015-10-02 [01:22:22] [Server thread/INFO]: <power777888> 啊啊啊
+2015-10-02 [01:22:27] [Server thread/INFO]: <power777888> 卡
+2015-10-02 [01:22:31] [Server thread/INFO]: <blg> ...
+2015-10-02 [01:22:56] [Server thread/INFO]: <blg> 我也卡了
+2015-10-02 [01:23:15] [Server thread/WARNING]: blg moved wrongly!
+2015-10-02 [01:23:52] [Server thread/INFO]: power777888 left the game
+2015-10-02 [01:23:52] [Server thread/INFO]: power777888[/111.160.114.146:25125] logged out due to timeout
+2015-10-02 [01:24:01] [Server thread/INFO]: blg left the game
+2015-10-02 [01:24:01] [Server thread/INFO]: blg[/120.68.50.55:16494] logged out due to client disconnect
+2015-10-02 [01:25:14] [Server thread/INFO]: blg[/120.68.50.55:16494] logged in with entity id 88 at (world, 146.7684, 64, 111.745)
+2015-10-02 [01:25:14] [Server thread/INFO]: blg joined the game
+2015-10-02 [01:25:27] [Server thread/WARNING]: blg moved wrongly!
+2015-10-02 [01:26:14] [Server thread/INFO]: blg left the game
+2015-10-02 [01:26:14] [Server thread/INFO]: blg[/120.68.50.55:16494] logged out due to client disconnect
+2015-10-02 [01:27:35] [Server thread/INFO]: blg[/120.68.50.55:16494] logged in with entity id 89 at (world, 128.5027, 65, 103.5492)
+2015-10-02 [01:27:36] [Server thread/INFO]: blg joined the game
+2015-10-02 [01:27:57] [Server thread/INFO]: yx_k[/218.13.189.246:27959] logged in with entity id 90 at (world, 145.6312, 64, 111.5607)
+2015-10-02 [01:27:58] [Server thread/INFO]: yx_k joined the game
+2015-10-02 [01:28:49] [Server thread/INFO]: <blg> 干啥群主
+2015-10-02 [01:30:29] [Server thread/INFO]: <blg> 我要自杀
+2015-10-02 [01:30:51] [Server thread/INFO]: <yx_k> 自杀，我来帮你
+2015-10-02 [01:30:59] [Server thread/INFO]: <blg> 嗯
+2015-10-02 [01:31:02] [Server thread/INFO]: blg was slain by yx_k
+2015-10-02 [01:33:12] [Server thread/INFO]: <blg> 这服没意思
+2015-10-02 [01:33:21] [Server thread/INFO]: <yx_k>  才知道啊！
+2015-10-02 [01:33:28] [Server thread/INFO]: <blg> 嗯
+2015-10-02 [01:33:37] [Server thread/INFO]: <blg> 我等等再来
+2015-10-02 [01:33:39] [Server thread/INFO]: blg left the game
+2015-10-02 [01:33:39] [Server thread/INFO]: blg[/120.68.50.55:16494] logged out due to client disconnect
+2015-10-02 [01:33:43] [Server thread/INFO]: yx_k left the game
+2015-10-02 [01:33:43] [Server thread/INFO]: yx_k[/218.13.189.246:27959] logged out due to client disconnect
+2015-10-02 [01:34:51] [Server thread/INFO]: blg[/120.68.50.55:16494] logged in with entity id 91 at (world, 129.5078, 66, 110.2561)
+2015-10-02 [01:34:52] [Server thread/INFO]: blg joined the game
+2015-10-02 [01:35:25] [Server thread/INFO]: blg left the game
+2015-10-02 [01:35:25] [Server thread/INFO]: blg[/120.68.50.55:16494] logged out due to client disconnect
+2015-10-02 [04:42:49] [Server thread/INFO]: wrbzk[/183.33.167.103:19348] logged in with entity id 92 at (world, 123.6038, 68.6884, 108.2299)
+2015-10-02 [04:42:50] [Server thread/INFO]: wrbzk joined the game
+2015-10-02 [04:43:20] [Server thread/INFO]: wrbzk left the game
+2015-10-02 [04:43:20] [Server thread/INFO]: wrbzk[/183.33.167.103:19348] logged out due to client disconnect
+2015-10-02 [05:58:16] [Server thread/INFO]: doubi_jun [/113.95.48.175:18092] logged out due to Invalid name!
+2015-10-02 [05:58:29] [Server thread/INFO]: doubi_jun [/113.95.48.175:18092] logged out due to Invalid name!
+2015-10-02 [05:58:40] [Server thread/NOTICE]: Player data not found for "doubi_jun", creating new profile
+2015-10-02 [05:58:40] [Server thread/INFO]: doubi_jun[/113.95.48.175:18092] logged in with entity id 93 at (world, 130, 66, 111)
+2015-10-02 [05:58:41] [Server thread/INFO]: doubi_jun joined the game
+2015-10-02 [06:05:14] [Server thread/INFO]: doubi_jun left the game
+2015-10-02 [06:05:14] [Server thread/INFO]: doubi_jun[/113.95.48.175:18092] logged out due to timeout
+2015-10-02 [06:05:36] [Server thread/INFO]: doubi_jun[/113.95.48.175:18092] logged in with entity id 94 at (world, 129.0199, 66, 109.2379)
+2015-10-02 [06:05:37] [Server thread/INFO]: doubi_jun joined the game
+2015-10-02 [06:05:59] [Server thread/INFO]: Kejy[/125.89.19.23:56975] logged in with entity id 95 at (world, 132.7369, 65.5005, 112.1019)
+2015-10-02 [06:06:00] [Server thread/INFO]: Kejy joined the game
+2015-10-02 [06:06:29] [Server thread/INFO]: <Kejy> 不要
+2015-10-02 [06:06:50] [Server thread/INFO]: doubi_jun left the game
+2015-10-02 [06:06:50] [Server thread/INFO]: doubi_jun[/113.95.48.175:18092] logged out due to timeout
+2015-10-02 [06:06:58] [Server thread/INFO]: doubi_jun[/113.95.48.175:18092] logged in with entity id 96 at (world, 129.3836, 67.5, 106.4134)
+2015-10-02 [06:06:59] [Server thread/INFO]: doubi_jun joined the game
+2015-10-02 [06:07:40] [Server thread/INFO]: <doubi_jun> 哈喽你还在下面
+2015-10-02 [06:08:28] [Server thread/INFO]: <Kejy> 好卡
+2015-10-02 [06:09:12] [Server thread/INFO]: <Kejy> 不要挡住
+2015-10-02 [06:09:25] [Server thread/INFO]: doubi_jun was slain by Kejy
+2015-10-02 [06:09:36] [Server thread/INFO]: doubi_jun left the game
+2015-10-02 [06:09:36] [Server thread/INFO]: doubi_jun[/113.95.48.175:18092] logged out due to timeout
+2015-10-02 [06:12:15] [Server thread/INFO]: Kejy left the game
+2015-10-02 [06:12:15] [Server thread/INFO]: Kejy[/125.89.19.23:56975] logged out due to client disconnect
+2015-10-02 [06:16:10] [Server thread/INFO]: power777888[/106.187.34.249:19132] logged in with entity id 97 at (world, 156.3442, 72.3886, 106.0035)
+2015-10-02 [06:16:11] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [06:16:24] [Server thread/INFO]: power777888 left the game
+2015-10-02 [06:16:24] [Server thread/INFO]: power777888[/106.187.34.249:19132] logged out due to timeout
+2015-10-02 [06:33:47] [Server thread/INFO]: doubi_jun[/113.95.48.175:18399] logged in with entity id 98 at (world, 126.4971, 66.5, 107.6773)
+2015-10-02 [06:33:48] [Server thread/INFO]: doubi_jun joined the game
+2015-10-02 [06:34:01] [Server thread/WARNING]: doubi_jun moved wrongly!
+2015-10-02 [06:35:31] [Server thread/INFO]: doubi_jun left the game
+2015-10-02 [06:35:31] [Server thread/INFO]: doubi_jun[/113.95.48.175:18399] logged out due to timeout
+2015-10-02 [08:13:35] [Server thread/INFO]: wrbzk[/113.103.132.201:19352] logged in with entity id 99 at (world, 127.5922, 65, 109.1353)
+2015-10-02 [08:13:36] [Server thread/INFO]: wrbzk joined the game
+2015-10-02 [08:15:09] [Server thread/INFO]: wrbzk left the game
+2015-10-02 [08:15:09] [Server thread/INFO]: wrbzk[/113.103.132.201:19352] logged out due to client disconnect
+2015-10-02 [08:17:19] [Server thread/INFO]: Kejy[/125.89.19.23:33764] logged in with entity id 100 at (world, 124.3841, 61, 110.7576)
+2015-10-02 [08:17:20] [Server thread/INFO]: Kejy joined the game
+2015-10-02 [08:19:07] [Server thread/INFO]: Kejy left the game
+2015-10-02 [08:19:07] [Server thread/INFO]: Kejy[/125.89.19.23:33764] logged out due to client disconnect
+2015-10-02 [08:25:02] [Server thread/INFO]: Kejy[/125.89.19.23:19132] logged in with entity id 101 at (world, 129.6079, 64.0625, 94.2557)
+2015-10-02 [08:25:03] [Server thread/INFO]: Kejy joined the game
+2015-10-02 [08:26:05] [Server thread/INFO]: Kejy left the game
+2015-10-02 [08:26:05] [Server thread/INFO]: Kejy[/125.89.19.23:19132] logged out due to client disconnect
+2015-10-02 [09:14:26] [Server thread/INFO]: sky[/180.212.38.62:37684] logged in with entity id 102 at (world, 131, 66, 111)
+2015-10-02 [09:14:27] [Server thread/INFO]: sky joined the game
+2015-10-02 [09:14:51] [Server thread/INFO]: <sky> e
+2015-10-02 [09:15:06] [Server thread/INFO]: sky left the game
+2015-10-02 [09:15:06] [Server thread/INFO]: sky[/180.212.38.62:37684] logged out due to client disconnect
+2015-10-02 [09:38:48] [Server thread/INFO]: power777888[/180.212.38.62:33872] logged in with entity id 103 at (world, 156.3442, 64, 106.0035)
+2015-10-02 [09:38:49] [Server thread/INFO]: power777888 joined the game
+2015-10-02 [09:39:13] [Server thread/INFO]: <power777888> r
+2015-10-02 [09:39:24] [Server thread/INFO]: <power777888> Player
+2015-10-02 [09:41:00] [Server thread/INFO]: power777888 left the game
+2015-10-02 [09:41:00] [Server thread/INFO]: power777888[/180.212.38.62:33872] logged out due to client disconnect
+2015-10-02 [09:41:46] [Server thread/INFO]: wrbzk[/113.103.132.201:19132] logged in with entity id 104 at (world, 144.2652, 75.8715, 96.0816)
+2015-10-02 [09:41:47] [Server thread/INFO]: wrbzk joined the game
+2015-10-02 [09:44:30] [Server thread/INFO]: wrbzk died
+2015-10-02 [09:47:59] [Server thread/INFO]: <wrbzk> 腐竹
+2015-10-02 [09:58:22] [Server thread/INFO]: <wrbzk> mkill
+2015-10-02 [09:58:26] [Server thread/INFO]: wrbzk died
+2015-10-02 [09:58:31] [Server thread/INFO]: wrbzk left the game
+2015-10-02 [09:58:31] [Server thread/INFO]: wrbzk[/113.103.132.201:19132] logged out due to client disconnect
+2015-10-02 [13:47:22] [Server thread/INFO]: wrbzk[/113.103.132.201:19511] logged in with entity id 195 at (world, 130, 66, 111)
+2015-10-02 [13:47:23] [Server thread/INFO]: wrbzk joined the game
+2015-10-02 [13:47:26] [Server thread/INFO]: wrbzk left the game
+2015-10-02 [13:47:26] [Server thread/INFO]: wrbzk[/113.103.132.201:19511] logged out due to client disconnect
+2015-10-02 [23:24:55] [Server thread/INFO]: inchir[/106.117.187.109:3860] logged in with entity id 196 at (world, 124.7312, 65.5952, 110.5419)
+2015-10-02 [23:24:56] [Server thread/INFO]: inchir joined the game
+2015-10-02 [23:26:33] [Server thread/INFO]: inchir left the game
+2015-10-02 [23:26:34] [Server thread/INFO]: inchir[/106.117.187.109:3860] logged out due to client disconnect
+2015-10-03 [00:05:37] [Server thread/INFO]: sky[/180.212.38.62:34021] logged in with entity id 197 at (world, 156.2185, 69.2485, 107.794)
+2015-10-03 [00:05:38] [Server thread/INFO]: sky joined the game
+2015-10-03 [00:08:27] [Server thread/INFO]: sky left the game
+2015-10-03 [00:08:27] [Server thread/INFO]: sky[/180.212.38.62:34021] logged out due to client disconnect
+2015-10-03 [00:08:46] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged in with entity id 198 at (world, 140.8853, 72.4985, 118.1155)
+2015-10-03 [00:08:47] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [00:09:38] [Server thread/INFO]: power777888 left the game
+2015-10-03 [00:09:38] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged out due to client disconnect
+2015-10-03 [00:09:45] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged in with entity id 199 at (world, 140.8853, 64, 118.1155)
+2015-10-03 [00:09:46] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [00:10:04] [Server thread/INFO]: <power777888> time set day
+2015-10-03 [00:10:29] [Server thread/INFO]: power777888 left the game
+2015-10-03 [00:10:29] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [00:10:29] [Server thread/INFO]: power777888[/106.187.34.249:19132] logged in with entity id 200 at (world, 140.8853, 64, 118.1155)
+2015-10-03 [00:10:30] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [00:11:04] [Server thread/INFO]: power777888 left the game
+2015-10-03 [00:11:04] [Server thread/INFO]: power777888[/106.187.34.249:19132] logged out due to timeout
+2015-10-03 [00:11:47] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged in with entity id 201 at (world, 140.8853, 64, 118.1155)
+2015-10-03 [00:11:48] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [00:11:55] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-03 [00:16:27] [Server thread/INFO]: power777888 left the game
+2015-10-03 [00:16:27] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged out due to timeout
+2015-10-03 [00:21:58] [Server thread/INFO]: power777888[/180.212.38.62:42711] logged in with entity id 204 at (world, 141.703, 76.6235, 113.2459)
+2015-10-03 [00:21:59] [Server thread/INFO]: power777888 joined the game
