@@ -2042,3 +2042,450 @@
 2015-10-03 [00:16:27] [Server thread/INFO]: power777888[/180.212.38.62:34021] logged out due to timeout
 2015-10-03 [00:21:58] [Server thread/INFO]: power777888[/180.212.38.62:42711] logged in with entity id 204 at (world, 141.703, 76.6235, 113.2459)
 2015-10-03 [00:21:59] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [00:25:23] [Server thread/INFO]: power777888 left the game
+2015-10-03 [00:25:23] [Server thread/INFO]: power777888[/180.212.38.62:42711] logged out due to timeout
+2015-10-03 [00:38:05] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-03 [00:38:05] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-03 [00:38:05] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-03 [00:38:05] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-03 [00:38:05] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-03 [00:38:05] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-03 [00:38:05] [Server thread/INFO]: Unloading level "world"
+2015-10-03 [00:38:05] [Server thread/INFO]: Stopping other threads
+2015-10-03 [00:42:29] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-03 [00:42:29] [Server thread/INFO]: Loading server properties...
+2015-10-03 [00:42:29] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-03 [00:42:29] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-03 [00:42:29] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-03 [00:42:29] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-03 [00:42:29] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-03 [00:42:30] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-03 [00:42:30] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-03 [00:42:30] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-03 [00:42:30] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-03 [00:42:30] [Server thread/NOTICE]: Level "world" not found
+2015-10-03 [00:42:30] [Server thread/INFO]: Preparing level "world"
+2015-10-03 [00:42:30] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2015-10-03 [00:42:30] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-03 [00:42:30] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-03 [00:42:30] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-03 [00:42:30] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-03 [00:42:30] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-03 [00:42:30] [Server thread/INFO]: Starting GS4 status listener
+2015-10-03 [00:42:30] [Server thread/INFO]: Setting query port to 19132
+2015-10-03 [00:42:30] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-03 [00:42:30] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-03 [00:42:30] [Server thread/INFO]: Done (0.765s)! For help, type "help" or "?"
+2015-10-03 [00:42:42] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-03 [00:42:42] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-03 [00:42:42] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-03 [00:42:42] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-03 [00:42:42] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-03 [00:42:42] [Server thread/INFO]: Unloading level "world"
+2015-10-03 [00:42:42] [Server thread/INFO]: Stopping other threads
+2015-10-03 [00:43:39] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-03 [00:43:39] [Server thread/INFO]: Loading server properties...
+2015-10-03 [00:43:39] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-03 [00:43:39] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-03 [00:43:39] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-03 [00:43:39] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-03 [00:43:39] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-03 [00:43:39] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-03 [00:43:39] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-03 [00:43:39] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-03 [00:43:39] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-03 [00:43:39] [Server thread/NOTICE]: Level "world" not found
+2015-10-03 [00:43:39] [Server thread/INFO]: Preparing level "world"
+2015-10-03 [00:43:39] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2015-10-03 [00:43:39] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-03 [00:43:39] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-03 [00:43:39] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-03 [00:43:39] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-03 [00:43:40] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-03 [00:43:40] [Server thread/INFO]: Starting GS4 status listener
+2015-10-03 [00:43:40] [Server thread/INFO]: Setting query port to 19132
+2015-10-03 [00:43:40] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-03 [00:43:40] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-03 [00:43:40] [Server thread/INFO]: Done (0.711s)! For help, type "help" or "?"
+2015-10-03 [00:47:23] [Server thread/INFO]: power777888[/180.212.38.62:48156] logged in with entity id 1 at (world, 109.9775, 91.3967, 126.6785)
+2015-10-03 [00:47:24] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [00:48:01] [Server thread/INFO]: wrbzk[/113.74.98.21:19517] logged in with entity id 2 at (world, 130, 66, 111)
+2015-10-03 [00:48:02] [Server thread/INFO]: wrbzk joined the game
+2015-10-03 [00:48:26] [Server thread/INFO]: <wrbzk> op给我了吗
+2015-10-03 [00:48:29] [Server thread/INFO]: [power777888: Opped wrbzk]
+2015-10-03 [00:48:42] [Server thread/INFO]: power777888 died
+2015-10-03 [00:48:48] [Server thread/INFO]: <wrbzk> 好卡
+2015-10-03 [00:48:52] [Server thread/INFO]: wrbzk died
+2015-10-03 [00:49:13] [Server thread/INFO]: <wrbzk> 你要怎么建
+2015-10-03 [00:49:24] [Server thread/INFO]: <power777888> nong ge qun shan huan rao
+2015-10-03 [00:49:36] [Server thread/INFO]: <wrbzk> my god
+2015-10-03 [00:49:39] [Server thread/INFO]: <power777888> gen ben da gong cheng
+2015-10-03 [00:49:55] [Server thread/INFO]: wrbzk died
+2015-10-03 [00:50:12] [Server thread/INFO]: wrbzk died
+2015-10-03 [00:50:37] [Server thread/INFO]: <wrbzk> 重生点在哪里
+2015-10-03 [00:51:08] [Server thread/INFO]: [power777888: Set the world spawn point to (127, 64, 131)]
+2015-10-03 [00:51:20] [Server thread/INFO]: power777888 died
+2015-10-03 [00:51:21] [Server thread/INFO]: <wrbzk> 你脚下对吧
+2015-10-03 [00:51:53] [Server thread/INFO]: <wrbzk> 我先弄个钟楼
+2015-10-03 [00:51:53] [Server thread/INFO]: [power777888: Set own game mode to Spectator Mode]
+2015-10-03 [00:52:07] [Server thread/INFO]: <wrbzk> 人呢
+2015-10-03 [00:52:20] [Server thread/INFO]: <power777888> pang guan le
+2015-10-03 [00:52:32] [Server thread/INFO]: <wrbzk> 你不建吗
+2015-10-03 [00:52:54] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-10-03 [00:53:06] [Server thread/INFO]: <power777888> bu yao zhong lou
+2015-10-03 [00:53:30] [Server thread/INFO]: <power777888> yao shan
+2015-10-03 [00:53:39] [Server thread/INFO]: <wrbzk> (๑•ั็ω•็ั๑)
+2015-10-03 [00:53:48] [Server thread/INFO]: <wrbzk> 可以
+2015-10-03 [00:53:52] [Server thread/INFO]: <wrbzk> 多大
+2015-10-03 [00:54:18] [Server thread/INFO]: [wrbzk: Set the time to 0]
+2015-10-03 [00:54:45] [Server thread/INFO]: <power777888> 300ge
+2015-10-03 [00:54:50] [Server thread/INFO]: <power777888> yuan xing
+2015-10-03 [00:54:59] [Server thread/INFO]: <power777888> yong cao di
+2015-10-03 [00:55:17] [Server thread/INFO]: <wrbzk> 300是半径吗
+2015-10-03 [00:55:41] [Server thread/INFO]: <power777888> 有WorldEdit就好了
+2015-10-03 [00:55:49] [Server thread/INFO]: <power777888> 不是
+2015-10-03 [00:57:05] [Server thread/INFO]: power777888 left the game
+2015-10-03 [00:57:05] [Server thread/INFO]: power777888[/180.212.38.62:48156] logged out due to timeout
+2015-10-03 [00:58:15] [Server thread/INFO]: [wrbzk: Set the time to 0]
+2015-10-03 [00:58:36] [Server thread/INFO]: <wrbzk> weather rival
+2015-10-03 [01:01:18] [Server thread/INFO]: HeDshen[/218.76.124.64:45363] logged in with entity id 4 at (world, 134.8639, 70, 108.2573)
+2015-10-03 [01:01:19] [Server thread/INFO]: HeDshen joined the game
+2015-10-03 [01:02:09] [Server thread/INFO]: <wrbzk> 你是谁
+2015-10-03 [01:02:19] [Server thread/INFO]: <HeDshen> 我是
+2015-10-03 [01:02:31] [Server thread/INFO]: <wrbzk> 帮忙建山
+2015-10-03 [01:02:38] [Server thread/INFO]: <HeDshen> 为什么
+2015-10-03 [01:02:43] [Server thread/INFO]: <wrbzk> 你有没有op
+2015-10-03 [01:02:51] [Server thread/INFO]: <HeDshen> 你有
+2015-10-03 [01:02:56] [Server thread/INFO]: <wrbzk> 嗯
+2015-10-03 [01:03:10] [Server thread/INFO]: <HeDshen> 我有
+2015-10-03 [01:03:16] [Server thread/INFO]: <wrbzk> 那就是啊
+2015-10-03 [01:03:31] [Server thread/INFO]: <wrbzk> 建山
+2015-10-03 [01:03:45] [Server thread/INFO]: <HeDshen> 你是哪里人
+2015-10-03 [01:03:52] [Server thread/INFO]: <HeDshen> ？
+2015-10-03 [01:04:03] [Server thread/INFO]: <wrbzk> 你是不是xy群的人
+2015-10-03 [01:04:18] [Server thread/INFO]: <HeDshen> 是yx
+2015-10-03 [01:04:23] [Server thread/INFO]: <HeDshen> 我是
+2015-10-03 [01:04:47] [Server thread/INFO]: <HeDshen> 而且我还是yx的朋友
+2015-10-03 [01:04:52] [Server thread/INFO]: <wrbzk> Q名
+2015-10-03 [01:05:28] [Server thread/INFO]: <HeDshen> 风帝
+2015-10-03 [01:05:34] [Server thread/INFO]: <wrbzk> (⊙o⊙)
+2015-10-03 [01:05:44] [Server thread/INFO]: <HeDshen> 我退一下
+2015-10-03 [01:05:48] [Server thread/INFO]: HeDshen left the game
+2015-10-03 [01:05:48] [Server thread/INFO]: HeDshen[/218.76.124.64:45363] logged out due to client disconnect
+2015-10-03 [01:06:31] [Server thread/INFO]: <wrbzk> 腐竹
+2015-10-03 [01:07:08] [Server thread/INFO]: HeDshen[/218.76.124.64:45363] logged in with entity id 6 at (world, 143.6815, 64, 153.5168)
+2015-10-03 [01:07:09] [Server thread/INFO]: HeDshen joined the game
+2015-10-03 [01:07:56] [Server thread/INFO]: <wrbzk> 你没有原创皮肤吗
+2015-10-03 [01:08:13] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 7 at (world, 126.0607, 64, 135.3638)
+2015-10-03 [01:08:14] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:08:18] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:08:18] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to client disconnect
+2015-10-03 [01:08:18] [Server thread/INFO]: <HeDshen> 有
+2015-10-03 [01:08:25] [Server thread/INFO]: <wrbzk> 腐竹
+2015-10-03 [01:08:27] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 8 at (world, 126.0607, 64, 135.3638)
+2015-10-03 [01:08:28] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:08:44] [Server thread/INFO]: <HeDshen> 哈喽
+2015-10-03 [01:08:54] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-03 [01:09:07] [Server thread/INFO]: <power777888> zhe...
+2015-10-03 [01:09:27] [Server thread/INFO]: <power777888> kongxinba
+2015-10-03 [01:09:34] [Server thread/INFO]: <wrbzk> ………
+2015-10-03 [01:09:44] [Server thread/INFO]: <wrbzk> 熊孩子一挖
+2015-10-03 [01:09:47] [Server thread/INFO]: <wrbzk> ，艾玛
+2015-10-03 [01:09:56] [Server thread/INFO]: <HeDshen> 给个op
+2015-10-03 [01:10:00] [Server thread/INFO]: <wrbzk> 叼进去了怎么办
+2015-10-03 [01:10:16] [Server thread/INFO]: <wrbzk> kill me
+2015-10-03 [01:10:27] [Server thread/INFO]: <power777888> spawn command
+2015-10-03 [01:10:42] [Server thread/INFO]: <HeDshen> 什么意思
+2015-10-03 [01:10:43] [Server thread/INFO]: <power777888> zhe shan tai kuan
+2015-10-03 [01:10:54] [Server thread/INFO]: <wrbzk> ？
+2015-10-03 [01:11:12] [Server thread/INFO]: <power777888> ./spawn
+2015-10-03 [01:11:15] [Server thread/INFO]: <wrbzk> 腐竹修改一下呗
+2015-10-03 [01:11:34] [Server thread/INFO]: <HeDshen> ／spawn
+2015-10-03 [01:11:42] [Server thread/INFO]: <power777888> en
+2015-10-03 [01:12:05] [Server thread/INFO]: HeDshen left the game
+2015-10-03 [01:12:05] [Server thread/INFO]: HeDshen[/218.76.124.64:45363] logged out due to client disconnect
+2015-10-03 [01:12:17] [Server thread/INFO]: HeDshen[/218.76.124.64:45363] logged in with entity id 36 at (world, 121.927, 64, 138.1998)
+2015-10-03 [01:12:17] [Server thread/INFO]: <wrbzk> 没有回主城的指令？
+2015-10-03 [01:12:17] [Server thread/INFO]: <power777888> na ge lu bao shi
+2015-10-03 [01:12:18] [Server thread/INFO]: HeDshen joined the game
+2015-10-03 [01:13:01] [Server thread/INFO]: wrbzk died
+2015-10-03 [01:13:01] [Server thread/INFO]: [power777888: Killed wrbzk]
+2015-10-03 [01:13:39] [Server thread/INFO]: HeDshen left the game
+2015-10-03 [01:13:39] [Server thread/INFO]: HeDshen[/218.76.124.64:45363] logged out due to timeout
+2015-10-03 [01:13:53] [Server thread/INFO]: <wrbzk> 做什么
+2015-10-03 [01:15:17] [Server thread/INFO]: <power777888> bu yao tai kuan
+2015-10-03 [01:15:25] [Server thread/INFO]: <power777888> 4ge jiu gou le
+2015-10-03 [01:15:36] [Server thread/INFO]: <power777888> 6ge
+2015-10-03 [01:15:45] [Server thread/INFO]: <wrbzk> 弄得合理一点
+2015-10-03 [01:16:07] [Server thread/INFO]: HeDshen[/218.76.124.64:48924] logged in with entity id 71 at (world, 116.9276, 64, 139.8026)
+2015-10-03 [01:16:08] [Server thread/INFO]: HeDshen joined the game
+2015-10-03 [01:16:35] [Server thread/INFO]: <wrbzk> oh my god
+2015-10-03 [01:16:45] [Server thread/INFO]: <wrbzk> what are you doing
+2015-10-03 [01:17:07] [Server thread/INFO]: <wrbzk> this not 合理
+2015-10-03 [01:17:55] [Server thread/INFO]: <HeDshen> 为什么我放不了方块
+2015-10-03 [01:18:04] [Server thread/INFO]: <wrbzk> 你没有op
+2015-10-03 [01:18:07] [Server thread/INFO]: <power777888> mei op
+2015-10-03 [01:18:31] [Server thread/INFO]: <HeDshen> 给我op可以吗
+2015-10-03 [01:19:14] [Server thread/INFO]: <power777888> ba ming zi huan cheng power777888jiu ke yi le
+2015-10-03 [01:19:27] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-10-03 [01:19:52] [Server thread/INFO]: <HeDshen> power777888jiu
+2015-10-03 [01:19:58] [Server thread/INFO]: <power777888> en
+2015-10-03 [01:20:03] [Server thread/INFO]: <HeDshen> power777888jiu这个吗
+2015-10-03 [01:20:10] [Server thread/INFO]: <power777888> no
+2015-10-03 [01:20:14] [Server thread/INFO]: <power777888> power777888
+2015-10-03 [01:20:23] [Server thread/INFO]: <HeDshen> 喔
+2015-10-03 [01:20:29] [Server thread/INFO]: HeDshen left the game
+2015-10-03 [01:20:29] [Server thread/INFO]: HeDshen[/218.76.124.64:48924] logged out due to client disconnect
+2015-10-03 [01:20:39] [Server thread/INFO]: [wrbzk: Set the time to 9000]
+2015-10-03 [01:20:52] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:20:52] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:20:52] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged in with entity id 73 at (world, 115.7195, 67.6236, 149.8547)
+2015-10-03 [01:20:53] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:20:55] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:20:55] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:20:55] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 74 at (world, 115.7195, 65, 149.8547)
+2015-10-03 [01:20:56] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:20:58] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:20:58] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to client disconnect
+2015-10-03 [01:21:04] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged in with entity id 75 at (world, 115.7195, 65, 149.8547)
+2015-10-03 [01:21:04] [Server thread/INFO]: <wrbzk> 腐竹你的皮肤呢
+2015-10-03 [01:21:05] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:21:11] [Server thread/INFO]: sky[/180.212.38.62:46009] logged in with entity id 76 at (world, 125.4839, 61, 110.3556)
+2015-10-03 [01:21:12] [Server thread/INFO]: sky joined the game
+2015-10-03 [01:21:26] [Server thread/INFO]: <wrbzk> 腐竹
+2015-10-03 [01:21:26] [Server thread/INFO]: <sky> yi geng gai ming zi
+2015-10-03 [01:21:38] [Server thread/INFO]: <wrbzk> 有熊孩子
+2015-10-03 [01:21:40] [Server thread/INFO]: <sky> xiao pen
+2015-10-03 [01:21:45] [Server thread/INFO]: <sky> ?
+2015-10-03 [01:21:59] [Server thread/INFO]: <sky> huan le ge ming zi
+2015-10-03 [01:22:00] [Server thread/INFO]: <power777888> 腐竹我可以了
+2015-10-03 [01:22:16] [Server thread/INFO]: <sky> gei wo yi xia op
+2015-10-03 [01:22:16] [Server thread/INFO]: <wrbzk> 我不习惯
+2015-10-03 [01:22:32] [Server thread/INFO]: <wrbzk> 名字换回来
+2015-10-03 [01:22:38] [Server thread/INFO]: <wrbzk> 把
+2015-10-03 [01:22:50] [Server thread/INFO]: <sky> gei yi xia op
+2015-10-03 [01:23:09] [Server thread/INFO]: <power777888> 给他op吗
+2015-10-03 [01:23:17] [Server thread/INFO]: <wrbzk> 不捣乱留给
+2015-10-03 [01:23:20] [Server thread/INFO]: <wrbzk> 就给
+2015-10-03 [01:23:29] [Server thread/INFO]: <power777888> 好
+2015-10-03 [01:23:36] [Server thread/INFO]: <sky> wo ba power777888 de ming zi gai cheng sky le
+2015-10-03 [01:23:55] [Server thread/INFO]: <sky> duo le yi ge ren shou
+2015-10-03 [01:23:56] [Server thread/INFO]: <power777888> 好等下问腐竹给不给
+2015-10-03 [01:24:03] [Server thread/INFO]: sky left the game
+2015-10-03 [01:24:03] [Server thread/INFO]: sky[/180.212.38.62:46009] logged out due to client disconnect
+2015-10-03 [01:24:14] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:24:14] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:24:14] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 77 at (world, 133.5599, 75.2485, 150.7428)
+2015-10-03 [01:24:15] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:24:24] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:24:24] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:24:24] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged in with entity id 78 at (world, 139.1185, 71.9133, 146.1889)
+2015-10-03 [01:24:25] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:24:27] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:24:27] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:24:27] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 79 at (world, 139.1185, 68, 146.1889)
+2015-10-03 [01:24:28] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:24:30] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:24:30] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:24:30] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged in with entity id 80 at (world, 140.4701, 67, 148.9133)
+2015-10-03 [01:24:31] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:24:36] [Server thread/INFO]: power77788[/180.212.38.62:46009] logged in with entity id 81 at (world, 130.7812, 78.9361, 94.9909)
+2015-10-03 [01:24:37] [Server thread/INFO]: power77788 joined the game
+2015-10-03 [01:24:38] [Server thread/INFO]: <wrbzk> 腐竹你干嘛
+2015-10-03 [01:25:05] [Server thread/INFO]: <power77788> shan le yi ge 8
+2015-10-03 [01:25:09] [Server thread/INFO]: power77788 left the game
+2015-10-03 [01:25:09] [Server thread/INFO]: power77788[/180.212.38.62:46009] logged out due to client disconnect
+2015-10-03 [01:25:19] [Server thread/NOTICE]: Player data not found for "itoytoy", creating new profile
+2015-10-03 [01:25:19] [Server thread/INFO]: iToyToy[/180.212.38.62:46009] logged in with entity id 82 at (world, 127, 64, 131)
+2015-10-03 [01:25:20] [Server thread/INFO]: iToyToy joined the game
+2015-10-03 [01:25:34] [Server thread/INFO]: <wrbzk> are you pig
+2015-10-03 [01:25:41] [Server thread/INFO]: [wrbzk: Set the time to 0]
+2015-10-03 [01:25:47] [Server thread/INFO]: <power777888> 你是猪嘛
+2015-10-03 [01:25:50] [Server thread/INFO]: <iToyToy> sheng cun ...
+2015-10-03 [01:25:54] [Server thread/INFO]: <power777888> 翻译
+2015-10-03 [01:26:23] [Server thread/INFO]: <iToyToy> nong cia chuang zao he op
+2015-10-03 [01:26:34] [Server thread/INFO]: <power777888> ／gamemode 0
+2015-10-03 [01:26:39] [Server thread/INFO]: <iToyToy> 1
+2015-10-03 [01:26:52] [Server thread/INFO]: <wrbzk> touch your Butt
+2015-10-03 [01:27:16] [Server thread/INFO]: iToyToy left the game
+2015-10-03 [01:27:16] [Server thread/INFO]: iToyToy[/180.212.38.62:46009] logged out due to client disconnect
+2015-10-03 [01:27:27] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:27:27] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:27:27] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 83 at (world, 129.7292, 70, 147.1907)
+2015-10-03 [01:27:28] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:27:30] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:27:30] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:27:30] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged in with entity id 84 at (world, 129.7292, 69, 147.1907)
+2015-10-03 [01:27:31] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:27:33] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:27:33] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:27:33] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged in with entity id 85 at (world, 129.7292, 69.7532, 147.1907)
+2015-10-03 [01:27:34] [Server thread/INFO]: power777888 joined the game
+2015-10-03 [01:27:38] [Server thread/INFO]: power777888 left the game
+2015-10-03 [01:27:38] [Server thread/INFO]: power777888[/180.212.38.62:46009] logged out due to Kicked by admin. Reason: logged in from another location
+2015-10-03 [01:27:38] [Server thread/INFO]: power777888[/218.76.124.64:48924] logged in with entity id 86 at (world, 129.4926, 64.4498, 141.4854)
+2015-10-03 [01:27:39] [Server thread/INFO]: power777888 joined the game
+2015-10-04 [00:22:56] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-04 [00:22:56] [Server thread/INFO]: Loading server properties...
+2015-10-04 [00:22:56] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-04 [00:22:56] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-04 [00:22:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-04 [00:22:56] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-04 [00:22:56] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-04 [00:22:56] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-04 [00:22:56] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-04 [00:22:56] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-04 [00:22:56] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-04 [04:22:56] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2015-10-04 [04:22:56] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2015-10-04 [04:22:56] [RakLibServer thread/EMERGENCY]: [RakLib Thread #140654578726656] RakLib crashed!
+2015-10-04 [00:22:57] [Server thread/INFO]: Preparing level "world"
+2015-10-04 [00:22:57] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-04 [00:22:57] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-04 [00:22:57] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-04 [00:22:57] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-04 [00:22:57] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-04 [00:22:57] [Server thread/INFO]: Starting GS4 status listener
+2015-10-04 [00:22:57] [Server thread/INFO]: Setting query port to 19132
+2015-10-04 [00:22:57] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-04 [00:22:57] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-04 [00:22:57] [Server thread/INFO]: Done (1.193s)! For help, type "help" or "?"
+2015-10-04 [00:22:57] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed [raklib\server\UDPServerSocket]: socket_bind(): unable to bind address [98]: Address already in use
+2015-10-04 [00:23:07] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-04 [00:23:07] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-04 [00:23:07] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-04 [00:23:07] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-04 [00:23:07] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-04 [00:23:07] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-04 [00:23:07] [Server thread/INFO]: Unloading level "world"
+2015-10-04 [00:23:07] [Server thread/EMERGENCY]: Crashed while crashing, killing process
+2015-10-04 [00:23:42] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-04 [00:23:42] [Server thread/INFO]: Loading server properties...
+2015-10-04 [00:23:42] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-04 [00:23:42] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-04 [00:23:42] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-04 [00:23:42] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-04 [00:23:42] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-04 [00:23:42] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-04 [00:23:42] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-04 [00:23:42] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-04 [00:23:42] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-04 [04:23:42] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2015-10-04 [04:23:42] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2015-10-04 [04:23:42] [RakLibServer thread/EMERGENCY]: [RakLib Thread #140405416908544] RakLib crashed!
+2015-10-04 [00:23:43] [Server thread/INFO]: Preparing level "world"
+2015-10-04 [00:23:43] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-04 [00:23:43] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-04 [00:23:43] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-04 [00:23:43] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-04 [00:23:43] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-04 [00:23:43] [Server thread/INFO]: Starting GS4 status listener
+2015-10-04 [00:23:43] [Server thread/INFO]: Setting query port to 19132
+2015-10-04 [00:23:43] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-04 [00:23:43] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-04 [00:23:43] [Server thread/INFO]: Done (0.711s)! For help, type "help" or "?"
+2015-10-04 [00:23:43] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\RakLibInterface due to RakLib Thread crashed [raklib\server\UDPServerSocket]: socket_bind(): unable to bind address [98]: Address already in use
+2015-10-04 [00:24:03] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-04 [00:24:04] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-04 [00:24:04] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-04 [00:24:04] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-04 [00:24:04] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-04 [00:24:04] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-04 [00:24:04] [Server thread/INFO]: Unloading level "world"
+2015-10-04 [00:24:04] [Server thread/EMERGENCY]: Crashed while crashing, killing process
+2015-10-04 [00:27:21] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-04 [00:27:21] [Server thread/INFO]: Loading server properties...
+2015-10-04 [00:27:21] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-04 [00:27:21] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-04 [00:27:21] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-04 [00:27:21] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-04 [00:27:21] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-04 [00:27:22] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-04 [00:27:22] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-04 [00:27:22] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-04 [00:27:22] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-04 [00:27:22] [Server thread/INFO]: Preparing level "world"
+2015-10-04 [00:27:22] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-04 [00:27:22] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-04 [00:27:22] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-04 [00:27:22] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-04 [00:27:22] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-04 [00:27:22] [Server thread/INFO]: Starting GS4 status listener
+2015-10-04 [00:27:22] [Server thread/INFO]: Setting query port to 19132
+2015-10-04 [00:27:22] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-04 [00:27:22] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-04 [00:27:22] [Server thread/INFO]: Done (0.697s)! For help, type "help" or "?"
+2015-10-04 [00:27:43] [Server thread/INFO]: power777888[/180.212.54.109:34985] logged out due to Login timeout
+2015-10-04 [00:28:08] [Server thread/INFO]: power777888[/180.212.54.109:34985] logged out due to Login timeout
+2015-10-04 [00:28:55] [Server thread/INFO]: power777888[/117.10.154.31:4931] logged out due to client disconnect
+2015-10-04 [00:30:12] [Server thread/INFO]: power777888[/180.212.54.109:33902] logged out due to Login timeout
+2015-10-04 [00:30:39] [Server thread/INFO]: power777888[/180.212.54.109:33902] logged out due to client disconnect
+2015-10-04 [00:31:29] [Server thread/INFO]: power777888[/180.212.54.109:33902] logged out due to Login timeout
+2015-10-04 [00:31:40] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-04 [00:31:40] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-04 [00:31:40] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-04 [00:31:40] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-04 [00:31:40] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-04 [00:31:40] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-04 [00:31:40] [Server thread/INFO]: Unloading level "world"
+2015-10-04 [00:31:40] [Server thread/EMERGENCY]: Crashed while crashing, killing process
+2015-10-04 [00:31:48] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-04 [00:31:48] [Server thread/INFO]: Loading server properties...
+2015-10-04 [00:31:48] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-04 [00:31:48] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-04 [00:31:48] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-04 [00:31:48] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-04 [00:31:48] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-04 [00:31:49] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-04 [00:31:49] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-04 [00:31:49] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-04 [00:31:49] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-04 [00:31:49] [Server thread/INFO]: Preparing level "world"
+2015-10-04 [00:31:49] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-04 [00:31:49] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-04 [00:31:49] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-04 [00:31:49] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-04 [00:31:49] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-04 [00:31:49] [Server thread/INFO]: Starting GS4 status listener
+2015-10-04 [00:31:49] [Server thread/INFO]: Setting query port to 19132
+2015-10-04 [00:31:49] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-04 [00:31:49] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-04 [00:31:49] [Server thread/INFO]: Done (0.662s)! For help, type "help" or "?"
+2015-10-04 [00:31:52] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-10-04 [00:31:52] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-04 [00:31:52] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-04 [00:31:52] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-04 [00:31:52] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-04 [00:31:52] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-04 [00:31:52] [Server thread/INFO]: Unloading level "world"
+2015-10-04 [00:31:52] [Server thread/EMERGENCY]: Crashed while crashing, killing process
+2015-10-04 [00:32:26] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-04 [00:32:26] [Server thread/INFO]: Loading server properties...
+2015-10-04 [00:32:26] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-04 [00:32:26] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-04 [00:32:26] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-04 [00:32:26] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-04 [00:32:26] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-04 [00:32:26] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-04 [00:32:26] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-04 [00:32:26] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-04 [00:32:26] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-04 [00:32:26] [Server thread/INFO]: Preparing level "world"
+2015-10-04 [00:32:26] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-04 [00:32:26] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-04 [00:32:26] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-04 [00:32:26] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-04 [00:32:26] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-04 [00:32:27] [Server thread/INFO]: Starting GS4 status listener
+2015-10-04 [00:32:27] [Server thread/INFO]: Setting query port to 19132
+2015-10-04 [00:32:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-04 [00:32:27] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-04 [00:32:27] [Server thread/INFO]: Done (0.678s)! For help, type "help" or "?"
+2015-10-04 [00:32:43] [Server thread/INFO]: power777888[/180.212.54.109:33902] logged out due to Login timeout
+2015-10-04 [00:32:50] [Server thread/INFO]: Disabling BlockEffects v1.0.5
+2015-10-04 [00:32:50] [Server thread/INFO]: [BlockEffects] ✖ BlockEffects Disabled
+2015-10-04 [00:32:50] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-10-04 [00:32:50] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-10-04 [00:32:50] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-10-04 [00:32:50] [Server thread/INFO]: Unloading level "world"
+2015-10-04 [00:32:50] [Server thread/EMERGENCY]: Crashed while crashing, killing process
