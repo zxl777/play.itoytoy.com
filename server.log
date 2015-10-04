@@ -2489,3 +2489,33 @@
 2015-10-04 [00:32:50] [Server thread/INFO]: Disabling WarpSigns v0.0.1
 2015-10-04 [00:32:50] [Server thread/INFO]: Unloading level "world"
 2015-10-04 [00:32:50] [Server thread/EMERGENCY]: Crashed while crashing, killing process
+2015-10-04 [00:39:43] [Server thread/INFO]: Loading pocketmine.yml...
+2015-10-04 [00:39:43] [Server thread/INFO]: Loading server properties...
+2015-10-04 [00:39:43] [Server thread/INFO]: Selected English (eng) as the base language
+2015-10-04 [00:39:43] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-10-04 [00:39:44] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-10-04 [00:39:44] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-10-04 [00:39:44] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-10-04 [00:39:44] [Server thread/INFO]: Loading BlockEffects v1.0.5
+2015-10-04 [00:39:44] [Server thread/INFO]: Loading iProtector v3.1a
+2015-10-04 [00:39:44] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-10-04 [00:39:44] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-10-04 [00:39:44] [Server thread/INFO]: Preparing level "world"
+2015-10-04 [00:39:44] [Server thread/INFO]: Enabling BlockEffects v1.0.5
+2015-10-04 [00:39:44] [Server thread/INFO]: [BlockEffects] ✔ BlockEffects Enabled
+2015-10-04 [00:39:44] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-10-04 [00:39:44] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-10-04 [00:39:44] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-10-04 [00:39:44] [Server thread/INFO]: Starting GS4 status listener
+2015-10-04 [00:39:44] [Server thread/INFO]: Setting query port to 19132
+2015-10-04 [00:39:44] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-10-04 [00:39:44] [Server thread/INFO]: Default game type: Adventure Mode
+2015-10-04 [00:39:44] [Server thread/INFO]: Done (0.687s)! For help, type "help" or "?"
+2015-10-04 [00:39:55] [Server thread/INFO]: power777888[/180.212.54.109:43366] logged in with entity id 1 at (world, 129.4926, 64.4498, 141.4854)
+2015-10-04 [00:39:55] [Server thread/INFO]: power777888 joined the game
+2015-10-04 [00:42:32] [Server thread/INFO]: power777888 left the game
+2015-10-04 [00:42:32] [Server thread/INFO]: power777888[/180.212.54.109:43366] logged out due to client disconnect
+2015-10-04 [00:42:44] [Server thread/INFO]: power777888[/180.212.54.109:43366] logged in with entity id 2 at (world, 125.025, 69.6892, 143.6461)
+2015-10-04 [00:42:45] [Server thread/INFO]: power777888 joined the game
+2015-10-04 [00:48:36] [Server thread/INFO]: power777888 left the game
+2015-10-04 [00:48:36] [Server thread/INFO]: power777888[/180.212.54.109:43366] logged out due to timeout
