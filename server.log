@@ -329,3 +329,501 @@
 2015-11-16 [09:57:47] [Server thread/CRITICAL]: Could not save player "power77788": file_put_contents(/home/power777888/mp1.5/players/power77788.dat): failed to open stream: Permission denied
 2015-11-16 [09:57:47] [Server thread/INFO]: power77788 left the game
 2015-11-16 [09:57:47] [Server thread/INFO]: power77788[/180.212.52.54:45487] logged out due to client disconnect
+2015-11-16 [10:00:29] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-16 [10:00:29] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:00:29] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-11-16 [10:00:29] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:00:29] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-11-16 [10:00:29] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-11-16 [10:00:29] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:00:29] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-16 [10:00:29] [Server thread/INFO]: Stopping other threads
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading server properties...
+2015-11-16 [10:01:43] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-16 [10:01:43] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-16 [10:01:43] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-16 [10:01:43] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-16 [10:01:43] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading iProtector v3.1a
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading SimpleWarp v2.1.0
+2015-11-16 [10:01:43] [Server thread/INFO]: Loading WarpSigns v0.0.1
+2015-11-16 [10:01:44] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:01:44] [Server thread/INFO]: Loading source plugin SimpleAuth v1.7.1
+2015-11-16 [10:01:44] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-16 [10:01:44] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:01:44] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [10:01:44] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-16 [10:01:44] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:01:44] [Server thread/INFO]: Enabling iProtector v3.1a
+2015-11-16 [10:01:44] [Server thread/INFO]: Enabling SimpleWarp v2.1.0
+2015-11-16 [10:01:44] [Server thread/INFO]: Enabling WarpSigns v0.0.1
+2015-11-16 [10:01:44] [Server thread/INFO]: Starting GS4 status listener
+2015-11-16 [10:01:44] [Server thread/INFO]: Setting query port to 19132
+2015-11-16 [10:01:44] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-16 [10:01:44] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-16 [10:01:44] [Server thread/INFO]: Done (0.758s)! For help, type "help" or "?"
+2015-11-16 [10:01:59] [Server thread/NOTICE]: Player data not found for "power77788", creating new profile
+2015-11-16 [10:01:59] [Server thread/INFO]: power77788[/180.212.52.54:36509] logged in with entity id 1 at (iToyToy's Server, -52, 64, 192)
+2015-11-16 [10:02:00] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:03:26] [Server thread/INFO]: [CONSOLE: Opped power77788]
+2015-11-16 [10:03:38] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-11-16 [10:03:38] [Server thread/INFO]: /addwarp: Add new warps.
+2015-11-16 [10:03:38] [Server thread/INFO]: /area: Allows you to manage areas.
+2015-11-16 [10:03:38] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-11-16 [10:03:38] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-11-16 [10:03:38] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-11-16 [10:03:38] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-11-16 [10:03:38] [Server thread/INFO]: /closewarp: Close existing warps.
+2015-11-16 [10:03:38] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-11-16 [10:03:38] [Server thread/INFO]: /delwarp: Delete existing warps.
+2015-11-16 [10:03:38] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-11-16 [10:03:38] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-11-16 [10:03:38] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-11-16 [10:03:38] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-11-16 [10:03:38] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-11-16 [10:03:38] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-11-16 [10:03:38] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-11-16 [10:03:38] [Server thread/INFO]: /help: Shows the help menu
+2015-11-16 [10:03:38] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-11-16 [10:03:38] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-11-16 [10:03:38] [Server thread/INFO]: /list: Lists all online players
+2015-11-16 [10:03:38] [Server thread/INFO]: /listwarps: List all your warps.
+2015-11-16 [10:03:38] [Server thread/INFO]: /login: 登录账号
+2015-11-16 [10:03:38] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-11-16 [10:03:38] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-11-16 [10:03:38] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-11-16 [10:03:38] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-11-16 [10:03:38] [Server thread/INFO]: /openwarp: Open existing warps.
+2015-11-16 [10:03:38] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-11-16 [10:03:38] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-11-16 [10:03:38] [Server thread/INFO]: /particle: Adds particles to a world
+2015-11-16 [10:03:38] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-11-16 [10:03:38] [Server thread/INFO]: /register: 注册一个账号
+2015-11-16 [10:03:38] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-11-16 [10:03:38] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-11-16 [10:03:38] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-11-16 [10:03:38] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-11-16 [10:03:38] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-11-16 [10:03:38] [Server thread/INFO]: /seed: Shows the world seed
+2015-11-16 [10:03:38] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-11-16 [10:03:38] [Server thread/INFO]: /signdoctor: 
+2015-11-16 [10:03:38] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-11-16 [10:03:38] [Server thread/INFO]: /stop: Stops the server
+2015-11-16 [10:03:38] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-11-16 [10:03:38] [Server thread/INFO]: /time: Changes the time on each world
+2015-11-16 [10:03:38] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-11-16 [10:03:38] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-11-16 [10:03:38] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-11-16 [10:03:38] [Server thread/INFO]: /warp: Warp around your world.
+2015-11-16 [10:03:38] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-11-16 [10:04:14] [Server thread/INFO]: Unknown game mode
+2015-11-16 [10:04:18] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:04:18] [Server thread/INFO]: power77788[/180.212.52.54:36509] logged out due to timeout
+2015-11-16 [10:05:00] [Server thread/INFO]: power77788[/180.212.52.54:36509] logged in with entity id 4 at (iToyToy's Server, -52, 64, 192)
+2015-11-16 [10:05:01] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:05:57] [Server thread/INFO]: Usage: /gamemode <mode> [player]
+2015-11-16 [10:06:06] [Server thread/INFO]: That player cannot be found
+2015-11-16 [10:06:18] [Server thread/INFO]: [CONSOLE: Set power77788's game mode to Creative Mode]
+2015-11-16 [10:09:50] [Server thread/NOTICE]: Player data not found for "nathan_gao", creating new profile
+2015-11-16 [10:09:50] [Server thread/INFO]: Nathan_Gao[/173.176.235.174:19132] logged in with entity id 16 at (iToyToy's Server, -52, 64, 192)
+2015-11-16 [10:09:51] [Server thread/INFO]: Nathan_Gao joined the game
+2015-11-16 [10:10:24] [Server thread/INFO]: <Nathan_Gao> hi
+2015-11-16 [10:10:37] [Server thread/INFO]: <power77788> hi
+2015-11-16 [10:10:40] [Server thread/INFO]: Nathan_Gao has just earned the achievement Getting Wood
+2015-11-16 [10:10:54] [Server thread/INFO]: <Nathan_Gao> 你在哪里
+2015-11-16 [10:11:17] [Server thread/INFO]: Nathan_Gao has just earned the achievement Benchmarking
+2015-11-16 [10:11:20] [Server thread/INFO]: [power77788: Set the world spawn point to (165, 78, -282)]
+2015-11-16 [10:12:19] [Server thread/INFO]: [power77788: Teleported Nathan_Gao to power77788]
+2015-11-16 [10:12:29] [Server thread/INFO]: <Nathan_Gao> 干吗
+2015-11-16 [10:12:38] [Server thread/INFO]: <Nathan_Gao> 给我op
+2015-11-16 [10:13:20] [Server thread/INFO]: <power77788> dennduwancejigcenji
+2015-11-16 [10:13:42] [Server thread/INFO]: <Nathan_Gao> 至少打个空格吧
+2015-11-16 [10:13:50] [Server thread/INFO]: [Server] 等你多完成一些成就，才能获得OP
+2015-11-16 [10:14:01] [Server thread/INFO]: <Nathan_Gao> ....
+2015-11-16 [10:14:07] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:14:07] [Server thread/INFO]: power77788[/180.212.52.54:36509] logged out due to timeout
+2015-11-16 [10:15:36] [Server thread/INFO]: power77788[/180.212.52.54:36509] logged in with entity id 54 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:15:37] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:15:47] [Server thread/INFO]: <Nathan_Gao> tp过来
+2015-11-16 [10:16:49] [Server thread/INFO]: [CONSOLE: Teleported Nathan_Gao to power77788]
+2015-11-16 [10:16:58] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-11-16 [10:16:58] [Server thread/INFO]: /addwarp: Add new warps.
+2015-11-16 [10:16:58] [Server thread/INFO]: /area: Allows you to manage areas.
+2015-11-16 [10:16:58] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-11-16 [10:16:58] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-11-16 [10:16:58] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-11-16 [10:16:58] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-11-16 [10:16:58] [Server thread/INFO]: /closewarp: Close existing warps.
+2015-11-16 [10:16:58] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-11-16 [10:16:58] [Server thread/INFO]: /delwarp: Delete existing warps.
+2015-11-16 [10:16:58] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-11-16 [10:16:58] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-11-16 [10:16:58] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-11-16 [10:16:58] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-11-16 [10:16:58] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-11-16 [10:16:58] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-11-16 [10:16:58] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-11-16 [10:16:58] [Server thread/INFO]: /help: Shows the help menu
+2015-11-16 [10:16:58] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-11-16 [10:16:58] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-11-16 [10:16:58] [Server thread/INFO]: /list: Lists all online players
+2015-11-16 [10:16:58] [Server thread/INFO]: /listwarps: List all your warps.
+2015-11-16 [10:16:58] [Server thread/INFO]: /login: 登录账号
+2015-11-16 [10:16:58] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-11-16 [10:16:58] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-11-16 [10:16:58] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-11-16 [10:16:58] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-11-16 [10:16:58] [Server thread/INFO]: /openwarp: Open existing warps.
+2015-11-16 [10:16:58] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-11-16 [10:16:58] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-11-16 [10:16:58] [Server thread/INFO]: /particle: Adds particles to a world
+2015-11-16 [10:16:58] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-11-16 [10:16:58] [Server thread/INFO]: /register: 注册一个账号
+2015-11-16 [10:16:58] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-11-16 [10:16:58] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-11-16 [10:16:58] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-11-16 [10:16:58] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-11-16 [10:16:58] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-11-16 [10:16:58] [Server thread/INFO]: /seed: Shows the world seed
+2015-11-16 [10:16:58] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-11-16 [10:16:58] [Server thread/INFO]: /signdoctor: 
+2015-11-16 [10:16:58] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-11-16 [10:16:58] [Server thread/INFO]: /stop: Stops the server
+2015-11-16 [10:16:58] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-11-16 [10:16:58] [Server thread/INFO]: /time: Changes the time on each world
+2015-11-16 [10:16:58] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-11-16 [10:16:58] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-11-16 [10:16:58] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-11-16 [10:16:58] [Server thread/INFO]: /warp: Warp around your world.
+2015-11-16 [10:16:58] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-11-16 [10:17:23] [Server thread/INFO]: Please provide a player!
+2015-11-16 [10:18:02] [Server thread/INFO]: There are 2/3000 players online:
+2015-11-16 [10:18:02] [Server thread/INFO]: Nathan_Gao, power77788
+2015-11-16 [10:19:27] [Server thread/INFO]: Nathan_Gao left the game
+2015-11-16 [10:19:27] [Server thread/INFO]: Nathan_Gao[/173.176.235.174:19132] logged out due to client disconnect
+2015-11-16 [10:22:07] [Server thread/INFO]: power77788 died
+2015-11-16 [10:23:54] [Server thread/INFO]: Plugins (6): RealKeepInventory v0.0.1, iProtector v3.1a, DevTools v1.10.0, SimpleWarp v2.1.0, WarpSigns v0.0.1, SimpleAuth v1.7.1
+2015-11-16 [10:27:37] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:27:37] [Server thread/INFO]: power77788[/180.212.52.54:36509] logged out due to timeout
+2015-11-16 [10:28:52] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-16 [10:28:52] [Server thread/INFO]: Saving levels...
+2015-11-16 [10:28:52] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:28:52] [Server thread/INFO]: Disabling iProtector v3.1a
+2015-11-16 [10:28:52] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:28:52] [Server thread/INFO]: Disabling SimpleWarp v2.1.0
+2015-11-16 [10:28:52] [Server thread/INFO]: Disabling WarpSigns v0.0.1
+2015-11-16 [10:28:52] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:28:52] [Server thread/INFO]: Reloading properties...
+2015-11-16 [10:28:52] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:28:52] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Unknown dependency
+2015-11-16 [10:28:52] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:28:52] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Unknown dependency
+2015-11-16 [10:28:52] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Circular dependency detected
+2015-11-16 [10:28:52] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:28:52] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:28:52] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-16 [10:30:11] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-16 [10:30:11] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:30:11] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:30:11] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-16 [10:30:11] [Server thread/INFO]: Stopping other threads
+2015-11-16 [10:30:16] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-16 [10:30:16] [Server thread/INFO]: Loading server properties...
+2015-11-16 [10:30:16] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-16 [10:30:16] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-16 [10:30:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-16 [10:30:16] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-16 [10:30:16] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-16 [10:30:16] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:30:16] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Unknown dependency
+2015-11-16 [10:30:16] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:30:16] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Unknown dependency
+2015-11-16 [10:30:16] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Circular dependency detected
+2015-11-16 [10:30:16] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:30:16] [Server thread/INFO]: Loading source plugin SimpleAuth v1.7.1
+2015-11-16 [10:30:16] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-16 [10:30:16] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:30:16] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [10:30:16] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-16 [10:30:16] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:30:16] [Server thread/INFO]: Starting GS4 status listener
+2015-11-16 [10:30:16] [Server thread/INFO]: Setting query port to 19132
+2015-11-16 [10:30:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-16 [10:30:16] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-16 [10:30:16] [Server thread/INFO]: Done (0.638s)! For help, type "help" or "?"
+2015-11-16 [10:30:51] [Server thread/INFO]: Invalid plugin name, check the name case.
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding LICENSE
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding resources/sqlite3.sql
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding resources/config.yml
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding resources/mysql.sql
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding resources/messages.yml
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding plugin.yml
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding README.md
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/SQLite3DataProvider.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/DummyDataProvider.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/YAMLDataProvider.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/MySQLDataProvider.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/DataProvider.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/SimpleAuth.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerUnregisterEvent.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/SimpleAuthEvent.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerAuthenticateEvent.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerRegisterEvent.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerDeauthenticateEvent.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/EventListener.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/task/ShowMessageTask.php
+2015-11-16 [10:31:28] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/task/MySQLPingTask.php
+2015-11-16 [10:31:28] [Server thread/INFO]: Phar plugin SimpleAuth v1.7.1 has been created on /home/power777888/mp1.5/plugins/DevTools//SimpleAuth_v1.7.1.phar
+2015-11-16 [10:32:35] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-16 [10:32:35] [Server thread/INFO]: Saving levels...
+2015-11-16 [10:32:35] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:32:35] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:32:35] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:32:35] [Server thread/INFO]: Reloading properties...
+2015-11-16 [10:32:35] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:32:35] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [10:32:35] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [10:32:35] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:32:35] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:32:35] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [10:32:35] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:32:35] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:32:35] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:32:35] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-16 [10:33:24] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:33:25] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:34:11] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:34:11] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged out due to client disconnect
+2015-11-16 [10:34:22] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged in with entity id 2 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:34:23] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:34:25] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:34:25] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-16 [10:34:36] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged in with entity id 3 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:34:37] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:40:41] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:40:41] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged out due to timeout
+2015-11-16 [10:42:12] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-16 [10:42:12] [Server thread/INFO]: Saving levels...
+2015-11-16 [10:42:12] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:42:12] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:42:12] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:42:12] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:42:12] [Server thread/INFO]: Reloading properties...
+2015-11-16 [10:42:12] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:42:12] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [10:42:12] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [10:42:12] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:42:12] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:42:12] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [10:42:12] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:42:12] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:42:12] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:42:12] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-16 [10:43:06] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged in with entity id 4 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:43:07] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:44:24] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-16 [10:44:24] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:44:24] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:44:24] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:44:24] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:44:24] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:44:24] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-16 [10:44:24] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-16 [10:44:25] [Server thread/INFO]: Stopping other threads
+2015-11-16 [10:44:27] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-16 [10:44:27] [Server thread/INFO]: Loading server properties...
+2015-11-16 [10:44:27] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-16 [10:44:27] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-16 [10:44:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-16 [10:44:27] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-16 [10:44:27] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-16 [10:44:27] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:44:27] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [10:44:27] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [10:44:27] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:44:27] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:44:27] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [10:44:27] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:44:27] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-16 [10:44:27] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-16 [10:44:27] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-16 [10:44:27] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:44:27] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:44:28] [Server thread/INFO]: Starting GS4 status listener
+2015-11-16 [10:44:28] [Server thread/INFO]: Setting query port to 19132
+2015-11-16 [10:44:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-16 [10:44:28] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-16 [10:44:28] [Server thread/INFO]: Done (0.627s)! For help, type "help" or "?"
+2015-11-16 [10:44:35] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:44:36] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [10:50:21] [Server thread/INFO]: power77788 left the game
+2015-11-16 [10:50:21] [Server thread/INFO]: power77788[/180.212.52.54:46594] logged out due to timeout
+2015-11-16 [10:53:15] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-16 [10:53:15] [Server thread/INFO]: Saving levels...
+2015-11-16 [10:53:15] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [10:53:15] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:53:15] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:53:15] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [10:53:15] [Server thread/INFO]: Reloading properties...
+2015-11-16 [10:53:15] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:53:15] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [10:53:15] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [10:53:15] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:53:15] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:53:15] [Server thread/WARNING]: RuntimeException: "yaml_parse(): end of stream reached without finding document 0" (E_WARNING) in "/src/pocketmine/utils/Config" at line 143
+2015-11-16 [10:53:15] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [10:53:15] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-16 [10:53:15] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Mon_Nov_16-10.53.15-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-16 [10:53:15] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-16 [10:53:25] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-16 [10:53:25] [Server thread/INFO]: Loading server properties...
+2015-11-16 [10:53:25] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-16 [10:53:25] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-16 [10:53:25] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-16 [10:53:25] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-16 [10:53:25] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-16 [10:53:26] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [10:53:26] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [10:53:26] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [10:53:26] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [10:53:26] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [10:53:26] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [10:53:26] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [10:53:26] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-16 [10:53:26] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-16 [10:53:26] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-16 [10:53:26] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [10:53:26] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [10:53:26] [Server thread/INFO]: Starting GS4 status listener
+2015-11-16 [10:53:26] [Server thread/INFO]: Setting query port to 19132
+2015-11-16 [10:53:26] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-16 [10:53:26] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-16 [10:53:26] [Server thread/INFO]: Done (0.633s)! For help, type "help" or "?"
+2015-11-16 [10:54:18] [Server thread/INFO]: power77788[/180.212.52.54:47046] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [10:54:19] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [11:00:56] [Server thread/INFO]: power77788 left the game
+2015-11-16 [11:00:56] [Server thread/INFO]: power77788[/180.212.52.54:47046] logged out due to timeout
+2015-11-16 [11:14:36] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-16 [11:14:36] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [11:14:36] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [11:14:36] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:14:36] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [11:14:36] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-16 [11:14:41] [Server thread/INFO]: Stopping other threads
+2015-11-16 [11:14:44] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-16 [11:14:44] [Server thread/INFO]: Loading server properties...
+2015-11-16 [11:14:44] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-16 [11:14:44] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-16 [11:14:44] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-16 [11:14:44] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-16 [11:14:44] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-16 [11:14:44] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [11:14:44] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [11:14:44] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [11:14:44] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [11:14:45] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [11:14:45] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [11:14:45] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [11:14:45] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-16 [11:14:45] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-16 [11:14:45] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-16 [11:14:45] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [11:14:45] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:14:45] [Server thread/INFO]: Starting GS4 status listener
+2015-11-16 [11:14:45] [Server thread/INFO]: Setting query port to 19132
+2015-11-16 [11:14:45] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-16 [11:14:45] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-16 [11:14:45] [Server thread/INFO]: Done (0.667s)! For help, type "help" or "?"
+2015-11-16 [11:15:22] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-16 [11:15:23] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [11:15:23] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [11:15:23] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:15:23] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [11:15:23] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-16 [11:15:28] [Server thread/INFO]: Stopping other threads
+2015-11-16 [11:16:03] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-16 [11:16:03] [Server thread/INFO]: Loading server properties...
+2015-11-16 [11:16:03] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-16 [11:16:03] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-16 [11:16:03] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-16 [11:16:03] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-16 [11:16:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-16 [11:16:03] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [11:16:03] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [11:16:03] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [11:16:03] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [11:16:03] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [11:16:03] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [11:16:03] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [11:16:03] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-16 [11:16:03] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-16 [11:16:03] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-16 [11:16:03] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [11:16:03] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:16:03] [Server thread/INFO]: Starting GS4 status listener
+2015-11-16 [11:16:03] [Server thread/INFO]: Setting query port to 19132
+2015-11-16 [11:16:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-16 [11:16:03] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-16 [11:16:03] [Server thread/INFO]: Done (0.624s)! For help, type "help" or "?"
+2015-11-16 [11:16:43] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [11:16:44] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [11:17:44] [Server thread/INFO]: power77788 left the game
+2015-11-16 [11:17:44] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-16 [11:17:53] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged in with entity id 2 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [11:17:54] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [11:18:54] [Server thread/INFO]: power77788 left the game
+2015-11-16 [11:18:54] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-16 [11:20:13] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-16 [11:20:13] [Server thread/INFO]: Saving levels...
+2015-11-16 [11:20:13] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [11:20:13] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [11:20:13] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:20:13] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [11:20:13] [Server thread/INFO]: Reloading properties...
+2015-11-16 [11:20:13] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [11:20:13] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [11:20:13] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [11:20:13] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [11:20:13] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [11:20:13] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [11:20:13] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [11:20:13] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [11:20:13] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:20:13] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-16 [11:20:24] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged in with entity id 3 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [11:20:25] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [11:21:25] [Server thread/INFO]: power77788 left the game
+2015-11-16 [11:21:25] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-16 [11:22:16] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-16 [11:22:16] [Server thread/INFO]: Saving levels...
+2015-11-16 [11:22:16] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-16 [11:22:16] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-16 [11:22:16] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:22:16] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-16 [11:22:16] [Server thread/INFO]: Reloading properties...
+2015-11-16 [11:22:16] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2015-11-16 [11:22:16] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-16 [11:22:16] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-16 [11:22:16] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-16 [11:22:16] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-16 [11:22:16] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-16 [11:22:16] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-16 [11:22:16] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2015-11-16 [11:22:16] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-16 [11:22:16] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-16 [11:22:31] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged in with entity id 4 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [11:22:32] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [11:23:32] [Server thread/INFO]: power77788 left the game
+2015-11-16 [11:23:32] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-16 [11:23:47] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged in with entity id 5 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [11:23:48] [Server thread/INFO]: power77788 joined the game
+2015-11-16 [11:23:53] [Server thread/INFO]: power77788 left the game
+2015-11-16 [11:23:53] [Server thread/INFO]: power77788[/180.212.52.54:34191] logged out due to client disconnect
+2015-11-16 [11:24:09] [Server thread/NOTICE]: Player data not found for "power777888", creating new profile
+2015-11-16 [11:24:09] [Server thread/INFO]: power777888[/180.212.52.54:34191] logged in with entity id 6 at (iToyToy's Server, 165, 78, -282)
+2015-11-16 [11:24:09] [Server thread/INFO]: power777888 joined the game
+2015-11-16 [11:31:20] [Server thread/INFO]: power777888 left the game
+2015-11-16 [11:31:20] [Server thread/INFO]: power777888[/180.212.52.54:34191] logged out due to timeout
