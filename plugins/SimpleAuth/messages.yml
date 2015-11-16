@@ -1,0 +1,24 @@
+# SimpleAuth 1.4.0 language file
+
+join:
+ message: "这个服务器使用登录插件.\n你必须登录才能进行游戏."
+ register: "你还没有注册.\n请使用命令注册: /register <你要设置的密码>"
+ login: "请使用命令登录: /login <密码>"
+
+register:
+ usage: "/register <你要设置的密码>"
+ description: "注册一个帐户"
+ permission: "您没有权限使用注册命令!"
+ error:
+  password: "你设置的密码太短!"
+  registered: "此帐号已经被人注册过."
+  general: "验证错误."
+
+login:
+ usage: "/login <密码>"
+ description: "登录到一个帐户"
+ permission: "您没有权限使用登录命令!"
+ success: "登录成功."
+ error:
+  password: "密码错误!"
+  registered: "此帐户没有注册."
