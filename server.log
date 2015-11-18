@@ -1037,3 +1037,10 @@
 2015-11-17 [09:41:24] [Server thread/INFO]: power777888 joined the game
 2015-11-17 [10:02:33] [Server thread/INFO]: power777888 left the game
 2015-11-17 [10:02:33] [Server thread/INFO]: power777888[/180.212.52.54:34514] logged out due to timeout
+2015-11-17 [22:35:23] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-17 [22:35:23] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Tue_Nov_17-22.35.23-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-17 [22:35:24] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2015-11-17 [22:35:24] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-17 [22:35:24] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-17 [22:35:24] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-17 [22:35:24] [Server thread/INFO]: Unloading level "iToyToy's Server"
