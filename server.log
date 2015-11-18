@@ -1606,3 +1606,456 @@
 2015-11-18 [07:50:12] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2015-11-18 [07:50:12] [Server thread/INFO]: Default game type: Survival Mode
 2015-11-18 [07:50:12] [Server thread/INFO]: Done (0.677s)! For help, type "help" or "?"
+2015-11-18 [08:00:43] [Server thread/INFO]: blg[/120.70.81.156:31117] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [08:00:44] [Server thread/INFO]: blg joined the game
+2015-11-18 [08:02:27] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-18 [08:02:27] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Wed_Nov_18-08.02.27-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-18 [08:02:27] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [08:02:27] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:02:27] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:02:27] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:02:27] [Server thread/INFO]: blg left the game
+2015-11-18 [08:02:27] [Server thread/INFO]: blg[/120.70.81.156:31117] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-18 [08:02:27] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [08:08:46] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [08:08:46] [Server thread/INFO]: Loading server properties...
+2015-11-18 [08:08:46] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [08:08:46] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [08:08:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [08:08:46] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [08:08:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [08:08:46] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [08:08:46] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:08:46] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [08:08:46] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:08:47] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [08:08:47] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [08:08:47] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:08:47] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [08:08:47] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [08:08:47] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [08:08:47] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:08:47] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:08:47] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:08:47] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [08:08:47] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [08:08:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [08:08:47] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [08:08:47] [Server thread/INFO]: Done (1.158s)! For help, type "help" or "?"
+2015-11-18 [08:13:23] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-18 [08:13:23] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Wed_Nov_18-08.13.23-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-18 [08:13:24] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [08:13:24] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:13:24] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:13:24] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:13:24] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [08:20:09] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [08:20:09] [Server thread/INFO]: Loading server properties...
+2015-11-18 [08:20:09] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [08:20:09] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [08:20:09] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [08:20:10] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [08:20:10] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [08:20:10] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [08:20:10] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:20:10] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [08:20:10] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:20:10] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [08:20:10] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [08:20:10] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:20:10] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [08:20:10] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [08:20:10] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [08:20:10] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:20:10] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:20:10] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:20:10] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [08:20:10] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [08:20:10] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [08:20:10] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [08:20:10] [Server thread/INFO]: Done (0.667s)! For help, type "help" or "?"
+2015-11-18 [08:20:21] [Server thread/INFO]: Plugin SimpleAuth is not in folder structure.
+2015-11-18 [08:21:05] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-18 [08:21:05] [Server thread/INFO]: Saving levels...
+2015-11-18 [08:21:05] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [08:21:05] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:21:05] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:21:05] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:21:05] [Server thread/INFO]: Reloading properties...
+2015-11-18 [08:21:05] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:21:05] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Unknown dependency
+2015-11-18 [08:21:05] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:21:05] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Unknown dependency
+2015-11-18 [08:21:05] [Server thread/CRITICAL]: Could not load plugin 'SimpleAuthHelper': Circular dependency detected
+2015-11-18 [08:21:05] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:21:05] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:21:05] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:21:05] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-18 [08:21:11] [Server thread/INFO]: Invalid plugin name, check the name case.
+2015-11-18 [08:21:20] [Server thread/INFO]: Invalid plugin name, check the name case.
+2015-11-18 [08:21:57] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-18 [08:21:57] [Server thread/INFO]: Saving levels...
+2015-11-18 [08:21:57] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:21:57] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:21:57] [Server thread/INFO]: Reloading properties...
+2015-11-18 [08:21:57] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:21:57] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:21:57] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:21:57] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:21:57] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:21:57] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-18 [08:22:00] [Server thread/INFO]: moon[/114.236.103.90:19132] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [08:22:00] [Server thread/INFO]: Invalid plugin name, check the name case.
+2015-11-18 [08:22:01] [Server thread/INFO]: moon joined the game
+2015-11-18 [08:22:09] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-18 [08:22:09] [Server thread/INFO]: Saving levels...
+2015-11-18 [08:22:09] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:22:09] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:22:09] [Server thread/INFO]: Reloading properties...
+2015-11-18 [08:22:09] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:22:09] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:22:09] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:22:09] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:22:09] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:22:09] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-18 [08:22:25] [Server thread/INFO]: <moon> 我的发克
+2015-11-18 [08:22:36] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [08:22:36] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:22:36] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:22:36] [Server thread/INFO]: moon left the game
+2015-11-18 [08:22:36] [Server thread/INFO]: moon[/114.236.103.90:19132] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-18 [08:22:36] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [08:22:37] [Server thread/INFO]: Stopping other threads
+2015-11-18 [08:22:40] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [08:22:40] [Server thread/INFO]: Loading server properties...
+2015-11-18 [08:22:40] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [08:22:40] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [08:22:40] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [08:22:40] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [08:22:40] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [08:22:40] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:22:40] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:22:40] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:22:40] [Server thread/INFO]: Loading source plugin SimpleAuth v1.7.1
+2015-11-18 [08:22:40] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [08:22:40] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [08:22:40] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [08:22:40] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [08:22:40] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:22:40] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:22:40] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [08:22:40] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [08:22:40] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [08:22:40] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [08:22:40] [Server thread/INFO]: Done (0.62s)! For help, type "help" or "?"
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding LICENSE
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding resources/sqlite3.sql
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding resources/config.yml
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding resources/mysql.sql
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding resources/messages.yml
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding plugin.yml
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding README.md
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/SQLite3DataProvider.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/DummyDataProvider.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/YAMLDataProvider.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/MySQLDataProvider.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/provider/DataProvider.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/SimpleAuth.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerUnregisterEvent.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/SimpleAuthEvent.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerAuthenticateEvent.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerRegisterEvent.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/event/PlayerDeauthenticateEvent.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/EventListener.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/task/ShowMessageTask.php
+2015-11-18 [08:22:45] [Server thread/INFO]: [DevTools] Adding src/SimpleAuth/task/MySQLPingTask.php
+2015-11-18 [08:22:45] [Server thread/INFO]: Phar plugin SimpleAuth v1.7.1 has been created on /home/power777888/mp1.5/plugins/DevTools//SimpleAuth_v1.7.1.phar
+2015-11-18 [08:23:36] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [08:23:36] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:23:36] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:23:36] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [08:23:36] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [08:23:37] [Server thread/INFO]: Stopping other threads
+2015-11-18 [08:23:41] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [08:23:41] [Server thread/INFO]: Loading server properties...
+2015-11-18 [08:23:41] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [08:23:41] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [08:23:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [08:23:41] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [08:23:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [08:23:41] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [08:23:41] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:23:41] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [08:23:41] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:23:42] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [08:23:42] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [08:23:42] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:23:42] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [08:23:42] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [08:23:42] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [08:23:42] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:23:42] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:23:42] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:23:42] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [08:23:42] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [08:23:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [08:23:42] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [08:23:42] [Server thread/INFO]: Done (0.906s)! For help, type "help" or "?"
+2015-11-18 [08:24:00] [Server thread/INFO]: Plugins (4): SimpleAuth v1.7.1, KeepInventory v1.2.0, SimpleAuthHelper v2.0.4, DevTools v1.10.0
+2015-11-18 [08:25:39] [Server thread/INFO]: power777888[/180.212.52.54:47821] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [08:25:40] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [08:36:58] [Server thread/INFO]: power777888 left the game
+2015-11-18 [08:36:58] [Server thread/INFO]: power777888[/180.212.52.54:47821] logged out due to client disconnect
+2015-11-18 [08:41:54] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [08:41:54] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [08:41:54] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:41:54] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:41:54] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:41:54] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [08:41:54] [Server thread/INFO]: Stopping other threads
+2015-11-18 [08:45:46] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [08:45:46] [Server thread/INFO]: Loading server properties...
+2015-11-18 [08:45:46] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [08:45:46] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [08:45:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [08:45:46] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-48 "[REDACTED]" (API 1.13.0)
+2015-11-18 [08:45:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [08:45:46] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [08:45:46] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:45:46] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [08:45:46] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:45:47] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [08:45:47] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [08:45:47] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:45:47] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [08:45:47] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [08:45:47] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [08:45:47] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:45:47] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:45:47] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:45:47] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [08:45:47] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [08:45:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [08:45:47] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [08:45:47] [Server thread/INFO]: Done (1.183s)! For help, type "help" or "?"
+2015-11-18 [08:47:33] [Server thread/INFO]: power777888[/180.212.52.54:36003] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [08:47:34] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [08:48:44] [Server thread/INFO]: power777888 left the game
+2015-11-18 [08:48:44] [Server thread/INFO]: power777888[/180.212.52.54:36003] logged out due to client disconnect
+2015-11-18 [08:49:05] [Server thread/INFO]: power777888[/180.212.52.54:36003] logged in with entity id 12 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [08:49:06] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [08:51:57] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-11-18 [08:54:26] [Server thread/INFO]: power777888 left the game
+2015-11-18 [08:54:26] [Server thread/INFO]: power777888[/180.212.52.54:36003] logged out due to timeout
+2015-11-18 [08:54:55] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [08:54:55] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [08:54:55] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [08:54:55] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:54:55] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [08:54:55] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [08:54:56] [Server thread/INFO]: Stopping other threads
+2015-11-18 [08:54:57] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [08:54:57] [Server thread/INFO]: Loading server properties...
+2015-11-18 [08:54:57] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [08:54:57] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [08:54:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [08:54:57] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-48 "[REDACTED]" (API 1.13.0)
+2015-11-18 [08:54:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [08:54:57] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [08:54:57] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [08:54:57] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [08:54:57] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [08:54:58] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [08:54:58] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [08:54:58] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [08:54:58] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [08:54:58] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [08:54:58] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [08:54:58] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [08:54:58] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [08:54:58] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [08:54:58] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [08:54:58] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [08:54:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [08:54:58] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [08:54:58] [Server thread/INFO]: Done (0.678s)! For help, type "help" or "?"
+2015-11-18 [08:55:26] [Server thread/INFO]: power777888[/180.212.52.54:36003] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [08:55:27] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [08:56:34] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-11-18 [08:59:55] [Server thread/INFO]: [power777888: Set own game mode to Adventure Mode]
+2015-11-18 [09:00:08] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-11-18 [09:01:03] [Server thread/INFO]: power777888 left the game
+2015-11-18 [09:01:03] [Server thread/INFO]: power777888[/180.212.52.54:36003] logged out due to timeout
+2015-11-18 [09:01:12] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [09:01:12] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [09:01:12] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [09:01:12] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:01:12] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [09:01:12] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [09:01:13] [Server thread/INFO]: Stopping other threads
+2015-11-18 [09:04:49] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [09:04:49] [Server thread/INFO]: Loading server properties...
+2015-11-18 [09:04:49] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [09:04:49] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [09:04:49] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [09:04:49] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-43 "[REDACTED]" (API 1.13.0)
+2015-11-18 [09:04:49] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [09:04:49] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [09:04:49] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [09:04:49] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [09:04:49] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [09:04:49] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [09:04:49] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [09:04:49] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [09:04:49] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [09:04:49] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [09:04:49] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [09:04:49] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [09:04:49] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [09:04:49] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:04:49] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [09:04:49] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [09:04:49] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [09:04:49] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [09:04:49] [Server thread/INFO]: Done (0.718s)! For help, type "help" or "?"
+2015-11-18 [09:05:17] [Server thread/INFO]: power777888[/180.212.52.54:41650] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [09:05:18] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [09:07:55] [Server thread/INFO]: power777888 left the game
+2015-11-18 [09:07:55] [Server thread/INFO]: power777888[/180.212.52.54:41650] logged out due to timeout
+2015-11-18 [09:12:29] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [09:12:29] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [09:12:29] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [09:12:29] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:12:29] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [09:12:29] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [09:12:29] [Server thread/INFO]: Stopping other threads
+2015-11-18 [09:13:42] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [09:13:42] [Server thread/INFO]: Loading server properties...
+2015-11-18 [09:13:42] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [09:13:42] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [09:13:43] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [09:13:43] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-47 "[REDACTED]" (API 1.13.0)
+2015-11-18 [09:13:43] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [09:13:43] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [09:13:43] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [09:13:43] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [09:13:43] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [09:13:43] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [09:13:43] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [09:13:43] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [09:13:43] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [09:13:43] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [09:13:43] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [09:13:43] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [09:13:43] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [09:13:43] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:13:43] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [09:13:43] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [09:13:43] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [09:13:43] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [09:13:43] [Server thread/INFO]: Done (0.692s)! For help, type "help" or "?"
+2015-11-18 [09:14:37] [Server thread/INFO]: power777888[/180.212.52.54:35424] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [09:14:38] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [09:16:53] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-11-18 [09:18:07] [Server thread/INFO]: [/117.150.2.33:38020] logged out due to Login timeout
+2015-11-18 [09:18:11] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-11-18 [09:18:30] [Server thread/INFO]: [/117.150.2.33:38020] logged out due to Login timeout
+2015-11-18 [09:19:11] [Server thread/INFO]: power777888 left the game
+2015-11-18 [09:19:11] [Server thread/INFO]: power777888[/180.212.52.54:35424] logged out due to client disconnect
+2015-11-18 [09:19:28] [Server thread/INFO]: [/117.150.2.33:38020] logged out due to Login timeout
+2015-11-18 [09:20:00] [Server thread/INFO]: [/117.150.2.33:38020] logged out due to Login timeout
+2015-11-18 [09:20:23] [Server thread/INFO]: [/117.150.2.33:38020] logged out due to Login timeout
+2015-11-18 [09:23:00] [Server thread/NOTICE]: Player data not found for "flyingbird", creating new profile
+2015-11-18 [09:23:00] [Server thread/INFO]: flyingbird[/117.150.2.33:38030] logged in with entity id 14 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [09:23:01] [Server thread/INFO]: flyingbird joined the game
+2015-11-18 [09:23:06] [Server thread/INFO]: power777888[/180.212.52.54:46488] logged in with entity id 25 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [09:23:07] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [09:23:11] [Server thread/INFO]: flyingbird left the game
+2015-11-18 [09:23:11] [Server thread/INFO]: flyingbird[/117.150.2.33:38030] logged out due to client disconnect
+2015-11-18 [09:30:59] [Server thread/INFO]: power777888 left the game
+2015-11-18 [09:30:59] [Server thread/INFO]: power777888[/180.212.52.54:46488] logged out due to timeout
+2015-11-18 [09:55:17] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [09:55:17] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [09:55:17] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [09:55:17] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:55:17] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [09:55:17] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [09:55:18] [Server thread/INFO]: Stopping other threads
+2015-11-18 [09:55:22] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [09:55:22] [Server thread/INFO]: Loading server properties...
+2015-11-18 [09:55:22] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [09:55:22] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [09:55:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [09:55:22] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-47 "[REDACTED]" (API 1.13.0)
+2015-11-18 [09:55:22] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [09:55:22] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [09:55:22] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [09:55:22] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [09:55:22] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [09:55:23] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [09:55:23] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [09:55:23] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [09:55:23] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [09:55:23] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [09:55:23] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [09:55:23] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [09:55:23] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [09:55:23] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:55:23] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [09:55:23] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [09:55:23] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [09:55:23] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [09:55:23] [Server thread/INFO]: Done (0.689s)! For help, type "help" or "?"
+2015-11-18 [09:57:53] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-18 [09:57:53] [Server thread/INFO]: Saving levels...
+2015-11-18 [09:57:53] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [09:57:53] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [09:57:53] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [09:57:53] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [09:57:53] [Server thread/INFO]: Reloading properties...
+2015-11-18 [09:57:53] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [09:57:53] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [09:57:53] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [09:57:53] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [09:57:53] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [09:57:53] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [09:57:53] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [09:57:53] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [09:57:53] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-18 [09:58:00] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [09:58:00] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [09:58:00] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [09:58:00] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [09:58:00] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [09:58:01] [Server thread/INFO]: Stopping other threads
+2015-11-18 [09:58:03] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [09:58:03] [Server thread/INFO]: Loading server properties...
+2015-11-18 [09:58:03] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [09:58:03] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [09:58:03] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [09:58:03] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-47 "[REDACTED]" (API 1.13.0)
+2015-11-18 [09:58:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [09:58:03] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [09:58:03] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [09:58:03] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [09:58:03] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [09:58:03] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [09:58:03] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [09:58:03] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [09:58:03] [Server thread/ERROR]: Could not load '/home/power777888/mp1.5/plugins/SimpleAuthHelperSrc' in folder '/home/power777888/mp1.5/plugins/': yaml_parse(): reading error encountered during parsing: invalid leading UTF-8 octet (line 1, column 1)
+2015-11-18 [09:58:03] [Server thread/WARNING]: RuntimeException: "yaml_parse(): reading error encountered during parsing: invalid leading UTF-8 octet (line 1, column 1)" (E_WARNING) in "/src/pocketmine/plugin/PluginDescription" at line 51
+2015-11-18 [09:58:03] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [09:58:03] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [09:58:03] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [09:58:03] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [09:58:04] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [09:58:04] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [09:58:04] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [09:58:04] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [09:58:04] [Server thread/INFO]: Done (0.655s)! For help, type "help" or "?"
+2015-11-18 [09:58:54] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [09:58:55] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [09:58:55] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [09:58:55] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [09:58:55] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [09:58:55] [Server thread/INFO]: Stopping other threads

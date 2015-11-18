@@ -43,6 +43,7 @@ class ShowMessageTask extends PluginTask{
 	}
 
 	public function removePlayer(Player $player){
+		if (is_null($player->getUniqueId())) return;
 		unset($this->playerList[$player->getUniqueId()->toString()]);
 	}
 
