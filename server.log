@@ -1044,3 +1044,341 @@
 2015-11-17 [22:35:24] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
 2015-11-17 [22:35:24] [Server thread/INFO]: Disabling DevTools v1.10.0
 2015-11-17 [22:35:24] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [04:53:39] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [04:53:39] [Server thread/INFO]: Loading server properties...
+2015-11-18 [04:53:39] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [04:53:39] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [04:53:39] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [04:53:39] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [04:53:39] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [04:53:39] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [04:53:39] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [04:53:39] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [04:53:39] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [04:53:40] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [04:53:40] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [04:53:40] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [04:53:40] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [04:53:40] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [04:53:40] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [04:53:40] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [04:53:40] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [04:53:40] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [04:53:40] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [04:53:40] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [04:53:40] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [04:53:40] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [04:53:40] [Server thread/INFO]: Done (0.801s)! For help, type "help" or "?"
+2015-11-18 [04:54:01] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [04:54:02] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [04:54:07] [Server thread/INFO]: power777888 left the game
+2015-11-18 [04:54:07] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged out due to client disconnect
+2015-11-18 [04:54:12] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged in with entity id 9 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [04:54:13] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [04:54:15] [Server thread/INFO]: power777888 left the game
+2015-11-18 [04:54:15] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged out due to client disconnect
+2015-11-18 [04:55:50] [Server thread/NOTICE]: Player data not found for "eee", creating new profile
+2015-11-18 [04:55:50] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 10 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [04:55:51] [Server thread/INFO]: eee joined the game
+2015-11-18 [04:56:51] [Server thread/INFO]: eee left the game
+2015-11-18 [04:56:51] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [04:56:55] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 18 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [04:56:56] [Server thread/INFO]: eee joined the game
+2015-11-18 [04:57:36] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged in with entity id 19 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [04:57:37] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [04:57:52] [Server thread/INFO]: <power777888> zhu ce
+2015-11-18 [04:57:56] [Server thread/INFO]: eee left the game
+2015-11-18 [04:57:56] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [04:58:04] [Server thread/INFO]: power777888 left the game
+2015-11-18 [04:58:04] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged out due to client disconnect
+2015-11-18 [04:58:19] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged in with entity id 20 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [04:58:20] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [04:59:18] [Server thread/WARNING]: power777888 moved wrongly!
+2015-11-18 [04:59:19] [Server thread/WARNING]: power777888 moved wrongly!
+2015-11-18 [04:59:52] [Server thread/INFO]: power777888 left the game
+2015-11-18 [04:59:52] [Server thread/INFO]: power777888[/180.212.52.54:36931] logged out due to client disconnect
+2015-11-18 [05:02:18] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-18 [05:02:18] [Server thread/INFO]: Saving levels...
+2015-11-18 [05:02:18] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [05:02:18] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [05:02:18] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [05:02:18] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [05:02:18] [Server thread/INFO]: Reloading properties...
+2015-11-18 [05:02:18] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [05:02:18] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [05:02:18] [Server thread/INFO]: Loading Animal v0.0.2
+2015-11-18 [05:02:18] [Server thread/INFO]: [Animal] 动物插件加载中！
+2015-11-18 [05:02:18] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [05:02:18] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [05:02:18] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [05:02:18] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [05:02:18] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [05:02:18] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [05:02:18] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [05:02:18] [Server thread/INFO]: Enabling Animal v0.0.2
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::PigRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::PigRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::PigYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::PigGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SheepRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SheepRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SheepYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SheepGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::WolfRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::WolfRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::WolfYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::WolfGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::CowRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::CowRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::CowYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::CowGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SpiderRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SpiderRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SpiderYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SpiderGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SlimeRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SlimeYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::SlimeGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::ChickenRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::ChickenRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::ChickenYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::ChickenGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::MooshroomRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::MooshroomRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::MooshroomYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::MooshroomGenerate)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::EndermanRandomWalkCalc)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::EndermanRandomWalk)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::EndermanYaw)
+2015-11-18 [05:02:18] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Animal\Animal::EndermanGenerate)
+2015-11-18 [05:02:18] [Server thread/INFO]: [Animal] 动物插件加载完成 ！作者：HuiYuzhe
+2015-11-18 [05:02:18] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [05:02:18] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-18 [05:04:13] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 24 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:04:14] [Server thread/INFO]: eee joined the game
+2015-11-18 [05:04:39] [Server thread/INFO]: power777888[/180.212.52.54:33295] logged in with entity id 31 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:04:40] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [05:05:14] [Server thread/INFO]: eee left the game
+2015-11-18 [05:05:14] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:05:18] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 32 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:05:19] [Server thread/INFO]: eee joined the game
+2015-11-18 [05:06:14] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-11-18 [05:06:19] [Server thread/INFO]: eee left the game
+2015-11-18 [05:06:19] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:06:27] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 33 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:06:28] [Server thread/INFO]: eee joined the game
+2015-11-18 [05:06:53] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-18 [05:06:53] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Wed_Nov_18-05.06.53-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-18 [05:06:53] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [05:06:53] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [05:06:53] [Server thread/INFO]: Disabling Animal v0.0.2
+2015-11-18 [05:06:53] [Server thread/INFO]: [Animal] 生物插件已关闭 ！
+2015-11-18 [05:06:53] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [05:06:53] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [05:06:53] [Server thread/INFO]: power777888 left the game
+2015-11-18 [05:06:53] [Server thread/INFO]: power777888[/180.212.52.54:33295] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-18 [05:06:53] [Server thread/INFO]: eee left the game
+2015-11-18 [05:06:53] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-18 [05:06:53] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading server properties...
+2015-11-18 [05:07:44] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [05:07:44] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [05:07:44] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [05:07:44] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [05:07:44] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading AnimalWorld v2.9.0_优化版
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [05:07:44] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [05:07:44] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [05:07:44] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [05:07:44] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [05:07:44] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [05:07:44] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [05:07:44] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [05:07:44] [Server thread/INFO]: Enabling AnimalWorld v2.9.0_优化版
+2015-11-18 [05:07:44] [Server thread/INFO]: [AnimalWorld] AnimalWorld is enabling!
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::animalGenerate)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::clear)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::timereset)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::AnimalRandomWalk)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::AnimalRandomWalkCalc)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::MobRandomWalkCalc)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::MobRandomWalk)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::SpecialMobRandomWalkCalc)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::DogRandomWalkCalc)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::DogRandomWalk)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::DogGenerate)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::AllRotation)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::MOBGenerate)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::SpecialMobGenerate)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::ArrowCalc)
+2015-11-18 [05:07:44] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#Zzm\AnimalWorld::Change)
+2015-11-18 [05:07:44] [Server thread/INFO]: [AnimalWorld] AnimalWorld was enabled successfully!
+2015-11-18 [05:07:44] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [05:07:44] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [05:07:44] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [05:07:44] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [05:07:44] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [05:07:44] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [05:07:45] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [05:07:45] [Server thread/INFO]: Done (0.682s)! For help, type "help" or "?"
+2015-11-18 [05:08:13] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-18 [05:08:13] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-18 [05:08:13] [Server thread/INFO]: Disabling AnimalWorld v2.9.0_优化版
+2015-11-18 [05:08:13] [Server thread/INFO]: [AnimalWorld] AnimalWorld was disabled successfully!
+2015-11-18 [05:08:13] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-18 [05:08:13] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-18 [05:08:13] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-18 [05:08:13] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-18 [05:08:14] [Server thread/INFO]: Stopping other threads
+2015-11-18 [05:08:16] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-18 [05:08:16] [Server thread/INFO]: Loading server properties...
+2015-11-18 [05:08:16] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-18 [05:08:16] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-18 [05:08:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-18 [05:08:16] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-18 [05:08:16] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-18 [05:08:16] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-18 [05:08:16] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-18 [05:08:16] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-11-18 [05:08:16] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-18 [05:08:16] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-18 [05:08:16] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-18 [05:08:16] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-18 [05:08:16] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-18 [05:08:16] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-18 [05:08:16] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-18 [05:08:16] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-18 [05:08:16] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-18 [05:08:16] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-18 [05:08:17] [Server thread/INFO]: Starting GS4 status listener
+2015-11-18 [05:08:17] [Server thread/INFO]: Setting query port to 19132
+2015-11-18 [05:08:17] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-18 [05:08:17] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-18 [05:08:17] [Server thread/INFO]: Done (0.625s)! For help, type "help" or "?"
+2015-11-18 [05:09:38] [Server thread/INFO]: power777888[/180.212.52.54:40996] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:09:39] [Server thread/INFO]: power777888 joined the game
+2015-11-18 [05:09:50] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 8 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:09:51] [Server thread/INFO]: eee joined the game
+2015-11-18 [05:10:51] [Server thread/INFO]: eee left the game
+2015-11-18 [05:10:51] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:10:56] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 9 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:10:57] [Server thread/INFO]: eee joined the game
+2015-11-18 [05:11:19] [Server thread/INFO]: <power777888> register
+2015-11-18 [05:11:57] [Server thread/INFO]: eee left the game
+2015-11-18 [05:11:57] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:12:02] [Server thread/INFO]: eee[/183.147.8.115:19132] logged in with entity id 10 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:12:03] [Server thread/INFO]: eee joined the game
+2015-11-18 [05:12:04] [Server thread/INFO]: <power777888> ./register 密码
+2015-11-18 [05:13:03] [Server thread/INFO]: eee left the game
+2015-11-18 [05:13:03] [Server thread/INFO]: eee[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:18:27] [Server thread/INFO]: power777888 left the game
+2015-11-18 [05:18:27] [Server thread/INFO]: power777888[/180.212.52.54:40996] logged out due to timeout
+2015-11-18 [05:22:40] [Server thread/NOTICE]: Player data not found for "xiao_chao", creating new profile
+2015-11-18 [05:22:40] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 11 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:22:41] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:24:31] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:24:31] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:27:04] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:27:05] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:27:18] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:27:18] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:27:24] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:27:24] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:27:27] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 49 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:27:28] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:29:17] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:30:49] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:30:49] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:31:01] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 63 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:31:02] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:31:43] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:32:09] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:33:45] [Server thread/NOTICE]: Player data not found for "qiguaijundada_", creating new profile
+2015-11-18 [05:33:45] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 92 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:33:46] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:33:58] [Server thread/INFO]: <xiao_chao> hi
+2015-11-18 [05:34:46] [Server thread/INFO]: qiguaijundada_ left the game
+2015-11-18 [05:34:46] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:35:07] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 117 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:35:08] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:35:31] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:35:31] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:35:35] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 126 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:35:36] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:36:08] [Server thread/INFO]: qiguaijundada_ left the game
+2015-11-18 [05:36:08] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged out due to Kicked by admin. Reason: Login timer expired!
+2015-11-18 [05:36:49] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 130 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:36:50] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:37:37] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:37:44] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:37:44] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:37:49] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 157 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:37:50] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:39:20] [Server thread/INFO]: qiguaijundada_ died
+2015-11-18 [05:39:24] [Server thread/INFO]: qiguaijundada_ left the game
+2015-11-18 [05:39:24] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged out due to client disconnect
+2015-11-18 [05:39:32] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 219 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:39:33] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:39:39] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:40:08] [Server thread/INFO]: qiguaijundada_ has just earned the achievement Getting Wood
+2015-11-18 [05:40:14] [Server thread/INFO]: qiguaijundada_ left the game
+2015-11-18 [05:40:14] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged out due to client disconnect
+2015-11-18 [05:41:21] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 290 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:41:22] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:42:00] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:42:01] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:42:14] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:42:14] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:42:16] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 336 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:42:17] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:43:34] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:43:34] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:43:39] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 370 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:43:40] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:43:55] [Server thread/INFO]: qiguaijundada_ has just earned the achievement Benchmarking
+2015-11-18 [05:43:59] [Server thread/INFO]: qiguaijundada_ has just earned the achievement Time to Mine!
+2015-11-18 [05:46:50] [Server thread/WARNING]: qiguaijundada_ moved wrongly!
+2015-11-18 [05:47:13] [Server thread/INFO]: qiguaijundada_ left the game
+2015-11-18 [05:47:13] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged out due to client disconnect
+2015-11-18 [05:47:15] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 565 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:47:16] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:47:46] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:47:49] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:49:10] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:49:10] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:49:12] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 683 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:49:13] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:49:30] [Server thread/INFO]: xiao_chao died
+2015-11-18 [05:51:40] [Server thread/INFO]: qiguaijundada_ died
+2015-11-18 [05:51:49] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:51:49] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-18 [05:52:29] [Server thread/INFO]: qiguaijundada_ has just earned the achievement Getting an Upgrade
+2015-11-18 [05:52:56] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:52:56] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:52:58] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 843 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:52:59] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:54:09] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:54:09] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to client disconnect
+2015-11-18 [05:54:15] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged in with entity id 897 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:54:16] [Server thread/INFO]: xiao_chao joined the game
+2015-11-18 [05:55:10] [Server thread/INFO]: <xiao_chao> dada你有熔炉吗
+2015-11-18 [05:55:19] [Server thread/INFO]: <qiguaijundada_> you
+2015-11-18 [05:55:28] [Server thread/INFO]: <qiguaijundada_> meo
+2015-11-18 [05:55:45] [Server thread/INFO]: qiguaijundada_ left the game
+2015-11-18 [05:55:45] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged out due to client disconnect
+2015-11-18 [05:56:39] [Server thread/INFO]: qiguaijundada_[/183.147.8.115:19132] logged in with entity id 916 at (iToyToy's Server, 165, 78, -282)
+2015-11-18 [05:56:40] [Server thread/INFO]: qiguaijundada_ joined the game
+2015-11-18 [05:57:15] [Server thread/INFO]: <xiao_chao> 能给我一个熔炉
+2015-11-18 [05:57:32] [Server thread/WARNING]: qiguaijundada_ moved wrongly!
+2015-11-18 [05:57:37] [Server thread/INFO]: qiguaijundada_ suffocated in a wall
+2015-11-18 [05:58:00] [Server thread/INFO]: <xiao_chao> 吗
+2015-11-18 [05:58:07] [Server thread/INFO]: qiguaijundada_ fell from a high place
+2015-11-18 [05:58:07] [Server thread/WARNING]: qiguaijundada_ moved wrongly!
+2015-11-18 [05:58:35] [Server thread/INFO]: <xiao_chao> 我送你黃金
+2015-11-18 [05:58:53] [Server thread/INFO]: qiguaijundada_ suffocated in a wall
+2015-11-18 [05:59:25] [Server thread/INFO]: xiao_chao left the game
+2015-11-18 [05:59:25] [Server thread/INFO]: xiao_chao[/14.119.111.229:19132] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
