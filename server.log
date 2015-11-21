@@ -4410,3 +4410,397 @@
 2015-11-21 [01:36:43] [Server thread/INFO]: power777888 joined the game
 2015-11-21 [01:41:26] [Server thread/INFO]: power777888 left the game
 2015-11-21 [01:41:26] [Server thread/INFO]: power777888[/180.212.36.191:32927] logged out due to timeout
+2015-11-21 [02:05:50] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged in with entity id 50 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:05:51] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [02:13:53] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-11-21 [02:24:39] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-11-21 [02:25:09] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-11-21 [02:26:51] [Server thread/INFO]: power777888 left the game
+2015-11-21 [02:26:51] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged out due to timeout
+2015-11-21 [02:27:00] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged in with entity id 125 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:27:01] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [02:28:05] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 139 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:28:06] [Server thread/INFO]: moon joined the game
+2015-11-21 [02:28:12] [Server thread/INFO]: <power777888> hi
+2015-11-21 [02:28:17] [Server thread/INFO]: moon left the game
+2015-11-21 [02:28:17] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [02:29:34] [Server thread/INFO]: There are 1/3000 players online:
+2015-11-21 [02:29:34] [Server thread/INFO]: power777888
+2015-11-21 [02:29:38] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-11-21 [02:29:38] [Server thread/INFO]: Saving levels...
+2015-11-21 [02:29:38] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-21 [02:29:38] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-21 [02:29:38] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-21 [02:29:38] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-21 [02:29:38] [Server thread/INFO]: Reloading properties...
+2015-11-21 [02:29:38] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-21 [02:29:38] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-21 [02:29:38] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-21 [02:29:38] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-21 [02:29:38] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-21 [02:29:38] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-21 [02:29:38] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-21 [02:29:38] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-21 [02:29:38] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-21 [02:29:38] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-21 [02:29:38] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-21 [02:29:38] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-11-21 [02:29:43] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-11-21 [02:29:43] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-11-21 [02:29:43] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-11-21 [02:29:43] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-11-21 [02:29:43] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-11-21 [02:29:43] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-11-21 [02:29:43] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-11-21 [02:29:43] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-11-21 [02:29:43] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-11-21 [02:29:43] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-11-21 [02:29:43] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-11-21 [02:29:43] [Server thread/INFO]: /disablechat: 全体禁言
+2015-11-21 [02:29:43] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-11-21 [02:29:43] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-11-21 [02:29:43] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-11-21 [02:29:43] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-11-21 [02:29:43] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-11-21 [02:29:43] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-11-21 [02:29:43] [Server thread/INFO]: /help: Shows the help menu
+2015-11-21 [02:29:43] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-11-21 [02:29:43] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-11-21 [02:29:43] [Server thread/INFO]: /list: Lists all online players
+2015-11-21 [02:29:43] [Server thread/INFO]: /login: 登录账号
+2015-11-21 [02:29:43] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-11-21 [02:29:43] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-11-21 [02:29:43] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-11-21 [02:29:43] [Server thread/INFO]: /mute: 禁言玩家
+2015-11-21 [02:29:43] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-11-21 [02:29:43] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-11-21 [02:29:43] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-11-21 [02:29:43] [Server thread/INFO]: /particle: Adds particles to a world
+2015-11-21 [02:29:43] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-11-21 [02:29:43] [Server thread/INFO]: /register: 注册一个账号
+2015-11-21 [02:29:43] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-11-21 [02:29:43] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-11-21 [02:29:43] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-11-21 [02:29:43] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-11-21 [02:29:43] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-11-21 [02:29:43] [Server thread/INFO]: /seed: Shows the world seed
+2015-11-21 [02:29:43] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-11-21 [02:29:43] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-11-21 [02:29:43] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-11-21 [02:29:43] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-11-21 [02:29:43] [Server thread/INFO]: /stop: Stops the server
+2015-11-21 [02:29:43] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-11-21 [02:29:43] [Server thread/INFO]: /time: Changes the time on each world
+2015-11-21 [02:29:43] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-11-21 [02:29:43] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-11-21 [02:29:43] [Server thread/INFO]: /unmute: 解除禁言
+2015-11-21 [02:29:43] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-11-21 [02:29:43] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-11-21 [02:30:33] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-21 [02:30:33] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-21 [02:30:33] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-21 [02:30:33] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-21 [02:30:33] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-11-21 [02:30:33] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-21 [02:30:33] [Server thread/INFO]: power777888 left the game
+2015-11-21 [02:30:33] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-21 [02:30:33] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-21 [02:30:34] [Server thread/INFO]: Stopping other threads
+2015-11-21 [02:30:36] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-21 [02:30:36] [Server thread/INFO]: Loading server properties...
+2015-11-21 [02:30:36] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-21 [02:30:36] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-21 [02:30:36] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-21 [02:30:36] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-47 "[REDACTED]" (API 1.13.0)
+2015-11-21 [02:30:36] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-21 [02:30:36] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-21 [02:30:36] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-21 [02:30:36] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-21 [02:30:36] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-21 [02:30:36] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-21 [02:30:37] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-21 [02:30:37] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-21 [02:30:37] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-21 [02:30:37] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-21 [02:30:37] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-21 [02:30:37] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-21 [02:30:37] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-21 [02:30:37] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-21 [02:30:37] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-21 [02:30:37] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-21 [02:30:37] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-21 [02:30:37] [Server thread/INFO]: Starting GS4 status listener
+2015-11-21 [02:30:37] [Server thread/INFO]: Setting query port to 19132
+2015-11-21 [02:30:37] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-21 [02:30:37] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-21 [02:30:37] [Server thread/INFO]: Done (0.696s)! For help, type "help" or "?"
+2015-11-21 [02:30:43] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:30:44] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [02:31:09] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-11-21 [02:31:09] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-11-21 [02:31:09] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-11-21 [02:31:09] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-11-21 [02:31:09] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-11-21 [02:31:09] [Server thread/INFO]: /chpwd: Change password
+2015-11-21 [02:31:09] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-11-21 [02:31:09] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-11-21 [02:31:09] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-11-21 [02:31:09] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-11-21 [02:31:09] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-11-21 [02:31:09] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-11-21 [02:31:09] [Server thread/INFO]: /disablechat: 全体禁言
+2015-11-21 [02:31:09] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-11-21 [02:31:09] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-11-21 [02:31:09] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-11-21 [02:31:09] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-11-21 [02:31:09] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-11-21 [02:31:09] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-11-21 [02:31:09] [Server thread/INFO]: /help: Shows the help menu
+2015-11-21 [02:31:09] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-11-21 [02:31:09] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-11-21 [02:31:09] [Server thread/INFO]: /list: Lists all online players
+2015-11-21 [02:31:09] [Server thread/INFO]: /login: 登录账号
+2015-11-21 [02:31:09] [Server thread/INFO]: /logout: logout player
+2015-11-21 [02:31:09] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-11-21 [02:31:09] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-11-21 [02:31:09] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-11-21 [02:31:09] [Server thread/INFO]: /mute: 禁言玩家
+2015-11-21 [02:31:09] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-11-21 [02:31:09] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-11-21 [02:31:09] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-11-21 [02:31:09] [Server thread/INFO]: /particle: Adds particles to a world
+2015-11-21 [02:31:09] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-11-21 [02:31:09] [Server thread/INFO]: /preregister: pre-register player
+2015-11-21 [02:31:09] [Server thread/INFO]: /register: 注册一个账号
+2015-11-21 [02:31:09] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-11-21 [02:31:09] [Server thread/INFO]: /resetpwd: Reset password
+2015-11-21 [02:31:09] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-11-21 [02:31:09] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-11-21 [02:31:09] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-11-21 [02:31:09] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-11-21 [02:31:09] [Server thread/INFO]: /seed: Shows the world seed
+2015-11-21 [02:31:09] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-11-21 [02:31:09] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-11-21 [02:31:09] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-11-21 [02:31:09] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-11-21 [02:31:09] [Server thread/INFO]: /stop: Stops the server
+2015-11-21 [02:31:09] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-11-21 [02:31:09] [Server thread/INFO]: /time: Changes the time on each world
+2015-11-21 [02:31:09] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-11-21 [02:31:09] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-11-21 [02:31:09] [Server thread/INFO]: /unmute: 解除禁言
+2015-11-21 [02:31:09] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-11-21 [02:31:09] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-11-21 [02:31:50] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-21 [02:32:07] [Server thread/INFO]: power777888 称号设置为 腐竹
+2015-11-21 [02:32:29] [Server thread/INFO]: power777888 left the game
+2015-11-21 [02:32:29] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged out due to timeout
+2015-11-21 [02:32:34] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged in with entity id 38 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:32:35] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [02:33:02] [Server thread/INFO]: iToyToy's Server:[腐竹]<power777888> a
+2015-11-21 [02:33:36] [Server thread/INFO]: power777888 称号设置为 服主
+2015-11-21 [02:33:41] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> a
+2015-11-21 [02:35:04] [Server thread/CRITICAL]: Could not save Config /home/power777888/mp1.5/plugins/CustomChat/config.yml: yaml_emit(): Invalid UTF-8 sequence in argument
+2015-11-21 [02:35:04] [Server thread/INFO]: power777888 昵称设置为 �iToyToy
+2015-11-21 [02:35:20] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> a
+2015-11-21 [02:35:24] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> a
+2015-11-21 [02:36:45] [Server thread/INFO]: power777888 昵称设置为 iToyToy
+2015-11-21 [02:37:21] [Server thread/INFO]: power777888 left the game
+2015-11-21 [02:37:21] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged out due to client disconnect
+2015-11-21 [02:37:23] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged in with entity id 87 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:37:23] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [02:37:36] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> a
+2015-11-21 [02:41:15] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-21 [02:41:20] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-11-21 [02:41:20] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-11-21 [02:41:20] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-11-21 [02:41:20] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-11-21 [02:41:20] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-11-21 [02:41:20] [Server thread/INFO]: /chpwd: Change password
+2015-11-21 [02:41:20] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-11-21 [02:41:20] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-11-21 [02:41:20] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-11-21 [02:41:20] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-11-21 [02:41:20] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-11-21 [02:41:20] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-11-21 [02:41:20] [Server thread/INFO]: /disablechat: 全体禁言
+2015-11-21 [02:41:20] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-11-21 [02:41:20] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-11-21 [02:41:20] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-11-21 [02:41:20] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-11-21 [02:41:20] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-11-21 [02:41:20] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-11-21 [02:41:20] [Server thread/INFO]: /help: Shows the help menu
+2015-11-21 [02:41:20] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-11-21 [02:41:20] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-11-21 [02:41:20] [Server thread/INFO]: /list: Lists all online players
+2015-11-21 [02:41:20] [Server thread/INFO]: /login: 登录账号
+2015-11-21 [02:41:20] [Server thread/INFO]: /logout: logout player
+2015-11-21 [02:41:20] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-11-21 [02:41:20] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-11-21 [02:41:20] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-11-21 [02:41:20] [Server thread/INFO]: /mute: 禁言玩家
+2015-11-21 [02:41:20] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-11-21 [02:41:20] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-11-21 [02:41:20] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-11-21 [02:41:20] [Server thread/INFO]: /particle: Adds particles to a world
+2015-11-21 [02:41:20] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-11-21 [02:41:20] [Server thread/INFO]: /preregister: pre-register player
+2015-11-21 [02:41:20] [Server thread/INFO]: /register: 注册一个账号
+2015-11-21 [02:41:20] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-11-21 [02:41:20] [Server thread/INFO]: /resetpwd: Reset password
+2015-11-21 [02:41:20] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-11-21 [02:41:20] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-11-21 [02:41:20] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-11-21 [02:41:20] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-11-21 [02:41:20] [Server thread/INFO]: /seed: Shows the world seed
+2015-11-21 [02:41:20] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-11-21 [02:41:20] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-11-21 [02:41:20] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-11-21 [02:41:20] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-11-21 [02:41:20] [Server thread/INFO]: /stop: Stops the server
+2015-11-21 [02:41:20] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-11-21 [02:41:20] [Server thread/INFO]: /time: Changes the time on each world
+2015-11-21 [02:41:20] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-11-21 [02:41:20] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-11-21 [02:41:20] [Server thread/INFO]: /unmute: 解除禁言
+2015-11-21 [02:41:20] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-11-21 [02:41:20] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-11-21 [02:41:39] [Server thread/INFO]: ---------  Help: /delnick ---------
+2015-11-21 [02:41:39] [Server thread/INFO]: Description: 还原为真实名称
+2015-11-21 [02:41:39] [Server thread/INFO]: Usage: 
+2015-11-21 [02:41:52] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-21 [02:45:59] [Server thread/INFO]: power777888 left the game
+2015-11-21 [02:45:59] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged out due to timeout
+2015-11-21 [02:46:45] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged in with entity id 169 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [02:46:46] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [02:50:37] [Server thread/INFO]: power777888 left the game
+2015-11-21 [02:50:37] [Server thread/INFO]: power777888[/180.212.36.191:43132] logged out due to timeout
+2015-11-21 [02:51:29] [Server thread/INFO]: There are 0/3000 players online:
+2015-11-21 [02:51:29] [Server thread/INFO]: 
+2015-11-21 [03:02:45] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 217 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:02:46] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:03:07] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 谁在
+2015-11-21 [03:03:28] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 呵呵哒
+2015-11-21 [03:03:51] [Server thread/INFO]: moon left the game
+2015-11-21 [03:03:51] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [03:17:35] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 292 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:17:36] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:17:50] [Server thread/INFO]: moon left the game
+2015-11-21 [03:17:50] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [03:17:55] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 320 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:17:56] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:18:12] [Server thread/INFO]: moon left the game
+2015-11-21 [03:18:12] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [03:18:26] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 321 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:18:27] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:18:30] [Server thread/INFO]: moon left the game
+2015-11-21 [03:18:30] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [03:24:08] [Server thread/INFO]: power777888[/180.212.36.191:34801] logged in with entity id 322 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:24:09] [Server thread/INFO]: power777888 joined the game
+2015-11-21 [03:30:39] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-11-21 [03:41:09] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 368 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:41:10] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:41:16] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-11-21 [03:41:27] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 去小超家看看
+2015-11-21 [03:41:38] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 前面这些是什么
+2015-11-21 [03:42:38] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 我是什么
+2015-11-21 [03:42:41] [Server thread/INFO]: moon left the game
+2015-11-21 [03:42:41] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [03:42:46] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> VIP
+2015-11-21 [03:42:47] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 382 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:42:48] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:42:57] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> VIP
+2015-11-21 [03:43:34] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 我算不上副腐竹
+2015-11-21 [03:43:56] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 呜呜
+2015-11-21 [03:44:03] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 呜
+2015-11-21 [03:44:07] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 呜呜呜
+2015-11-21 [03:44:10] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-11-21 [03:44:10] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-11-21 [03:44:10] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-11-21 [03:44:10] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-11-21 [03:44:10] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-11-21 [03:44:10] [Server thread/INFO]: /chpwd: Change password
+2015-11-21 [03:44:10] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-11-21 [03:44:10] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-11-21 [03:44:10] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-11-21 [03:44:10] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-11-21 [03:44:10] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-11-21 [03:44:10] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-11-21 [03:44:10] [Server thread/INFO]: /disablechat: 全体禁言
+2015-11-21 [03:44:10] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-11-21 [03:44:10] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-11-21 [03:44:10] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-11-21 [03:44:10] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-11-21 [03:44:10] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-11-21 [03:44:10] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-11-21 [03:44:10] [Server thread/INFO]: /help: Shows the help menu
+2015-11-21 [03:44:10] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-11-21 [03:44:10] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-11-21 [03:44:10] [Server thread/INFO]: /list: Lists all online players
+2015-11-21 [03:44:10] [Server thread/INFO]: /login: 登录账号
+2015-11-21 [03:44:10] [Server thread/INFO]: /logout: logout player
+2015-11-21 [03:44:10] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-11-21 [03:44:10] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-11-21 [03:44:10] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-11-21 [03:44:10] [Server thread/INFO]: /mute: 禁言玩家
+2015-11-21 [03:44:10] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-11-21 [03:44:10] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-11-21 [03:44:10] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-11-21 [03:44:10] [Server thread/INFO]: /particle: Adds particles to a world
+2015-11-21 [03:44:10] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-11-21 [03:44:10] [Server thread/INFO]: /preregister: pre-register player
+2015-11-21 [03:44:10] [Server thread/INFO]: /register: 注册一个账号
+2015-11-21 [03:44:10] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-11-21 [03:44:10] [Server thread/INFO]: /resetpwd: Reset password
+2015-11-21 [03:44:10] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-11-21 [03:44:10] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-11-21 [03:44:10] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-11-21 [03:44:10] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-11-21 [03:44:10] [Server thread/INFO]: /seed: Shows the world seed
+2015-11-21 [03:44:10] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-11-21 [03:44:10] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-11-21 [03:44:10] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-11-21 [03:44:10] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-11-21 [03:44:10] [Server thread/INFO]: /stop: Stops the server
+2015-11-21 [03:44:10] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-11-21 [03:44:10] [Server thread/INFO]: /time: Changes the time on each world
+2015-11-21 [03:44:10] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-11-21 [03:44:10] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-11-21 [03:44:10] [Server thread/INFO]: /unmute: 解除禁言
+2015-11-21 [03:44:10] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-11-21 [03:44:10] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-11-21 [03:44:10] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 呜呜呜呜
+2015-11-21 [03:44:35] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 给副腐竹称号
+2015-11-21 [03:44:37] [Server thread/WARNING]: moon moved wrongly!
+2015-11-21 [03:44:42] [Server thread/INFO]: iToyToy's Server:[PFX]<moon> 好
+2015-11-21 [03:45:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-21 [03:45:17] [Server thread/INFO]: moon 称号设置为 副腐竹
+2015-11-21 [03:45:22] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 哦也
+2015-11-21 [03:46:53] [Server thread/INFO]: moon 称号设置为 副腐竹
+2015-11-21 [03:47:02] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 混合动力
+2015-11-21 [03:47:51] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 能不能给我op,但我不用
+2015-11-21 [03:48:19] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> a
+2015-11-21 [03:48:33] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 能不能啊
+2015-11-21 [03:48:38] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> no
+2015-11-21 [03:48:45] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 求求你
+2015-11-21 [03:48:55] [Server thread/INFO]: [Server] nsay no
+2015-11-21 [03:49:03] [Server thread/INFO]: [Server] no
+2015-11-21 [03:50:29] [Server thread/INFO]: [power777888: Teleported moon to power777888]
+2015-11-21 [03:53:54] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 求求你
+2015-11-21 [03:54:05] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> bugeiop
+2015-11-21 [03:54:16] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 求求你
+2015-11-21 [03:54:44] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 下来挖钻石
+2015-11-21 [03:55:04] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> 切，人家不理你了
+2015-11-21 [03:55:27] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 钻石在我这
+2015-11-21 [03:55:49] [Server thread/INFO]: [power777888: Teleported power777888 to moon]
+2015-11-21 [03:56:12] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 我炸了
+2015-11-21 [03:56:37] [Server thread/INFO]: moon died
+2015-11-21 [03:56:38] [Server thread/INFO]: moon left the game
+2015-11-21 [03:56:38] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
+2015-11-21 [03:56:41] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 。。。
+2015-11-21 [03:56:47] [Server thread/INFO]: moon[/49.69.198.115:19132] logged in with entity id 441 at (iToyToy's Server, 165, 78, -282)
+2015-11-21 [03:56:48] [Server thread/INFO]: moon joined the game
+2015-11-21 [03:56:55] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> what
+2015-11-21 [03:57:09] [Server thread/INFO]: [power777888: Teleported moon to power777888]
+2015-11-21 [03:57:55] [Server thread/WARNING]: moon moved wrongly!

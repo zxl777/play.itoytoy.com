@@ -1,0 +1,9 @@
+---
+chat-format: '{WORLD_NAME}:[{PREFIX}]<{DISPLAY_NAME}> {MESSAGE}'
+enable-formatter: true
+disablechat: false
+default-player-prefix: PFX
+power777888.prefix: §b服主
+power777888.nick: iToyToy
+moon.prefix: 副腐竹
+...
