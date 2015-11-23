@@ -1,0 +1,8 @@
+PocketMine-MP Crash Dump Mon Nov 23 17:33:16 EST 2015
+
+Error: Allowed memory size of 1073741824 bytes exhausted (tried to allocate 134217728 bytes)
+File: /src/pocketmine/level/Level__64bit
+Line: 1286
+Type: E_ERROR
+
+Code:
