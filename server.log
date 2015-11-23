@@ -8060,3 +8060,49 @@
 2015-11-22 [08:36:16] [Server thread/INFO]: moon left the game
 2015-11-22 [08:36:16] [Server thread/INFO]: moon[/49.69.198.115:19132] logged out due to client disconnect
 2015-11-22 [18:03:18] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-23 [05:45:41] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-23 [05:45:41] [Server thread/INFO]: Loading server properties...
+2015-11-23 [05:45:41] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-23 [05:45:41] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-23 [05:45:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-23 [05:45:41] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-43 "[REDACTED]" (API 1.13.0)
+2015-11-23 [05:45:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-23 [05:45:42] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-23 [05:45:42] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-23 [05:45:42] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-23 [05:45:42] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-23 [05:45:42] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-23 [05:45:42] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-23 [05:45:42] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-23 [05:45:42] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-23 [05:45:42] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-23 [05:45:42] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-23 [05:45:42] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-23 [05:45:42] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-23 [05:45:42] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-23 [05:45:42] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-23 [05:45:42] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-23 [05:45:42] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-23 [05:45:42] [Server thread/INFO]: Starting GS4 status listener
+2015-11-23 [05:45:42] [Server thread/INFO]: Setting query port to 19132
+2015-11-23 [05:45:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2015-11-23 [05:45:42] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-23 [05:45:42] [Server thread/INFO]: Done (0.894s)! For help, type "help" or "?"
+2015-11-23 [05:46:00] [Server thread/INFO]: power777888[/180.212.36.191:42838] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-23 [05:46:01] [Server thread/INFO]: power777888 joined the game
+2015-11-23 [10:46:25] [RakLibServer thread/NOTICE]: [RakLib Thread #140550766315264] Blocked 180.212.36.191 for 5 seconds
+2015-11-23 [05:47:49] [Server thread/INFO]: [power777888: Added 13000 to the time]
+2015-11-23 [05:48:06] [Server thread/INFO]: power777888 left the game
+2015-11-23 [05:48:06] [Server thread/INFO]: power777888[/180.212.36.191:42838] logged out due to timeout
+2015-11-23 [05:49:50] [Server thread/INFO]: power777888[/180.212.36.191:42838] logged in with entity id 115 at (iToyToy's Server, 165, 78, -282)
+2015-11-23 [05:49:51] [Server thread/INFO]: power777888 joined the game
+2015-11-23 [05:54:57] [Server thread/INFO]: power777888 left the game
+2015-11-23 [05:54:57] [Server thread/INFO]: power777888[/180.212.36.191:42838] logged out due to timeout
+2015-11-23 [05:55:08] [Server thread/INFO]: power777888[/180.212.36.191:42838] logged in with entity id 130 at (iToyToy's Server, 165, 78, -282)
+2015-11-23 [05:55:09] [Server thread/INFO]: power777888 joined the game
+2015-11-23 [05:55:37] [Server thread/INFO]: power777888 left the game
+2015-11-23 [05:55:37] [Server thread/INFO]: power777888[/180.212.36.191:42838] logged out due to timeout
+2015-11-23 [05:56:11] [Server thread/INFO]: power777888[/180.212.36.191:48557] logged in with entity id 169 at (iToyToy's Server, 165, 78, -282)
+2015-11-23 [05:56:12] [Server thread/INFO]: power777888 joined the game
+2015-11-23 [05:59:56] [Server thread/INFO]: power777888 left the game
+2015-11-23 [05:59:56] [Server thread/INFO]: power777888[/180.212.36.191:48557] logged out due to timeout
