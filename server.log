@@ -8590,3 +8590,38 @@
 2015-11-25 [12:25:27] [NOTICE]: [RakLib Thread #139846281848576] Blocked 14.29.192.162 for 5 seconds
 2015-11-25 [07:25:50] [INFO]: xiao_chao left the game
 2015-11-25 [07:25:50] [INFO]: xiao_chao[/14.29.192.162:19132] logged out due to client disconnect
+2015-11-25 [08:56:05] [INFO]: Loading pocketmine.yml...
+2015-11-25 [08:56:05] [INFO]: Loading server properties...
+2015-11-25 [08:56:05] [INFO]: Selected English (eng) as the base language
+2015-11-25 [08:56:05] [INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-25 [08:56:05] [INFO]: Opening server on 0.0.0.0:19132
+2015-11-25 [08:56:05] [INFO]: This server is running PocketMine-MP version 1.7dev "PocketMine-0.13.0" (API 1.13.0)
+2015-11-25 [08:56:05] [INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-25 [08:56:06] [INFO]: Loading SimpleAuth v1.7.1
+2015-11-25 [08:56:06] [INFO]: Loading KeepInventory v1.2.0
+2015-11-25 [08:56:06] [INFO]: Loading DevTools v1.10.0
+2015-11-25 [08:56:06] [INFO]: Loading CustomChat v1.1.2
+2015-11-25 [08:56:06] [INFO]: Enabling SimpleAuth v1.7.1
+2015-11-25 [08:56:06] [INFO]: [SimpleAuth] Everything loaded!
+2015-11-25 [08:56:06] [INFO]: Enabling DevTools v1.10.0
+2015-11-25 [08:56:06] [ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-25 [08:56:06] [INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-25 [08:56:06] [INFO]: [DevTools] Registered folder plugin loader
+2015-11-25 [08:56:06] [INFO]: Preparing level "iToyToy's Server"
+2015-11-25 [08:56:06] [INFO]: Enabling KeepInventory v1.2.0
+2015-11-25 [08:56:06] [INFO]: KeepInventory by boybook.
+2015-11-25 [08:56:06] [INFO]: Enabling CustomChat v1.1.2
+2015-11-25 [08:56:06] [INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-25 [08:56:06] [INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-25 [08:56:06] [INFO]: Default game type: Survival Mode
+2015-11-25 [08:56:06] [INFO]: Done (0.722s)! For help, type "help" or "?"
+2015-11-25 [08:56:24] [INFO]: power777888[/180.212.80.37:48710] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-25 [08:56:25] [INFO]: power777888 joined the game
+2015-11-25 [13:56:26] [NOTICE]: [RakLib Thread #140449070995200] Blocked 180.212.80.37 for 5 seconds
+2015-11-25 [09:05:25] [INFO]: power777888 left the game
+2015-11-25 [09:05:25] [INFO]: power777888[/180.212.80.37:48710] logged out due to timeout
+2015-11-25 [09:24:12] [INFO]: power777888[/180.212.80.37:47666] logged in with entity id 1452 at (iToyToy's Server, 165, 78, -282)
+2015-11-25 [09:24:13] [INFO]: power777888 joined the game
+2015-11-25 [14:24:13] [NOTICE]: [RakLib Thread #140449070995200] Blocked 180.212.80.37 for 5 seconds
+2015-11-25 [09:29:40] [INFO]: power777888 left the game
+2015-11-25 [09:29:40] [INFO]: power777888[/180.212.80.37:47666] logged out due to timeout
