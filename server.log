@@ -8313,3 +8313,79 @@
 2015-11-24 [18:26:31] [WARNING]: xiao_chao moved wrongly!
 2015-11-24 [18:29:12] [INFO]: xiao_chao left the game
 2015-11-24 [18:29:12] [INFO]: xiao_chao[/14.18.61.200:19132] logged out due to timeout
+2015-11-24 [20:48:09] [INFO]: power777888[/180.212.80.37:33642] logged in with entity id 34658 at (iToyToy's Server, 165, 78, -282)
+2015-11-24 [20:48:10] [INFO]: power777888 joined the game
+2015-11-25 [01:48:10] [NOTICE]: [RakLib Thread #140552557213440] Blocked 180.212.80.37 for 5 seconds
+2015-11-24 [20:48:11] [EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-24 [20:48:11] [EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Tue_Nov_24-20.48.11-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-24 [20:48:11] [INFO]: Disabling SimpleAuth v1.7.1
+2015-11-24 [20:48:11] [INFO]: Disabling KeepInventory v1.2.0
+2015-11-24 [20:48:11] [INFO]: Disabling DevTools v1.10.0
+2015-11-24 [20:48:11] [INFO]: Disabling CustomChat v1.1.2
+2015-11-24 [20:48:11] [INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-24 [20:48:11] [INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-24 [20:48:11] [INFO]: power777888 left the game
+2015-11-24 [20:48:11] [INFO]: power777888[/180.212.80.37:33642] logged out due to Server closed #admin: sky@itoytoy.com
+2015-11-24 [20:48:11] [INFO]: Unloading level "iToyToy's Server"
+2015-11-24 [20:54:02] [INFO]: Loading pocketmine.yml...
+2015-11-24 [20:54:02] [INFO]: Loading server properties...
+2015-11-24 [20:54:02] [INFO]: Selected English (eng) as the base language
+2015-11-24 [20:54:02] [INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-24 [20:54:02] [INFO]: Opening server on 0.0.0.0:19132
+2015-11-24 [20:54:02] [INFO]: This server is running PocketMine-MP version 1.7dev "PocketMine-0.13.0" (API 1.13.0)
+2015-11-24 [20:54:02] [INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-24 [20:54:02] [INFO]: Loading SimpleAuth v1.7.1
+2015-11-24 [20:54:02] [INFO]: Loading KeepInventory v1.2.0
+2015-11-24 [20:54:02] [INFO]: Loading DevTools v1.10.0
+2015-11-24 [20:54:02] [INFO]: Loading CustomChat v1.1.2
+2015-11-24 [20:54:03] [INFO]: Enabling SimpleAuth v1.7.1
+2015-11-24 [20:54:03] [INFO]: [SimpleAuth] Everything loaded!
+2015-11-24 [20:54:03] [INFO]: Enabling DevTools v1.10.0
+2015-11-24 [20:54:03] [ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-24 [20:54:03] [INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-24 [20:54:03] [INFO]: [DevTools] Registered folder plugin loader
+2015-11-24 [20:54:03] [INFO]: Preparing level "iToyToy's Server"
+2015-11-24 [20:54:03] [INFO]: Enabling KeepInventory v1.2.0
+2015-11-24 [20:54:03] [INFO]: KeepInventory by boybook.
+2015-11-24 [20:54:03] [INFO]: Enabling CustomChat v1.1.2
+2015-11-24 [20:54:03] [INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-24 [20:54:03] [INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-24 [20:54:03] [INFO]: Default game type: Survival Mode
+2015-11-24 [20:54:03] [INFO]: Done (0.812s)! For help, type "help" or "?"
+2015-11-24 [20:54:12] [INFO]: power777888[/180.212.80.37:34440] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-24 [20:54:13] [INFO]: power777888 joined the game
+2015-11-24 [21:00:43] [INFO]: power777888 left the game
+2015-11-24 [21:00:43] [INFO]: power777888[/180.212.80.37:34440] logged out due to timeout
+2015-11-24 [21:00:58] [INFO]: [CONSOLE: Stopping the server]
+2015-11-24 [21:00:58] [INFO]: Disabling SimpleAuth v1.7.1
+2015-11-24 [21:00:58] [INFO]: Disabling KeepInventory v1.2.0
+2015-11-24 [21:00:58] [INFO]: Disabling DevTools v1.10.0
+2015-11-24 [21:00:58] [INFO]: Disabling CustomChat v1.1.2
+2015-11-24 [21:00:58] [INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-24 [21:00:58] [INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-24 [21:00:58] [INFO]: Unloading level "iToyToy's Server"
+2015-11-24 [21:02:39] [INFO]: Loading pocketmine.yml...
+2015-11-24 [21:02:39] [INFO]: Loading server properties...
+2015-11-24 [21:02:39] [INFO]: Selected English (eng) as the base language
+2015-11-24 [21:02:39] [INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-24 [21:02:39] [INFO]: Opening server on 0.0.0.0:19132
+2015-11-24 [21:02:39] [INFO]: This server is running PocketMine-MP version 1.7dev "PocketMine-0.13.0" (API 1.13.0)
+2015-11-24 [21:02:39] [INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-24 [21:02:39] [INFO]: Loading SimpleAuth v1.7.1
+2015-11-24 [21:02:39] [INFO]: Loading KeepInventory v1.2.0
+2015-11-24 [21:02:39] [INFO]: Loading DevTools v1.10.0
+2015-11-24 [21:02:39] [INFO]: Loading CustomChat v1.1.2
+2015-11-24 [21:02:40] [INFO]: Enabling SimpleAuth v1.7.1
+2015-11-24 [21:02:40] [INFO]: [SimpleAuth] Everything loaded!
+2015-11-24 [21:02:40] [INFO]: Enabling DevTools v1.10.0
+2015-11-24 [21:02:40] [ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-24 [21:02:40] [INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-24 [21:02:40] [INFO]: [DevTools] Registered folder plugin loader
+2015-11-24 [21:02:40] [INFO]: Preparing level "iToyToy's Server"
+2015-11-24 [21:02:40] [INFO]: Enabling KeepInventory v1.2.0
+2015-11-24 [21:02:40] [INFO]: KeepInventory by boybook.
+2015-11-24 [21:02:40] [INFO]: Enabling CustomChat v1.1.2
+2015-11-24 [21:02:40] [INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-24 [21:02:40] [INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-24 [21:02:40] [INFO]: Default game type: Survival Mode
+2015-11-24 [21:02:40] [INFO]: Done (0.671s)! For help, type "help" or "?"
