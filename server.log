@@ -8698,3 +8698,16 @@
 2015-11-25 [21:21:05] [INFO]: Enabling SimpleAuthHelper v2.0.4
 2015-11-25 [21:21:05] [INFO]: Default game type: Survival Mode
 2015-11-25 [21:21:05] [INFO]: Done (0.7s)! For help, type "help" or "?"
+2015-11-25 [23:01:16] [INFO]: xiao_chao[/14.29.192.162:19132] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-25 [23:01:17] [INFO]: xiao_chao joined the game
+2015-11-25 [23:02:11] [INFO]: xiao_chao left the game
+2015-11-25 [23:02:11] [INFO]: xiao_chao[/14.29.192.162:19132] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-11-25 [23:02:16] [INFO]: xiao_chao[/14.29.192.162:19132] logged in with entity id 23 at (iToyToy's Server, 165, 78, -282)
+2015-11-25 [23:02:17] [INFO]: xiao_chao joined the game
+2015-11-25 [23:02:17] [INFO]: xiao_chao left the game
+2015-11-25 [23:02:17] [INFO]: xiao_chao[/14.29.192.162:19132] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-11-25 [23:02:21] [INFO]: xiao_chao[/14.29.192.162:19132] logged in with entity id 24 at (iToyToy's Server, 165, 78, -282)
+2015-11-25 [23:02:22] [INFO]: xiao_chao joined the game
+2015-11-25 [23:03:25] [WARNING]: xiao_chao moved wrongly!
+2015-11-25 [23:03:54] [INFO]: xiao_chao left the game
+2015-11-25 [23:03:54] [INFO]: xiao_chao[/14.29.192.162:19132] logged out due to timeout
