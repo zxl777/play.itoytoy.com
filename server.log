@@ -8931,3 +8931,37 @@
 2015-11-26 [09:27:02] [INFO]: ohh_sdd joined the game
 2015-11-26 [09:28:11] [INFO]: ohh_sdd left the game
 2015-11-26 [09:28:11] [INFO]: ohh_sdd[/123.4.216.245:19132] logged out due to timeout
+2015-11-26 [11:05:21] [EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-26 [11:24:14] [INFO]: Loading pocketmine.yml...
+2015-11-26 [11:24:14] [INFO]: Loading server properties...
+2015-11-26 [11:24:14] [INFO]: Selected English (eng) as the base language
+2015-11-26 [11:24:14] [INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-26 [11:24:14] [INFO]: Opening server on 0.0.0.0:19132
+2015-11-26 [11:24:14] [INFO]: This server is running PocketMine-MP version 1.7dev "PocketMine-0.13.0" (API 1.13.0)
+2015-11-26 [11:24:14] [INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-26 [11:24:14] [INFO]: Loading SimpleAuth v1.7.1
+2015-11-26 [11:24:14] [INFO]: Loading KeepInventory v1.2.0
+2015-11-26 [11:24:14] [INFO]: Loading DevTools v1.10.0
+2015-11-26 [11:24:14] [INFO]: Loading CustomChat v1.1.2
+2015-11-26 [11:24:15] [INFO]: Enabling SimpleAuth v1.7.1
+2015-11-26 [11:24:15] [INFO]: [SimpleAuth] Everything loaded!
+2015-11-26 [11:24:15] [INFO]: Enabling DevTools v1.10.0
+2015-11-26 [11:24:15] [ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-26 [11:24:15] [INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-26 [11:24:15] [INFO]: [DevTools] Registered folder plugin loader
+2015-11-26 [11:24:15] [INFO]: Preparing level "iToyToy's Server"
+2015-11-26 [11:24:15] [INFO]: Enabling KeepInventory v1.2.0
+2015-11-26 [11:24:15] [INFO]: KeepInventory by boybook.
+2015-11-26 [11:24:15] [INFO]: Enabling CustomChat v1.1.2
+2015-11-26 [11:24:15] [INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-26 [11:24:15] [INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-26 [11:24:15] [INFO]: Default game type: Survival Mode
+2015-11-26 [11:24:15] [INFO]: Done (0.815s)! For help, type "help" or "?"
+2015-11-26 [11:24:57] [INFO]: power777888[/180.212.239.56:37651] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-26 [11:24:58] [INFO]: power777888 joined the game
+2015-11-26 [11:25:27] [INFO]: power777888 left the game
+2015-11-26 [11:25:27] [INFO]: power777888[/180.212.239.56:37651] logged out due to timeout
+2015-11-26 [11:25:41] [INFO]: power777888[/180.212.239.56:37651] logged in with entity id 25 at (iToyToy's Server, 165, 78, -282)
+2015-11-26 [11:25:42] [INFO]: power777888 joined the game
+2015-11-26 [11:26:25] [INFO]: power777888 left the game
+2015-11-26 [11:26:25] [INFO]: power777888[/180.212.239.56:37651] logged out due to client disconnect
