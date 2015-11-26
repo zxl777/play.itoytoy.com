@@ -8672,3 +8672,29 @@
 2015-11-25 [18:23:15] [WARNING]: xiao_chao moved wrongly!
 2015-11-25 [18:24:01] [INFO]: xiao_chao left the game
 2015-11-25 [18:24:01] [INFO]: xiao_chao[/14.29.192.162:19132] logged out due to timeout
+2015-11-25 [21:17:48] [EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-25 [21:21:04] [INFO]: Loading pocketmine.yml...
+2015-11-25 [21:21:04] [INFO]: Loading server properties...
+2015-11-25 [21:21:04] [INFO]: Selected English (eng) as the base language
+2015-11-25 [21:21:04] [INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-25 [21:21:04] [INFO]: Opening server on 0.0.0.0:19132
+2015-11-25 [21:21:04] [INFO]: This server is running PocketMine-MP version 1.7dev "PocketMine-0.13.0" (API 1.13.0)
+2015-11-25 [21:21:04] [INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-25 [21:21:04] [INFO]: Loading SimpleAuth v1.7.1
+2015-11-25 [21:21:04] [INFO]: Loading KeepInventory v1.2.0
+2015-11-25 [21:21:04] [INFO]: Loading DevTools v1.10.0
+2015-11-25 [21:21:04] [INFO]: Loading CustomChat v1.1.2
+2015-11-25 [21:21:05] [INFO]: Enabling SimpleAuth v1.7.1
+2015-11-25 [21:21:05] [INFO]: [SimpleAuth] Everything loaded!
+2015-11-25 [21:21:05] [INFO]: Enabling DevTools v1.10.0
+2015-11-25 [21:21:05] [ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-25 [21:21:05] [INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-25 [21:21:05] [INFO]: [DevTools] Registered folder plugin loader
+2015-11-25 [21:21:05] [INFO]: Preparing level "iToyToy's Server"
+2015-11-25 [21:21:05] [INFO]: Enabling KeepInventory v1.2.0
+2015-11-25 [21:21:05] [INFO]: KeepInventory by boybook.
+2015-11-25 [21:21:05] [INFO]: Enabling CustomChat v1.1.2
+2015-11-25 [21:21:05] [INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-25 [21:21:05] [INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-25 [21:21:05] [INFO]: Default game type: Survival Mode
+2015-11-25 [21:21:05] [INFO]: Done (0.7s)! For help, type "help" or "?"
