@@ -9093,3 +9093,40 @@
 2015-11-27 [05:48:56] [Server thread/INFO]: xiao_chao tried to swim in lava
 2015-11-27 [05:50:38] [Server thread/INFO]: xiao_chao died
 2015-11-27 [05:56:29] [Server thread/INFO]: xiao_chao burned to death
+2015-11-27 [06:01:23] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-27 [06:01:23] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-27 [06:04:01] [Server thread/INFO]: xiao_chao left the game
+2015-11-27 [06:04:01] [Server thread/INFO]: xiao_chao[/219.136.50.126:19132] logged out due to client disconnect
+2015-11-27 [06:22:25] [Server thread/INFO]: ohh_sdd[/221.14.124.67:19132] logged in with entity id 25360 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [06:22:26] [Server thread/INFO]: ohh_sdd joined the game
+2015-11-27 [06:25:12] [Server thread/WARNING]: ohh_sdd moved wrongly!
+2015-11-27 [06:25:13] [Server thread/WARNING]: ohh_sdd moved wrongly!
+2015-11-27 [06:25:14] [Server thread/WARNING]: ohh_sdd moved wrongly!
+2015-11-27 [06:25:25] [Server thread/INFO]: ohh_sdd left the game
+2015-11-27 [06:25:25] [Server thread/INFO]: ohh_sdd[/221.14.124.67:19132] logged out due to client disconnect
+2015-11-27 [07:05:23] [Server thread/INFO]: [/114.236.136.83:26337] logged out due to Login timeout
+2015-11-27 [07:29:32] [Server thread/INFO]: jisyuan[/114.236.136.83:29342] logged in with entity id 29201 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [07:29:33] [Server thread/INFO]: jisyuan joined the game
+2015-11-27 [07:30:33] [Server thread/INFO]: jisyuan left the game
+2015-11-27 [07:30:33] [Server thread/INFO]: jisyuan[/114.236.136.83:29342] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-11-27 [07:33:27] [Server thread/INFO]: jisyuan[/114.236.136.83:29888] logged in with entity id 29414 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [07:33:28] [Server thread/INFO]: jisyuan joined the game
+2015-11-27 [07:33:51] [Server thread/INFO]: jisyuan left the game
+2015-11-27 [07:33:51] [Server thread/INFO]: jisyuan[/114.236.136.83:29888] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-11-27 [07:33:56] [Server thread/INFO]: jisyuan[/114.236.136.83:29888] logged in with entity id 29454 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [07:33:57] [Server thread/INFO]: jisyuan joined the game
+2015-11-27 [07:34:31] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-11-27 [07:34:32] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-11-27 [07:35:53] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-11-27 [07:37:21] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-11-27 [07:41:46] [Server thread/INFO]: jisyuan left the game
+2015-11-27 [07:41:46] [Server thread/INFO]: jisyuan[/114.236.136.83:29888] logged out due to timeout
+2015-11-27 [07:43:50] [Server thread/NOTICE]: Player data not found for "linzeyu", creating new profile
+2015-11-27 [07:43:50] [Server thread/INFO]: linzeyu[/110.89.246.246:19639] logged in with entity id 30028 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [07:43:51] [Server thread/INFO]: linzeyu joined the game
+2015-11-27 [07:43:59] [Server thread/INFO]: linzeyu left the game
+2015-11-27 [07:43:59] [Server thread/INFO]: linzeyu[/110.89.246.246:19639] logged out due to client disconnect
+2015-11-27 [07:44:10] [Server thread/INFO]: zeyu[/110.89.246.246:19639] logged in with entity id 30039 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [07:44:11] [Server thread/INFO]: zeyu joined the game
+2015-11-27 [07:45:28] [Server thread/INFO]: zeyu left the game
+2015-11-27 [07:45:28] [Server thread/INFO]: zeyu[/110.89.246.246:19639] logged out due to client disconnect
