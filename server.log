@@ -9155,3 +9155,65 @@
 2015-11-27 [09:35:52] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
 2015-11-27 [09:35:52] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
 2015-11-27 [09:35:52] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-27 [10:36:19] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-27 [10:36:19] [Server thread/INFO]: Loading server properties...
+2015-11-27 [10:36:19] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-27 [10:36:19] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-27 [10:36:19] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-27 [10:36:19] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-50 "[REDACTED]" (API 1.13.0)
+2015-11-27 [10:36:19] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-27 [10:36:20] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-27 [10:36:20] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-27 [10:36:20] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-27 [10:36:20] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-27 [10:36:20] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-27 [10:36:20] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-27 [10:36:20] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-27 [10:36:20] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-27 [10:36:20] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-27 [10:36:20] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-27 [10:36:20] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-27 [10:36:20] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-27 [10:36:20] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-27 [10:36:20] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-27 [10:36:20] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-27 [10:36:20] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-27 [10:36:20] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-27 [10:36:20] [Server thread/INFO]: Done (0.698s)! For help, type "help" or "?"
+2015-11-27 [11:04:42] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-27 [11:04:45] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-27 [11:04:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-11-27 [11:04:54] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-27 [11:04:54] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-27 [11:04:54] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-27 [11:04:54] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-27 [11:04:54] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-11-27 [11:04:54] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-27 [11:04:54] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-27 [11:04:54] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-27 [11:04:55] [Server thread/INFO]: Stopping other threads
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading server properties...
+2015-11-27 [11:06:13] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-27 [11:06:13] [Server thread/INFO]: Starting Minecraft: PE server version v0.12.1 alpha
+2015-11-27 [11:06:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-27 [11:06:13] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-30 "[REDACTED]" (API 1.13.0)
+2015-11-27 [11:06:13] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-27 [11:06:13] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-27 [11:06:13] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-27 [11:06:13] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-27 [11:06:13] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-27 [11:06:13] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-27 [11:06:13] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-27 [11:06:13] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-27 [11:06:13] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-27 [11:06:13] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-27 [11:06:13] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-27 [11:06:13] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-27 [11:06:13] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-27 [11:06:14] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-27 [11:06:14] [Server thread/INFO]: Done (0.644s)! For help, type "help" or "?"
