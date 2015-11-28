@@ -9304,3 +9304,8 @@
 2015-11-28 [05:36:28] [Server thread/INFO]: kirito joined the game
 2015-11-28 [05:36:34] [Server thread/INFO]: kirito left the game
 2015-11-28 [05:36:34] [Server thread/INFO]: kirito[/223.199.109.48:19132] logged out due to client disconnect
+2015-11-28 [06:08:19] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged in with entity id 36023 at (iToyToy's Server, 165, 78, -282)
+2015-11-28 [06:08:20] [Server thread/INFO]: Steve joined the game
+2015-11-28 [06:09:03] [Server thread/INFO]: Steve left the game
+2015-11-28 [06:09:03] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged out due to client disconnect
+2015-11-28 [06:23:42] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
