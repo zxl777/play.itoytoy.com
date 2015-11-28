@@ -9296,3 +9296,11 @@
 2015-11-28 [03:59:26] [Server thread/INFO]: moon_shen[/114.236.96.53:19132] logged out due to client disconnect
 2015-11-28 [03:59:35] [Server thread/INFO]: moon[/114.236.96.53:19132] logged in with entity id 28651 at (iToyToy's Server, 165, 78, -282)
 2015-11-28 [03:59:36] [Server thread/INFO]: moon joined the game
+2015-11-28 [04:04:27] [Server thread/INFO]: moon tried to swim in lava
+2015-11-28 [04:04:37] [Server thread/INFO]: moon left the game
+2015-11-28 [04:04:37] [Server thread/INFO]: moon[/114.236.96.53:19132] logged out due to client disconnect
+2015-11-28 [05:36:27] [Server thread/NOTICE]: Player data not found for "kirito", creating new profile
+2015-11-28 [05:36:27] [Server thread/INFO]: kirito[/223.199.109.48:19132] logged in with entity id 34114 at (iToyToy's Server, 165, 78, -282)
+2015-11-28 [05:36:28] [Server thread/INFO]: kirito joined the game
+2015-11-28 [05:36:34] [Server thread/INFO]: kirito left the game
+2015-11-28 [05:36:34] [Server thread/INFO]: kirito[/223.199.109.48:19132] logged out due to client disconnect
