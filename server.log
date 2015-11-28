@@ -9222,3 +9222,33 @@
 2015-11-27 [19:41:35] [Server thread/INFO]: yaosi joined the game
 2015-11-27 [19:42:06] [Server thread/INFO]: yaosi left the game
 2015-11-27 [19:42:06] [Server thread/INFO]: yaosi[/27.184.65.243:19132] logged out due to client disconnect
+2015-11-27 [20:11:26] [Server thread/NOTICE]: Player data not found for "007", creating new profile
+2015-11-27 [20:11:26] [Server thread/INFO]: 007[/223.67.190.159:24929] logged in with entity id 1729 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:11:27] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:12:09] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:12:09] [Server thread/INFO]: 007[/223.67.190.159:24929] logged out due to client disconnect
+2015-11-27 [20:12:11] [Server thread/INFO]: 007[/223.67.190.159:24929] logged in with entity id 1750 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:12:12] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:12:27] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:12:27] [Server thread/INFO]: 007[/223.67.190.159:24929] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-11-27 [20:12:32] [Server thread/INFO]: 007[/223.67.190.159:24929] logged in with entity id 1751 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:12:33] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:12:55] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:12:55] [Server thread/INFO]: 007[/223.67.190.159:24929] logged out due to client disconnect
+2015-11-27 [20:13:48] [Server thread/INFO]: 007[/223.67.190.159:24929] logged in with entity id 1780 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:13:49] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:14:49] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:14:49] [Server thread/INFO]: 007[/223.67.190.159:24929] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-11-27 [20:14:54] [Server thread/INFO]: 007[/223.67.190.159:24929] logged in with entity id 1801 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:14:55] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:15:53] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:15:53] [Server thread/INFO]: 007[/223.67.190.159:24929] logged out due to client disconnect
+2015-11-27 [20:38:37] [Server thread/INFO]: 007[/223.67.190.159:24988] logged in with entity id 3126 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:38:38] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:39:38] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:39:38] [Server thread/INFO]: 007[/223.67.190.159:24988] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-11-27 [20:39:41] [Server thread/INFO]: 007[/223.67.190.159:24988] logged in with entity id 3147 at (iToyToy's Server, 165, 78, -282)
+2015-11-27 [20:39:42] [Server thread/INFO]: 007 joined the game
+2015-11-27 [20:39:53] [Server thread/INFO]: 007 left the game
+2015-11-27 [20:39:53] [Server thread/INFO]: 007[/223.67.190.159:24988] logged out due to timeout
+2015-11-27 [20:59:12] [Server thread/INFO]: xiao_chao[/219.136.50.126:19132] logged out due to Outdated server!
