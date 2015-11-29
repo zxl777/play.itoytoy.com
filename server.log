@@ -9309,3 +9309,229 @@
 2015-11-28 [06:09:03] [Server thread/INFO]: Steve left the game
 2015-11-28 [06:09:03] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged out due to client disconnect
 2015-11-28 [06:23:42] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-29 [00:01:00] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-29 [00:01:00] [Server thread/INFO]: Loading server properties...
+2015-11-29 [00:01:00] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-29 [00:01:00] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-29 [00:01:00] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-29 [00:01:00] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-11-29 [00:01:00] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-29 [00:01:00] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-29 [00:01:00] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-29 [00:01:00] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-29 [00:01:00] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-29 [00:01:00] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-29 [00:01:01] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-29 [00:01:01] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-29 [00:01:01] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-29 [00:01:01] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-29 [00:01:01] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-29 [00:01:01] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-29 [00:01:01] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-29 [00:01:01] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-29 [00:01:01] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-29 [00:01:01] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-29 [00:01:01] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-29 [00:01:01] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-29 [00:01:01] [Server thread/INFO]: Done (0.672s)! For help, type "help" or "?"
+2015-11-29 [00:02:44] [Server thread/INFO]: power777888[/180.212.41.174:41407] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [00:02:45] [Server thread/INFO]: power777888 joined the game
+2015-11-29 [00:09:35] [Server thread/INFO]: power777888 left the game
+2015-11-29 [00:09:35] [Server thread/INFO]: power777888[/180.212.41.174:41407] logged out due to timeout
+2015-11-29 [00:23:12] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-29 [00:23:13] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-29 [00:23:13] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-29 [00:23:13] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-29 [00:23:13] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-11-29 [00:23:13] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-29 [00:23:13] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-29 [00:23:13] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-29 [00:23:13] [Server thread/NOTICE]: InvalidArgumentException: "Argument 1 passed to pocketmine\level\Position::setLevel() must be an instance of pocketmine\level\Level, null given, called in phar:///home/power777888/mp1.5/PocketMine-MP.phar/src/pocketmine/entity/Entity__64bit.php on line 228 and defined" (E_RECOVERABLE_ERROR) in "/src/pocketmine/level/Position" at line 56
+2015-11-29 [00:23:22] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-29 [00:23:22] [Server thread/INFO]: Loading server properties...
+2015-11-29 [00:23:22] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-29 [00:23:22] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-29 [00:23:23] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-29 [00:23:23] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-11-29 [00:23:23] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-29 [00:23:23] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-29 [00:23:23] [Server thread/INFO]: Loading erroring v1.0.0
+2015-11-29 [00:23:23] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-29 [00:23:23] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Sun_Nov_29-00.23.23-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-29 [00:32:16] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-29 [00:32:16] [Server thread/INFO]: Loading server properties...
+2015-11-29 [00:32:16] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-29 [00:32:16] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-29 [00:32:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-29 [00:32:16] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-11-29 [00:32:16] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-29 [00:32:16] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-29 [00:32:16] [Server thread/INFO]: Loading erroring v1.0.0
+2015-11-29 [00:32:16] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2015-11-29 [00:32:16] [Server thread/EMERGENCY]: Please upload the "/home/power777888/mp1.5/CrashDump_Sun_Nov_29-00.32.16-EST_2015.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2015-11-29 [00:34:07] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-29 [00:34:07] [Server thread/INFO]: Loading server properties...
+2015-11-29 [00:34:07] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-29 [00:34:07] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-29 [00:34:07] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-29 [00:34:07] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-11-29 [00:34:07] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-29 [00:34:08] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-29 [00:34:08] [Server thread/INFO]: Loading erroring v1.0.0
+2015-11-29 [00:34:08] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-29 [00:34:08] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-29 [00:34:08] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-29 [00:34:08] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-29 [00:34:08] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-29 [00:34:08] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-29 [00:34:08] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-29 [00:34:08] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-29 [00:34:08] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-29 [00:34:08] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-29 [00:34:08] [Server thread/INFO]: Enabling erroring v1.0.0
+2015-11-29 [00:34:08] [Server thread/INFO]: [erroring] 真·僵尸正在加载，作者:erroring
+2015-11-29 [13:34:10] [Server thread/INFO]: [erroring] 授权验证成功
+2015-11-29 [13:34:12] [Server thread/CRITICAL]: ClassNotFoundException: "Class erroring\TextFormat not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2015-11-29 [13:34:12] [Server thread/INFO]: Disabling erroring v1.0.0
+2015-11-29 [13:34:12] [Server thread/INFO]: [erroring] 真·僵尸卸载完毕，作者:erroring
+2015-11-29 [13:34:12] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-29 [13:34:12] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-29 [13:34:12] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-29 [13:34:12] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-29 [13:34:12] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-29 [13:34:12] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-29 [13:34:12] [Server thread/INFO]: Done (4.421s)! For help, type "help" or "?"
+2015-11-29 [13:57:39] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-29 [13:57:39] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-29 [13:57:39] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-29 [13:57:39] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-29 [13:57:39] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-11-29 [13:57:39] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-29 [13:57:39] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-29 [13:57:39] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-29 [13:57:39] [Server thread/INFO]: Stopping other threads
+2015-11-29 [00:57:55] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-29 [00:57:55] [Server thread/INFO]: Loading server properties...
+2015-11-29 [00:57:55] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-29 [00:57:55] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-29 [00:57:55] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-29 [00:57:55] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-11-29 [00:57:55] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-29 [00:57:56] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-29 [00:57:56] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-29 [00:57:56] [Server thread/INFO]: Loading TAnimal v1.1.2
+2015-11-29 [00:57:56] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-29 [00:57:56] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-29 [00:57:56] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-29 [00:57:56] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-29 [00:57:56] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-29 [00:57:56] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-29 [00:57:56] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-29 [00:57:56] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-29 [00:57:56] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-29 [00:57:56] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-29 [00:57:56] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-29 [00:57:56] [Server thread/INFO]: Enabling TAnimal v1.1.2
+2015-11-29 [00:57:56] [Server thread/INFO]: [TAnimal] TAnimal 加载中
+2015-11-29 [00:57:56] [Server thread/INFO]: [TAnimal] 开始验证插件授权...
+2015-11-29 [13:57:58] [Server thread/INFO]: [TAnimal] 授权验证成功,感谢您使用正版插件
+2015-11-29 [13:57:58] [Server thread/INFO]: [TAnimal] 您当前使用的插件是最新版
+2015-11-29 [13:57:58] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::Health)
+2015-11-29 [13:57:58] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::AnimalMove)
+2015-11-29 [13:57:58] [Server thread/INFO]: [TAnimal] TAnimal 加载完成
+2015-11-29 [13:57:58] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-29 [13:57:58] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-29 [13:57:58] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-29 [13:57:58] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-29 [13:57:58] [Server thread/INFO]: Done (3.294s)! For help, type "help" or "?"
+2015-11-29 [14:00:08] [Server thread/INFO]: power777888[/180.212.41.174:44740] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:00:09] [Server thread/INFO]: power777888 joined the game
+2015-11-29 [14:15:24] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-11-29 [14:15:33] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-11-29 [14:18:18] [Server thread/INFO]: kxz[/114.236.96.53:19132] logged out due to Outdated client!
+2015-11-29 [14:18:40] [Server thread/INFO]: xiao_chao[/121.32.10.210:19132] logged in with entity id 393 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:18:41] [Server thread/INFO]: xiao_chao joined the game
+2015-11-29 [14:18:45] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-11-29 [14:18:58] [Server thread/INFO]: iToyToy's Server:[VIP]<xiao_chao> hi
+2015-11-29 [14:20:01] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged in with entity id 404 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:20:02] [Server thread/INFO]: Steve joined the game
+2015-11-29 [14:20:06] [Server thread/INFO]: Steve left the game
+2015-11-29 [14:20:06] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged out due to client disconnect
+2015-11-29 [14:20:14] [Server thread/INFO]: moon[/114.236.96.53:19132] logged in with entity id 412 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:20:15] [Server thread/INFO]: moon joined the game
+2015-11-29 [14:20:19] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-11-29 [14:20:28] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 你好
+2015-11-29 [14:21:23] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 我有红石
+2015-11-29 [14:21:30] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> e
+2015-11-29 [14:21:50] [Server thread/INFO]: [power777888: Teleported xiao_chao to power777888]
+2015-11-29 [14:21:56] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 没色
+2015-11-29 [14:22:35] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 为什么字没色了
+2015-11-29 [14:22:54] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 没弄颜色
+2015-11-29 [14:23:02] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 苹果不支持
+2015-11-29 [14:23:59] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 那我还是VIP吗
+2015-11-29 [14:24:18] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 1级VIP变4级
+2015-11-29 [14:24:27] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 哦
+2015-11-29 [14:24:43] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> moon
+2015-11-29 [14:25:17] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-29 [14:25:18] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-29 [14:25:20] [Server thread/WARNING]: xiao_chao moved wrongly!
+2015-11-29 [14:25:37] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> 我要op
+2015-11-29 [14:25:59] [Server thread/INFO]: moon left the game
+2015-11-29 [14:25:59] [Server thread/INFO]: moon[/114.236.96.53:19132] logged out due to client disconnect
+2015-11-29 [14:26:04] [Server thread/INFO]: moon[/114.236.96.53:19132] logged in with entity id 442 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:26:05] [Server thread/INFO]: moon joined the game
+2015-11-29 [14:26:19] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 我想要飞行
+2015-11-29 [14:27:09] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> ncp的指令是啥
+2015-11-29 [14:27:21] [Server thread/INFO]: iToyToy's Server:[MVP+]<xiao_chao> 不知
+2015-11-29 [14:27:24] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> ncp？
+2015-11-29 [14:27:36] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> 就是假人
+2015-11-29 [14:27:44] [Server thread/INFO]: xiao_chao left the game
+2015-11-29 [14:27:44] [Server thread/INFO]: xiao_chao[/121.32.10.210:19132] logged out due to client disconnect
+2015-11-29 [14:27:59] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 现在没npc插件
+2015-11-29 [14:28:08] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> 有
+2015-11-29 [14:28:14] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> 你没下
+2015-11-29 [14:28:23] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 没装
+2015-11-29 [14:28:29] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:28:31] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:28:32] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:28:33] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:28:35] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:28:37] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:28:55] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-11-29 [14:29:02] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:03] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:04] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:05] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:05] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:06] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:07] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:08] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:09] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:09] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:10] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:11] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:12] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:12] [Server thread/INFO]: iToyToy's Server:[MVP+和副腐竹]<moon> op
+2015-11-29 [14:29:42] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-11-29 [14:35:55] [Server thread/INFO]: moon left the game
+2015-11-29 [14:35:55] [Server thread/INFO]: moon[/114.236.96.53:19132] logged out due to timeout
+2015-11-29 [14:37:14] [Server thread/INFO]: power777888 died
+2015-11-29 [14:39:13] [Server thread/INFO]: power777888 left the game
+2015-11-29 [14:39:13] [Server thread/INFO]: power777888[/180.212.41.174:44740] logged out due to client disconnect
+2015-11-29 [14:39:19] [Server thread/INFO]: power777888[/180.212.41.174:44740] logged in with entity id 1261 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:39:20] [Server thread/INFO]: power777888 joined the game
+2015-11-29 [14:40:52] [Server thread/INFO]: power777888 died
+2015-11-29 [14:48:42] [Server thread/INFO]: power777888 left the game
+2015-11-29 [14:48:42] [Server thread/INFO]: power777888[/180.212.41.174:44740] logged out due to timeout
+2015-11-29 [14:50:59] [Server thread/INFO]: moon[/114.236.96.53:19132] logged in with entity id 1916 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:51:00] [Server thread/INFO]: moon joined the game
+2015-11-29 [14:51:26] [Server thread/WARNING]: moon moved wrongly!
+2015-11-29 [14:52:40] [Server thread/WARNING]: moon moved wrongly!
+2015-11-29 [14:52:44] [Server thread/INFO]: moon left the game
+2015-11-29 [14:52:44] [Server thread/INFO]: moon[/114.236.96.53:19132] logged out due to client disconnect
+2015-11-29 [14:57:11] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged in with entity id 3235 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:57:12] [Server thread/INFO]: Steve joined the game
+2015-11-29 [14:57:22] [Server thread/INFO]: Steve left the game
+2015-11-29 [14:57:22] [Server thread/INFO]: Steve[/114.236.96.53:19132] logged out due to timeout
+2015-11-29 [14:57:57] [Server thread/INFO]: power777888[/180.212.41.174:44740] logged in with entity id 3428 at (iToyToy's Server, 165, 78, -282)
+2015-11-29 [14:57:58] [Server thread/INFO]: power777888 joined the game
