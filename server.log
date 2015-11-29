@@ -9603,3 +9603,49 @@
 2015-11-29 [22:51:05] [Server thread/WARNING]: Can't keep up! Is the server overloaded?
 2015-11-29 [22:54:41] [Server thread/WARNING]: Can't keep up! Is the server overloaded?
 2015-11-29 [22:58:18] [Server thread/WARNING]: Can't keep up! Is the server overloaded?
+2015-11-29 [23:01:57] [Server thread/WARNING]: Can't keep up! Is the server overloaded?
+2015-11-29 [23:02:37] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-11-29 [23:02:39] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-11-29 [23:02:39] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-11-29 [23:02:39] [Server thread/INFO]: Disabling TAnimal v1.1.2
+2015-11-29 [23:02:39] [Server thread/INFO]: [TAnimal] TAnimal 已关闭
+2015-11-29 [23:02:39] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-11-29 [23:02:39] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-11-29 [23:02:39] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-11-29 [23:02:39] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-11-29 [23:02:39] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-11-29 [23:02:49] [Server thread/NOTICE]: InvalidArgumentException: "Argument 1 passed to pocketmine\level\Position::setLevel() must be an instance of pocketmine\level\Level, null given, called in phar:///home/power777888/mp1.5/PocketMine-MP.phar/src/pocketmine/entity/Entity__64bit.php on line 228 and defined" (E_RECOVERABLE_ERROR) in "/src/pocketmine/level/Position" at line 56
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading pocketmine.yml...
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading server properties...
+2015-11-29 [10:03:33] [Server thread/INFO]: Selected English (eng) as the base language
+2015-11-29 [10:03:33] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-11-29 [10:03:33] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-11-29 [10:03:33] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-11-29 [10:03:33] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading TAnimal v1.1.2
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-11-29 [10:03:33] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-11-29 [10:03:33] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-11-29 [10:03:33] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-11-29 [10:03:33] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-11-29 [10:03:33] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-11-29 [10:03:33] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-11-29 [10:03:33] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-11-29 [10:03:33] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-11-29 [10:03:33] [Server thread/INFO]: KeepInventory by boybook.
+2015-11-29 [10:03:33] [Server thread/INFO]: Enabling TAnimal v1.1.2
+2015-11-29 [10:03:33] [Server thread/INFO]: [TAnimal] TAnimal 加载中
+2015-11-29 [10:03:33] [Server thread/INFO]: [TAnimal] 开始验证插件授权...
+2015-11-29 [23:03:35] [Server thread/INFO]: [TAnimal] 授权验证成功,感谢您使用正版插件
+2015-11-29 [23:03:36] [Server thread/INFO]: [TAnimal] 您当前使用的插件是最新版
+2015-11-29 [23:03:36] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::Health)
+2015-11-29 [23:03:36] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::AnimalMove)
+2015-11-29 [23:03:36] [Server thread/INFO]: [TAnimal] TAnimal 加载完成
+2015-11-29 [23:03:36] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-11-29 [23:03:36] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-11-29 [23:03:36] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-11-29 [23:03:36] [Server thread/INFO]: Default game type: Survival Mode
+2015-11-29 [23:03:36] [Server thread/INFO]: Done (3.567s)! For help, type "help" or "?"
