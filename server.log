@@ -9649,3 +9649,13 @@
 2015-11-29 [23:03:36] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
 2015-11-29 [23:03:36] [Server thread/INFO]: Default game type: Survival Mode
 2015-11-29 [23:03:36] [Server thread/INFO]: Done (3.567s)! For help, type "help" or "?"
+2015-11-30 [17:33:10] [Server thread/INFO]: xiao_chao[/121.32.10.210:19132] logged in with entity id 2 at (iToyToy's Server, 165, 78, -282)
+2015-11-30 [17:33:11] [Server thread/INFO]: xiao_chao joined the game
+2015-11-30 [17:35:40] [Server thread/INFO]: xiao_chao died
+2015-11-30 [17:37:38] [Server thread/INFO]: xiao_chao died
+2015-11-30 [17:37:51] [Server thread/INFO]: xiao_chao left the game
+2015-11-30 [17:37:51] [Server thread/INFO]: xiao_chao[/121.32.10.210:19132] logged out due to timeout
+2015-11-30 [18:55:47] [Server thread/INFO]: OOO[/60.180.181.75:6111] logged in with entity id 22077 at (iToyToy's Server, 165, 78, -282)
+2015-11-30 [18:55:48] [Server thread/INFO]: OOO joined the game
+2015-11-30 [18:56:47] [Server thread/INFO]: OOO left the game
+2015-11-30 [18:56:47] [Server thread/INFO]: OOO[/60.180.181.75:6111] logged out due to Kicked by admin. Reason: 登录时间超时!
