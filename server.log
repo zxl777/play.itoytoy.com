@@ -10218,3 +10218,379 @@
 2015-12-05 [20:41:10] [Server thread/INFO]: Chen_Cheng joined the game
 2015-12-05 [20:41:16] [Server thread/INFO]: Chen_Cheng left the game
 2015-12-05 [20:41:16] [Server thread/INFO]: Chen_Cheng[/49.86.116.183:33809] logged out due to client disconnect
+2015-12-05 [21:05:52] [Server thread/NOTICE]: Player data not found for "rrrrr", creating new profile
+2015-12-05 [21:05:52] [Server thread/INFO]: rrrrr[/223.73.156.122:17654] logged in with entity id 4686 at (football2, -137, 4, -975)
+2015-12-05 [21:05:53] [Server thread/INFO]: rrrrr joined the game
+2015-12-05 [21:07:55] [Server thread/INFO]: football2:[PFX]<rrrrr> 有人吗
+2015-12-05 [21:10:42] [Server thread/INFO]: rrrrr left the game
+2015-12-05 [21:10:42] [Server thread/INFO]: rrrrr[/223.73.156.122:17654] logged out due to client disconnect
+2015-12-05 [21:11:46] [Server thread/INFO]: There are 0/30 players online:
+2015-12-05 [21:11:46] [Server thread/INFO]: 
+2015-12-05 [21:11:50] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-05 [21:11:50] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-05 [21:11:50] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-05 [21:11:50] [Server thread/INFO]: Disabling TAnimal v1.1.2
+2015-12-05 [21:11:50] [Server thread/INFO]: [TAnimal] TAnimal 已关闭
+2015-12-05 [21:11:50] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-05 [21:11:50] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-05 [21:11:50] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-05 [21:11:50] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-05 [21:11:50] [Server thread/INFO]: Unloading level "football2"
+2015-12-05 [21:11:51] [Server thread/INFO]: Stopping other threads
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading server properties...
+2015-12-05 [08:12:37] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-05 [08:12:37] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-05 [08:12:37] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-05 [08:12:37] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-05 [08:12:37] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading TAnimal v1.1.2
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-05 [08:12:37] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-05 [08:12:37] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-05 [08:12:37] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-05 [08:12:37] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-05 [08:12:37] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-05 [08:12:37] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-05 [08:12:37] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-05 [08:12:37] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-05 [08:12:37] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-05 [08:12:37] [Server thread/INFO]: Enabling TAnimal v1.1.2
+2015-12-05 [08:12:37] [Server thread/INFO]: [TAnimal] TAnimal 加载中
+2015-12-05 [08:12:37] [Server thread/INFO]: [TAnimal] 开始验证插件授权...
+2015-12-05 [21:12:41] [Server thread/INFO]: [TAnimal] 授权验证成功,感谢您使用正版插件
+2015-12-05 [21:12:42] [Server thread/INFO]: [TAnimal] 您当前使用的插件是最新版
+2015-12-05 [21:12:42] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::Health)
+2015-12-05 [21:12:42] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::AnimalMove)
+2015-12-05 [21:12:42] [Server thread/INFO]: [TAnimal] TAnimal 加载完成
+2015-12-05 [21:12:42] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-05 [21:12:42] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-05 [21:12:42] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-05 [21:12:42] [Server thread/INFO]: Default game type: Creative Mode
+2015-12-05 [21:12:42] [Server thread/INFO]: Done (5.24s)! For help, type "help" or "?"
+2015-12-05 [21:13:17] [Server thread/INFO]: power777888[/180.212.40.179:43872] logged in with entity id 2 at (iToyToy's Server, 165, 78, -282)
+2015-12-05 [21:13:18] [Server thread/INFO]: power777888 joined the game
+2015-12-05 [21:15:46] [Server thread/INFO]: ACRWOFU[/106.4.129.82:58142] logged out due to Outdated client!
+2015-12-05 [21:16:01] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged in with entity id 302 at (iToyToy's Server, 165, 78, -282)
+2015-12-05 [21:16:02] [Server thread/INFO]: ACRWOFU joined the game
+2015-12-05 [21:16:10] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-05 [21:16:22] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 公告还没换
+2015-12-05 [21:16:24] [Server thread/INFO]: ACRWOFU left the game
+2015-12-05 [21:16:24] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged out due to client disconnect
+2015-12-05 [21:17:26] [Server thread/INFO]: rrrrr[/223.73.156.122:17654] logged in with entity id 319 at (iToyToy's Server, 165, 78, -282)
+2015-12-05 [21:17:27] [Server thread/INFO]: rrrrr joined the game
+2015-12-05 [21:17:40] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-05 [21:17:54] [Server thread/INFO]: iToyToy's Server:[PFX]<rrrrr> hi
+2015-12-05 [21:17:56] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 给你VIP称号
+2015-12-05 [21:18:01] [Server thread/INFO]: rrrrr left the game
+2015-12-05 [21:18:01] [Server thread/INFO]: rrrrr[/223.73.156.122:17654] logged out due to client disconnect
+2015-12-05 [21:18:08] [Server thread/INFO]: rrrrr[/223.73.156.122:17654] logged in with entity id 327 at (iToyToy's Server, 165, 78, -282)
+2015-12-05 [21:18:09] [Server thread/INFO]: rrrrr joined the game
+2015-12-05 [21:19:18] [Server thread/INFO]: [power777888: Set rrrrr's game mode to Survival Mode]
+2015-12-05 [21:19:58] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged in with entity id 340 at (iToyToy's Server, 165, 78, -282)
+2015-12-05 [21:19:59] [Server thread/INFO]: ACRWOFU joined the game
+2015-12-05 [21:20:03] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-05 [21:20:44] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 帮我开一下创造
+2015-12-05 [21:20:48] [Server thread/INFO]: [power777888: Given Iron Ore (15:0) * 64 to rrrrr]
+2015-12-05 [21:20:59] [Server thread/INFO]: iToyToy's Server:[PFX]<ACRWOFU> 我在飞
+2015-12-05 [21:21:15] [Server thread/INFO]: [power777888: Set ACRWOFU's game mode to Survival Mode]
+2015-12-05 [21:21:15] [Server thread/INFO]: ACRWOFU left the game
+2015-12-05 [21:21:15] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-12-05 [21:21:18] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 创造
+2015-12-05 [21:21:21] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged in with entity id 352 at (iToyToy's Server, 165, 78, -282)
+2015-12-05 [21:21:22] [Server thread/INFO]: ACRWOFU joined the game
+2015-12-05 [21:21:28] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> ganma
+2015-12-05 [21:22:01] [Server thread/INFO]: iToyToy's Server:[PFX]<ACRWOFU> 飞不了了
+2015-12-05 [21:22:13] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> power帮我开创造
+2015-12-05 [21:22:14] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> wogeinigaishengcunle
+2015-12-05 [21:22:20] [Server thread/WARNING]: rrrrr moved wrongly!
+2015-12-05 [21:22:44] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 你要啥称号
+2015-12-05 [21:22:57] [Server thread/INFO]: ACRWOFU has just earned the achievement Getting Wood
+2015-12-05 [21:23:09] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 我的称号是什么
+2015-12-05 [21:23:16] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> VIP
+2015-12-05 [21:23:30] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> VIP
+2015-12-05 [21:23:45] [Server thread/INFO]: ACRWOFU left the game
+2015-12-05 [21:23:45] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged out due to timeout
+2015-12-05 [21:23:53] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 帮我开创造
+2015-12-05 [21:23:57] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 你kill 一下
+2015-12-05 [21:24:02] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 干嘛
+2015-12-05 [21:24:03] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> kill
+2015-12-05 [21:24:12] [Server thread/INFO]: rrrrr died
+2015-12-05 [21:24:14] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 。/kill
+2015-12-05 [21:24:23] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 东西还在
+2015-12-05 [21:24:39] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 帮我开创造
+2015-12-05 [21:24:45] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 我带你看看
+2015-12-05 [21:24:48] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 一会
+2015-12-05 [21:26:29] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 你是什么开服的
+2015-12-05 [21:26:47] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> pocketmine的服
+2015-12-05 [21:27:19] [Server thread/WARNING]: rrrrr moved wrongly!
+2015-12-05 [21:27:36] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 我盖的
+2015-12-05 [21:27:51] [Server thread/WARNING]: rrrrr moved wrongly!
+2015-12-05 [21:27:58] [Server thread/WARNING]: rrrrr moved wrongly!
+2015-12-05 [21:28:31] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 可以帮我开创造了吗
+2015-12-05 [21:28:42] [Server thread/WARNING]: rrrrr moved wrongly!
+2015-12-05 [21:28:47] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 这地方太大了
+2015-12-05 [21:28:55] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 带你再看看
+2015-12-05 [21:29:14] [Server thread/INFO]: iToyToy's Server:[VIP]<rrrrr> 可以帮我开创造了吗
+2015-12-05 [21:29:31] [Server thread/INFO]: [power777888: Set rrrrr's game mode to Creative Mode]
+2015-12-05 [21:30:11] [Server thread/INFO]: [power777888: Set rrrrr's game mode to Survival Mode]
+2015-12-05 [21:30:45] [Server thread/INFO]: rrrrr left the game
+2015-12-05 [21:30:45] [Server thread/INFO]: rrrrr[/223.73.156.122:17654] logged out due to timeout
+2015-12-05 [21:32:48] [Server thread/INFO]: power777888 left the game
+2015-12-05 [21:32:48] [Server thread/INFO]: power777888[/180.212.40.179:43872] logged out due to timeout
+2015-12-05 [21:34:40] [Server thread/INFO]: There are 0/30 players online:
+2015-12-05 [21:34:40] [Server thread/INFO]: 
+2015-12-05 [21:34:53] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-12-05 [21:34:53] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-12-05 [21:34:53] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-12-05 [21:34:53] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-12-05 [21:34:53] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-12-05 [21:34:53] [Server thread/INFO]: /chpwd: Change password
+2015-12-05 [21:34:53] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-12-05 [21:34:53] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-12-05 [21:34:53] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-12-05 [21:34:53] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-12-05 [21:34:53] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-12-05 [21:34:53] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-12-05 [21:34:53] [Server thread/INFO]: /disablechat: 全体禁言
+2015-12-05 [21:34:53] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-12-05 [21:34:53] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-12-05 [21:34:53] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-12-05 [21:34:53] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-12-05 [21:34:53] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-12-05 [21:34:53] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-12-05 [21:34:53] [Server thread/INFO]: /help: Shows the help menu
+2015-12-05 [21:34:53] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-12-05 [21:34:53] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-12-05 [21:34:53] [Server thread/INFO]: /list: Lists all online players
+2015-12-05 [21:34:53] [Server thread/INFO]: /login: 登录账号
+2015-12-05 [21:34:53] [Server thread/INFO]: /logout: logout player
+2015-12-05 [21:34:53] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-12-05 [21:34:53] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-12-05 [21:34:53] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-12-05 [21:34:53] [Server thread/INFO]: /mute: 禁言玩家
+2015-12-05 [21:34:53] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-12-05 [21:34:53] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-12-05 [21:34:53] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-12-05 [21:34:53] [Server thread/INFO]: /particle: Adds particles to a world
+2015-12-05 [21:34:53] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-12-05 [21:34:53] [Server thread/INFO]: /preregister: pre-register player
+2015-12-05 [21:34:53] [Server thread/INFO]: /register: 注册一个账号
+2015-12-05 [21:34:53] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-12-05 [21:34:53] [Server thread/INFO]: /resetpwd: Reset password
+2015-12-05 [21:34:53] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-12-05 [21:34:53] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-12-05 [21:34:53] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-12-05 [21:34:53] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-12-05 [21:34:53] [Server thread/INFO]: /seed: Shows the world seed
+2015-12-05 [21:34:53] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-12-05 [21:34:53] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-12-05 [21:34:53] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-12-05 [21:34:53] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-12-05 [21:34:53] [Server thread/INFO]: /stop: Stops the server
+2015-12-05 [21:34:53] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-12-05 [21:34:53] [Server thread/INFO]: /time: Changes the time on each world
+2015-12-05 [21:34:53] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-12-05 [21:34:53] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-12-05 [21:34:53] [Server thread/INFO]: /unmute: 解除禁言
+2015-12-05 [21:34:53] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-12-05 [21:34:53] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-12-05 [21:37:46] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-12-05 [21:37:46] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-12-05 [21:37:46] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-12-05 [21:37:46] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-12-05 [21:37:46] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-12-05 [21:37:46] [Server thread/INFO]: /chpwd: Change password
+2015-12-05 [21:37:46] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-12-05 [21:37:46] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-12-05 [21:37:46] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-12-05 [21:37:46] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-12-05 [21:37:46] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-12-05 [21:37:46] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-12-05 [21:37:46] [Server thread/INFO]: /disablechat: 全体禁言
+2015-12-05 [21:37:46] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-12-05 [21:37:46] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-12-05 [21:37:46] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-12-05 [21:37:46] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-12-05 [21:37:46] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-12-05 [21:37:46] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-12-05 [21:37:46] [Server thread/INFO]: /help: Shows the help menu
+2015-12-05 [21:37:46] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-12-05 [21:37:46] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-12-05 [21:37:46] [Server thread/INFO]: /list: Lists all online players
+2015-12-05 [21:37:46] [Server thread/INFO]: /login: 登录账号
+2015-12-05 [21:37:46] [Server thread/INFO]: /logout: logout player
+2015-12-05 [21:37:46] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-12-05 [21:37:46] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-12-05 [21:37:46] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-12-05 [21:37:46] [Server thread/INFO]: /mute: 禁言玩家
+2015-12-05 [21:37:46] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-12-05 [21:37:46] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-12-05 [21:37:46] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-12-05 [21:37:46] [Server thread/INFO]: /particle: Adds particles to a world
+2015-12-05 [21:37:46] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-12-05 [21:37:46] [Server thread/INFO]: /preregister: pre-register player
+2015-12-05 [21:37:46] [Server thread/INFO]: /register: 注册一个账号
+2015-12-05 [21:37:46] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-12-05 [21:37:46] [Server thread/INFO]: /resetpwd: Reset password
+2015-12-05 [21:37:46] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-12-05 [21:37:46] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-12-05 [21:37:46] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-12-05 [21:37:46] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-12-05 [21:37:46] [Server thread/INFO]: /seed: Shows the world seed
+2015-12-05 [21:37:46] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-12-05 [21:37:46] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-12-05 [21:37:46] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-12-05 [21:37:46] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-12-05 [21:37:46] [Server thread/INFO]: /stop: Stops the server
+2015-12-05 [21:37:46] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-12-05 [21:37:46] [Server thread/INFO]: /time: Changes the time on each world
+2015-12-05 [21:37:46] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-12-05 [21:37:46] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-12-05 [21:37:46] [Server thread/INFO]: /unmute: 解除禁言
+2015-12-05 [21:37:46] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-12-05 [21:37:46] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-12-05 [21:40:59] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-12-05 [21:41:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2015-12-05 [21:41:31] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-12-05 [21:41:31] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-12-05 [21:41:31] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-12-05 [21:41:31] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-12-05 [21:41:31] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-12-05 [21:41:31] [Server thread/INFO]: /chpwd: Change password
+2015-12-05 [21:41:31] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-12-05 [21:41:31] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-12-05 [21:41:31] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-12-05 [21:41:31] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-12-05 [21:41:31] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-12-05 [21:41:31] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-12-05 [21:41:31] [Server thread/INFO]: /disablechat: 全体禁言
+2015-12-05 [21:41:31] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-12-05 [21:41:31] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-12-05 [21:41:31] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-12-05 [21:41:31] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-12-05 [21:41:31] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-12-05 [21:41:31] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-12-05 [21:41:31] [Server thread/INFO]: /help: Shows the help menu
+2015-12-05 [21:41:31] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-12-05 [21:41:31] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-12-05 [21:41:31] [Server thread/INFO]: /list: Lists all online players
+2015-12-05 [21:41:31] [Server thread/INFO]: /login: 登录账号
+2015-12-05 [21:41:31] [Server thread/INFO]: /logout: logout player
+2015-12-05 [21:41:31] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-12-05 [21:41:31] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-12-05 [21:41:31] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-12-05 [21:41:31] [Server thread/INFO]: /mute: 禁言玩家
+2015-12-05 [21:41:31] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-12-05 [21:41:31] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-12-05 [21:41:31] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-12-05 [21:41:31] [Server thread/INFO]: /particle: Adds particles to a world
+2015-12-05 [21:41:31] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-12-05 [21:41:31] [Server thread/INFO]: /preregister: pre-register player
+2015-12-05 [21:41:31] [Server thread/INFO]: /register: 注册一个账号
+2015-12-05 [21:41:31] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-12-05 [21:41:31] [Server thread/INFO]: /resetpwd: Reset password
+2015-12-05 [21:41:31] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-12-05 [21:41:31] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-12-05 [21:41:31] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-12-05 [21:41:31] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-12-05 [21:41:31] [Server thread/INFO]: /seed: Shows the world seed
+2015-12-05 [21:41:31] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-12-05 [21:41:31] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-12-05 [21:41:31] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-12-05 [21:41:31] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-12-05 [21:41:31] [Server thread/INFO]: /stop: Stops the server
+2015-12-05 [21:41:31] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-12-05 [21:41:31] [Server thread/INFO]: /time: Changes the time on each world
+2015-12-05 [21:41:31] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-12-05 [21:41:31] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-12-05 [21:41:31] [Server thread/INFO]: /unmute: 解除禁言
+2015-12-05 [21:41:31] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-12-05 [21:41:31] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-12-05 [21:42:12] [Server thread/INFO]: The world's default game mode is now Creative Mode
+2015-12-05 [21:42:16] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-05 [21:42:16] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-05 [21:42:16] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-05 [21:42:16] [Server thread/INFO]: Disabling TAnimal v1.1.2
+2015-12-05 [21:42:16] [Server thread/INFO]: [TAnimal] TAnimal 已关闭
+2015-12-05 [21:42:16] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-05 [21:42:16] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-05 [21:42:16] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-05 [21:42:16] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-05 [21:42:16] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-05 [21:42:17] [Server thread/NOTICE]: InvalidArgumentException: "Argument 1 passed to pocketmine\level\Position::setLevel() must be an instance of pocketmine\level\Level, null given, called in phar:///home/power777888/mp1.5/PocketMine-MP.phar/src/pocketmine/entity/Entity__64bit.php on line 228 and defined" (E_RECOVERABLE_ERROR) in "/src/pocketmine/level/Position" at line 56
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading server properties...
+2015-12-05 [08:44:37] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-05 [08:44:37] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-05 [08:44:37] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-05 [08:44:37] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-05 [08:44:37] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading TAnimal v1.1.2
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-05 [08:44:37] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-05 [08:44:37] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-05 [08:44:37] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-05 [08:44:37] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-05 [08:44:37] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-05 [08:44:37] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-05 [08:44:37] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-05 [08:44:37] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-05 [08:44:37] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-05 [08:44:37] [Server thread/INFO]: Enabling TAnimal v1.1.2
+2015-12-05 [08:44:37] [Server thread/INFO]: [TAnimal] TAnimal 加载中
+2015-12-05 [08:44:37] [Server thread/INFO]: [TAnimal] 开始验证插件授权...
+2015-12-05 [21:44:39] [Server thread/INFO]: [TAnimal] 授权验证成功,感谢您使用正版插件
+2015-12-05 [21:44:39] [Server thread/INFO]: [TAnimal] 您当前使用的插件是最新版
+2015-12-05 [21:44:39] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::Health)
+2015-12-05 [21:44:39] [Server thread/WARNING]: A plugin attempted to register a deprecated CallbackTask (Callback#TAnimal\TAnimal::AnimalMove)
+2015-12-05 [21:44:39] [Server thread/INFO]: [TAnimal] TAnimal 加载完成
+2015-12-05 [21:44:39] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-05 [21:44:39] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-05 [21:44:39] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-05 [21:44:40] [Server thread/INFO]: Default game type: Creative Mode
+2015-12-05 [21:44:40] [Server thread/INFO]: Done (2.593s)! For help, type "help" or "?"
+2015-12-05 [21:44:54] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-05 [21:44:54] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-05 [21:44:54] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-05 [21:44:54] [Server thread/INFO]: Disabling TAnimal v1.1.2
+2015-12-05 [21:44:54] [Server thread/INFO]: [TAnimal] TAnimal 已关闭
+2015-12-05 [21:44:54] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-05 [21:44:54] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-05 [21:44:54] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-05 [21:44:54] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-05 [21:44:54] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-05 [21:44:54] [Server thread/INFO]: Stopping other threads
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading server properties...
+2015-12-05 [08:45:14] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-05 [08:45:14] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-05 [08:45:14] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-05 [08:45:14] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-05 [08:45:14] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-05 [08:45:14] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-05 [08:45:14] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-05 [08:45:14] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-05 [08:45:14] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-05 [08:45:14] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-05 [08:45:14] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-05 [08:45:14] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-05 [08:45:14] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-05 [08:45:14] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-05 [08:45:14] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-05 [08:45:14] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-05 [08:45:14] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-05 [08:45:14] [Server thread/INFO]: Default game type: Creative Mode
+2015-12-05 [08:45:14] [Server thread/INFO]: Done (0.662s)! For help, type "help" or "?"
+2015-12-05 [09:33:00] [Server thread/INFO]: There are 0/30 players online:
+2015-12-05 [09:33:00] [Server thread/INFO]: 
