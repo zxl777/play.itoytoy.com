@@ -10167,3 +10167,54 @@
 2015-12-05 [17:33:36] [Server thread/INFO]: jisyuan joined the game
 2015-12-05 [17:33:56] [Server thread/INFO]: jisyuan left the game
 2015-12-05 [17:33:56] [Server thread/INFO]: jisyuan[/117.93.39.149:19637] logged out due to client disconnect
+2015-12-05 [19:59:29] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged in with entity id 1729 at (football2, -137, 4, -975)
+2015-12-05 [19:59:30] [Server thread/INFO]: ACRWOFU joined the game
+2015-12-05 [20:00:09] [Server thread/INFO]: ACRWOFU left the game
+2015-12-05 [20:00:09] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged out due to client disconnect
+2015-12-05 [20:05:08] [Server thread/NOTICE]: Player data not found for "chen_chengg", creating new profile
+2015-12-05 [20:05:08] [Server thread/INFO]: Chen_Chengg[/49.86.116.183:19132] logged in with entity id 1915 at (football2, -137, 4, -975)
+2015-12-05 [20:05:09] [Server thread/INFO]: Chen_Chengg joined the game
+2015-12-05 [20:05:15] [Server thread/INFO]: Chen_Chengg left the game
+2015-12-05 [20:05:15] [Server thread/INFO]: Chen_Chengg[/49.86.116.183:19132] logged out due to client disconnect
+2015-12-05 [20:06:26] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged in with entity id 2098 at (football2, -137, 4, -975)
+2015-12-05 [20:06:26] [Server thread/NOTICE]: Player data not found for "sskx", creating new profile
+2015-12-05 [20:06:26] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged in with entity id 2099 at (football2, -137, 4, -975)
+2015-12-05 [20:06:27] [Server thread/INFO]: ACRWOFU joined the game
+2015-12-05 [20:06:27] [Server thread/INFO]: sskx joined the game
+2015-12-05 [20:07:11] [Server thread/INFO]: football2:[PFX]<sskx> 我是sskx
+2015-12-05 [20:07:21] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 恩
+2015-12-05 [20:08:37] [Server thread/INFO]: football2:[PFX]<sskx> 现在干嘛
+2015-12-05 [20:08:47] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 我也不知道
+2015-12-05 [20:08:56] [Server thread/INFO]: football2:[PFX]<sskx> 靠
+2015-12-05 [20:09:59] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 来这
+2015-12-05 [20:10:06] [Server thread/INFO]: sskx left the game
+2015-12-05 [20:10:06] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged out due to timeout
+2015-12-05 [20:10:33] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged in with entity id 2280 at (football2, -137, 4, -975)
+2015-12-05 [20:10:34] [Server thread/INFO]: sskx joined the game
+2015-12-05 [20:10:40] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 来这
+2015-12-05 [20:11:58] [Server thread/INFO]: sskx left the game
+2015-12-05 [20:11:58] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged out due to timeout
+2015-12-05 [20:12:10] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged in with entity id 2308 at (football2, -137, 4, -975)
+2015-12-05 [20:12:11] [Server thread/INFO]: sskx joined the game
+2015-12-05 [20:12:33] [Server thread/INFO]: sskx left the game
+2015-12-05 [20:12:33] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged out due to client disconnect
+2015-12-05 [20:12:37] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged in with entity id 2309 at (football2, -137, 4, -975)
+2015-12-05 [20:12:38] [Server thread/INFO]: sskx joined the game
+2015-12-05 [20:19:10] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 这里不好玩
+2015-12-05 [20:19:25] [Server thread/INFO]: football2:[PFX]<sskx> 恩
+2015-12-05 [20:19:49] [Server thread/INFO]: football2:[PFX]<sskx> 你还有其他的吗
+2015-12-05 [20:20:00] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 没有
+2015-12-05 [20:20:15] [Server thread/INFO]: football2:[PFX]<sskx> 我有一个
+2015-12-05 [20:20:20] [Server thread/INFO]: football2:[PFX]<sskx> 你要吗
+2015-12-05 [20:20:22] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 给我吧
+2015-12-05 [20:20:41] [Server thread/INFO]: football2:[PFX]<sskx> 我发到QQ上
+2015-12-05 [20:20:51] [Server thread/INFO]: football2:[PFX]<ACRWOFU> 好  我退出
+2015-12-05 [20:21:16] [Server thread/INFO]: ACRWOFU left the game
+2015-12-05 [20:21:16] [Server thread/INFO]: ACRWOFU[/106.4.129.82:19132] logged out due to client disconnect
+2015-12-05 [20:23:50] [Server thread/INFO]: sskx left the game
+2015-12-05 [20:23:50] [Server thread/INFO]: sskx[/49.86.116.183:19132] logged out due to timeout
+2015-12-05 [20:41:09] [Server thread/NOTICE]: Player data not found for "chen_cheng", creating new profile
+2015-12-05 [20:41:09] [Server thread/INFO]: Chen_Cheng[/49.86.116.183:33809] logged in with entity id 3304 at (football2, -137, 4, -975)
+2015-12-05 [20:41:10] [Server thread/INFO]: Chen_Cheng joined the game
+2015-12-05 [20:41:16] [Server thread/INFO]: Chen_Cheng left the game
+2015-12-05 [20:41:16] [Server thread/INFO]: Chen_Cheng[/49.86.116.183:33809] logged out due to client disconnect
