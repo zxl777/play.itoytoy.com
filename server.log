@@ -10144,3 +10144,14 @@
 2015-12-05 [14:29:52] [Server thread/INFO]: ACRWOFU[/117.43.199.68:19132] logged out due to client disconnect
 2015-12-05 [14:59:26] [Server thread/INFO]: power777888[/180.212.80.128:41319] logged in with entity id 347 at (football2, -137, 4, -975)
 2015-12-05 [14:59:27] [Server thread/INFO]: power777888 joined the game
+2015-12-05 [15:08:48] [Server thread/INFO]: power777888 left the game
+2015-12-05 [15:08:48] [Server thread/INFO]: power777888[/180.212.80.128:41319] logged out due to client disconnect
+2015-12-05 [16:04:27] [Server thread/INFO]: ACRWOFU[/117.43.199.68:49351] logged in with entity id 802 at (football2, -137, 4, -975)
+2015-12-05 [16:04:28] [Server thread/INFO]: ACRWOFU joined the game
+2015-12-05 [16:06:55] [Server thread/INFO]: ACRWOFU left the game
+2015-12-05 [16:06:55] [Server thread/INFO]: ACRWOFU[/117.43.199.68:49351] logged out due to client disconnect
+2015-12-05 [16:38:31] [Server thread/NOTICE]: Player data not found for "norman", creating new profile
+2015-12-05 [16:38:31] [Server thread/INFO]: Norman[/114.111.167.111:6790] logged in with entity id 1051 at (football2, -137, 4, -975)
+2015-12-05 [16:38:32] [Server thread/INFO]: Norman joined the game
+2015-12-05 [16:39:29] [Server thread/INFO]: Norman left the game
+2015-12-05 [16:39:29] [Server thread/INFO]: Norman[/114.111.167.111:6790] logged out due to timeout
