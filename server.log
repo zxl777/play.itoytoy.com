@@ -10155,3 +10155,15 @@
 2015-12-05 [16:38:32] [Server thread/INFO]: Norman joined the game
 2015-12-05 [16:39:29] [Server thread/INFO]: Norman left the game
 2015-12-05 [16:39:29] [Server thread/INFO]: Norman[/114.111.167.111:6790] logged out due to timeout
+2015-12-05 [17:28:34] [Server thread/INFO]: jisyuan[/117.93.39.149:19637] logged in with entity id 1264 at (football2, -137, 4, -975)
+2015-12-05 [17:28:35] [Server thread/INFO]: jisyuan joined the game
+2015-12-05 [17:32:42] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-12-05 [17:33:06] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-12-05 [17:33:08] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-12-05 [17:33:11] [Server thread/WARNING]: jisyuan moved wrongly!
+2015-12-05 [17:33:30] [Server thread/INFO]: jisyuan left the game
+2015-12-05 [17:33:30] [Server thread/INFO]: jisyuan[/117.93.39.149:19637] logged out due to client disconnect
+2015-12-05 [17:33:35] [Server thread/INFO]: jisyuan[/117.93.39.149:19637] logged in with entity id 1632 at (football2, -137, 4, -975)
+2015-12-05 [17:33:36] [Server thread/INFO]: jisyuan joined the game
+2015-12-05 [17:33:56] [Server thread/INFO]: jisyuan left the game
+2015-12-05 [17:33:56] [Server thread/INFO]: jisyuan[/117.93.39.149:19637] logged out due to client disconnect
