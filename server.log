@@ -10024,3 +10024,25 @@
 2015-12-05 [06:39:31] [Server thread/INFO]: 1er joined the game
 2015-12-05 [06:39:45] [Server thread/INFO]: 1er left the game
 2015-12-05 [06:39:45] [Server thread/INFO]: 1er[/111.197.255.137:19132] logged out due to client disconnect
+2015-12-05 [07:25:04] [Server thread/NOTICE]: Player data not found for "worldop", creating new profile
+2015-12-05 [07:25:04] [Server thread/INFO]: worldop[/223.74.135.45:22209] logged in with entity id 12088 at (football2, -137, 4, -975)
+2015-12-05 [07:25:05] [Server thread/INFO]: worldop joined the game
+2015-12-05 [07:26:27] [Server thread/INFO]: worldop left the game
+2015-12-05 [07:26:27] [Server thread/INFO]: worldop[/223.74.135.45:22209] logged out due to client disconnect
+2015-12-05 [07:27:16] [Server thread/INFO]: worldop[/223.74.135.45:22209] logged in with entity id 12261 at (football2, -137, 4, -975)
+2015-12-05 [07:27:17] [Server thread/INFO]: worldop joined the game
+2015-12-05 [07:27:26] [Server thread/INFO]: worldop left the game
+2015-12-05 [07:27:26] [Server thread/INFO]: worldop[/223.74.135.45:22209] logged out due to client disconnect
+2015-12-05 [07:27:50] [Server thread/NOTICE]: Player data not found for "world", creating new profile
+2015-12-05 [07:27:50] [Server thread/INFO]: world[/223.74.135.45:22209] logged in with entity id 12434 at (football2, -137, 4, -975)
+2015-12-05 [07:27:51] [Server thread/INFO]: world joined the game
+2015-12-05 [07:28:02] [Server thread/INFO]: world left the game
+2015-12-05 [07:28:02] [Server thread/INFO]: world[/223.74.135.45:22209] logged out due to client disconnect
+2015-12-05 [07:28:11] [Server thread/INFO]: worldop[/223.74.135.45:22209] logged in with entity id 12435 at (football2, -137, 4, -975)
+2015-12-05 [07:28:12] [Server thread/INFO]: worldop joined the game
+2015-12-05 [07:31:58] [Server thread/INFO]: worldop left the game
+2015-12-05 [07:31:58] [Server thread/INFO]: worldop[/223.74.135.45:22209] logged out due to client disconnect
+2015-12-05 [07:32:08] [Server thread/INFO]: world[/223.74.135.45:22209] logged in with entity id 12436 at (football2, -137, 4, -975)
+2015-12-05 [07:32:09] [Server thread/INFO]: world joined the game
+2015-12-05 [07:32:33] [Server thread/INFO]: world left the game
+2015-12-05 [07:32:33] [Server thread/INFO]: world[/223.74.135.45:22209] logged out due to client disconnect
