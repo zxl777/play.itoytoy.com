@@ -10594,3 +10594,30 @@
 2015-12-05 [08:45:14] [Server thread/INFO]: Done (0.662s)! For help, type "help" or "?"
 2015-12-05 [09:33:00] [Server thread/INFO]: There are 0/30 players online:
 2015-12-05 [09:33:00] [Server thread/INFO]: 
+2015-12-08 [05:16:32] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [05:16:32] [Server thread/INFO]: Loading server properties...
+2015-12-08 [05:16:32] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [05:16:32] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [05:16:32] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [05:16:32] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [05:16:32] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [05:16:32] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [05:16:32] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [05:16:32] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [05:16:32] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [05:16:33] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [05:16:33] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [05:16:33] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [05:16:33] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [05:16:33] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [05:16:33] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [05:16:33] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [05:16:33] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [05:16:33] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [05:16:33] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [05:16:33] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [05:16:33] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [05:16:33] [Server thread/INFO]: Default game type: Creative Mode
+2015-12-08 [05:16:33] [Server thread/INFO]: Done (0.966s)! For help, type "help" or "?"
+2015-12-08 [05:16:43] [Server thread/INFO]: power777888[/180.212.134.17:42597] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [05:16:44] [Server thread/INFO]: power777888 joined the game
