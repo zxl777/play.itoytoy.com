@@ -5,7 +5,7 @@ disablechat: false
 default-player-prefix: PFX
 power777888.prefix: §1服§b主§a
 power777888.nick: iToyToy
-moon.prefix: §bMVP+§5和§1副腐竹
+moon.prefix: §5副腐竹
 xiao_chao.prefix: MVP+
 jisyuan.prefix: §bVIP+
 qwert.prefix: §cmoon朋友
@@ -16,4 +16,5 @@ qwgbgh.prefix: §3moon的好朋友
 rrrrr.prefix: VIP
 Bettybeebeebee.prefix: Betty
 VL_PRO.prefix: 建筑师
+moon.nick: §6神_888公会_会长_moon
 ...
