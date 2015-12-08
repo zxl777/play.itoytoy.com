@@ -1,0 +1,4 @@
+# Updated 12/08/15 06:44 by PocketMine-MP 1.6dev-51
+# victim name | ban date | banned by | banned until | reason
+
+24488|2015-12-08 06:44:47 -0500|power777888|Forever|Banned by an operator.
