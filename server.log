@@ -11352,3 +11352,237 @@
 2015-12-08 [08:59:37] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged in with entity id 452 at (iToyToy's Server, 165, 78, -282)
 2015-12-08 [08:59:38] [Server thread/INFO]: VL_PRO joined the game
 2015-12-08 [08:59:58] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> moon
+2015-12-08 [09:00:03] [Server thread/INFO]: [moon: Teleported VL_PRO to moon]
+2015-12-08 [09:00:12] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> thank
+2015-12-08 [09:00:55] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> thank
+2015-12-08 [09:01:12] [Server thread/INFO]: Bettybeebeebee died
+2015-12-08 [09:01:49] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-08 [09:01:49] [Server thread/INFO]: Bettybeebeebee[/119.236.32.2:19132] logged out due to client disconnect
+2015-12-08 [09:01:50] [Server thread/INFO]: VL_PRO left the game
+2015-12-08 [09:01:50] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged out due to timeout
+2015-12-08 [09:02:01] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged in with entity id 476 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [09:02:02] [Server thread/INFO]: VL_PRO joined the game
+2015-12-08 [09:02:34] [Server thread/INFO]: [moon: Teleported moon to VL_PRO]
+2015-12-08 [09:02:53] [Server thread/INFO]: [moon: Teleported VL_PRO to moon]
+2015-12-08 [09:03:22] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> 你要杀 betty呀
+2015-12-08 [09:03:34] [Server thread/INFO]: iToyToy's Server:[副腐竹]<moon> yes
+2015-12-08 [09:07:08] [Server thread/INFO]: VL_PRO left the game
+2015-12-08 [09:07:08] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged out due to timeout
+2015-12-08 [09:07:13] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged in with entity id 543 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [09:07:14] [Server thread/INFO]: VL_PRO joined the game
+2015-12-08 [09:08:10] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> walao
+2015-12-08 [09:09:16] [Server thread/INFO]: [moon: Teleported moon to VL_PRO]
+2015-12-08 [09:09:46] [Server thread/INFO]: [moon: Teleported moon to VL_PRO]
+2015-12-08 [09:09:51] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> 放我出去
+2015-12-08 [09:10:13] [Server thread/INFO]: [moon: Teleported VL_PRO to moon]
+2015-12-08 [09:10:26] [Server thread/INFO]: VL_PRO hit the ground too hard
+2015-12-08 [09:10:26] [Server thread/WARNING]: VL_PRO moved wrongly!
+2015-12-08 [09:10:33] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:10:39] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:10:46] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:10:55] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:10:56] [Server thread/INFO]: VL_PRO left the game
+2015-12-08 [09:10:56] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged out due to client disconnect
+2015-12-08 [09:11:47] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged in with entity id 585 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [09:11:48] [Server thread/INFO]: VL_PRO joined the game
+2015-12-08 [09:12:27] [Server thread/INFO]: [moon: Teleported VL_PRO to moon]
+2015-12-08 [09:13:54] [Server thread/INFO]: VL_PRO left the game
+2015-12-08 [09:13:54] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged out due to timeout
+2015-12-08 [09:14:04] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged in with entity id 616 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [09:14:05] [Server thread/INFO]: VL_PRO joined the game
+2015-12-08 [09:14:09] [Server thread/WARNING]: VL_PRO moved wrongly!
+2015-12-08 [09:14:55] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> 为什么我是建筑师的?
+2015-12-08 [09:16:05] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> 放我出来
+2015-12-08 [09:17:20] [Server thread/INFO]: There are 2/30 players online:
+2015-12-08 [09:17:20] [Server thread/INFO]: moon, VL_PRO
+2015-12-08 [09:17:32] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> 放我出来T.T
+2015-12-08 [09:18:06] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-12-08 [09:18:06] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-12-08 [09:18:06] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-12-08 [09:18:06] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-12-08 [09:18:06] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-12-08 [09:18:06] [Server thread/INFO]: /chpwd: Change password
+2015-12-08 [09:18:06] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-12-08 [09:18:06] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-12-08 [09:18:06] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-12-08 [09:18:06] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-12-08 [09:18:06] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-12-08 [09:18:06] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-12-08 [09:18:06] [Server thread/INFO]: /disablechat: 全体禁言
+2015-12-08 [09:18:06] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-12-08 [09:18:06] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-12-08 [09:18:06] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-12-08 [09:18:06] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-12-08 [09:18:06] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-12-08 [09:18:06] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-12-08 [09:18:06] [Server thread/INFO]: /help: Shows the help menu
+2015-12-08 [09:18:06] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-12-08 [09:18:06] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-12-08 [09:18:06] [Server thread/INFO]: /list: Lists all online players
+2015-12-08 [09:18:06] [Server thread/INFO]: /login: 登录账号
+2015-12-08 [09:18:06] [Server thread/INFO]: /logout: logout player
+2015-12-08 [09:18:06] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-12-08 [09:18:06] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-12-08 [09:18:06] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-12-08 [09:18:06] [Server thread/INFO]: /mute: 禁言玩家
+2015-12-08 [09:18:06] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-12-08 [09:18:06] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-12-08 [09:18:06] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-12-08 [09:18:06] [Server thread/INFO]: /particle: Adds particles to a world
+2015-12-08 [09:18:06] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-12-08 [09:18:06] [Server thread/INFO]: /preregister: pre-register player
+2015-12-08 [09:18:06] [Server thread/INFO]: /register: 注册一个账号
+2015-12-08 [09:18:06] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-12-08 [09:18:06] [Server thread/INFO]: /resetpwd: Reset password
+2015-12-08 [09:18:06] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-12-08 [09:18:06] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-12-08 [09:18:06] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-12-08 [09:18:06] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-12-08 [09:18:06] [Server thread/INFO]: /seed: Shows the world seed
+2015-12-08 [09:18:06] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-12-08 [09:18:06] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-12-08 [09:18:06] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-12-08 [09:18:06] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-12-08 [09:18:06] [Server thread/INFO]: /stop: Stops the server
+2015-12-08 [09:18:06] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-12-08 [09:18:06] [Server thread/INFO]: /time: Changes the time on each world
+2015-12-08 [09:18:06] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-12-08 [09:18:06] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-12-08 [09:18:06] [Server thread/INFO]: /unmute: 解除禁言
+2015-12-08 [09:18:06] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-12-08 [09:18:06] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-12-08 [09:18:11] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:21] [Server thread/INFO]: The world's default game mode is now Survival Mode
+2015-12-08 [09:18:48] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:49] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:49] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:18:50] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:51] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:52] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:52] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:18:53] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:18:54] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:18:54] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:18:55] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:18:56] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:57] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> ii
+2015-12-08 [09:18:58] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:59] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:18:59] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:19:00] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:19:01] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> oi
+2015-12-08 [09:19:01] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:19:02] [Server thread/INFO]: iToyToy's Server:[建筑师]<VL_PRO> i
+2015-12-08 [09:19:19] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-08 [09:19:19] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [09:19:19] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [09:19:19] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [09:19:19] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [09:19:19] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [09:19:19] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [09:19:19] [Server thread/INFO]: moon left the game
+2015-12-08 [09:19:19] [Server thread/INFO]: moon[/121.234.53.110:19132] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-08 [09:19:19] [Server thread/INFO]: VL_PRO left the game
+2015-12-08 [09:19:19] [Server thread/INFO]: VL_PRO[/118.101.202.21:19547] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-08 [09:19:19] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [09:19:20] [Server thread/INFO]: Stopping other threads
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading server properties...
+2015-12-08 [09:19:34] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [09:19:34] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [09:19:34] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [09:19:34] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [09:19:34] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [09:19:34] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [09:19:34] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [09:19:34] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [09:19:34] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [09:19:34] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [09:19:34] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [09:19:34] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [09:19:34] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [09:19:34] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [09:19:34] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [09:19:34] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [09:19:34] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [09:19:34] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [09:19:34] [Server thread/INFO]: Done (0.92s)! For help, type "help" or "?"
+2015-12-08 [09:19:36] [Server thread/INFO]: moon[/121.234.53.110:19132] logged in with entity id 1 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [09:19:37] [Server thread/INFO]: moon joined the game
+2015-12-08 [09:26:19] [Server thread/INFO]: moon died
+2015-12-08 [09:26:41] [Server thread/INFO]: moon left the game
+2015-12-08 [09:26:41] [Server thread/INFO]: moon[/121.234.53.110:19132] logged out due to client disconnect
+2015-12-08 [09:31:41] [Server thread/INFO]: VL_PRO[/175.140.89.161:22836] logged in with entity id 211 at (iToyToy's Server, 165, 78, -282)
+2015-12-08 [09:31:42] [Server thread/INFO]: VL_PRO joined the game
+2015-12-08 [09:32:10] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:32:22] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:32:34] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:32:46] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:32:57] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:33:27] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:34:13] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:34:23] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:34:42] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:34:54] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:35:00] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:35:13] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:35:24] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:35:38] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:35:57] [Server thread/INFO]: VL_PRO burned to death
+2015-12-08 [09:36:07] [Server thread/INFO]: VL_PRO burned to death
+2015-12-08 [09:36:19] [Server thread/INFO]: VL_PRO burned to death
+2015-12-08 [09:36:29] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:36:36] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:36:46] [Server thread/INFO]: VL_PRO burned to death
+2015-12-08 [09:37:11] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:37:21] [Server thread/INFO]: VL_PRO burned to death
+2015-12-08 [09:37:32] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:37:39] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:37:49] [Server thread/INFO]: VL_PRO burned to death
+2015-12-08 [09:38:02] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:38:28] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:38:45] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:39:10] [Server thread/INFO]: VL_PRO went up in flames
+2015-12-08 [09:39:16] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:39:23] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:39:30] [Server thread/INFO]: VL_PRO tried to swim in lava
+2015-12-08 [09:39:34] [Server thread/INFO]: VL_PRO left the game
+2015-12-08 [09:39:34] [Server thread/INFO]: VL_PRO[/175.140.89.161:22836] logged out due to client disconnect
+2015-12-08 [09:41:09] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-08 [09:41:09] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [09:41:09] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [09:41:09] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [09:41:09] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [09:41:09] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [09:41:09] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [09:41:09] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [09:41:09] [Server thread/NOTICE]: InvalidArgumentException: "Argument 1 passed to pocketmine\level\Position::setLevel() must be an instance of pocketmine\level\Level, null given, called in phar:///home/power777888/mp1.5/PocketMine-MP.phar/src/pocketmine/entity/Entity__64bit.php on line 228 and defined" (E_RECOVERABLE_ERROR) in "/src/pocketmine/level/Position" at line 56
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading server properties...
+2015-12-08 [09:42:37] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [09:42:37] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [09:42:37] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [09:42:37] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [09:42:37] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [09:42:37] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [09:42:37] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [09:42:37] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [09:42:37] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [09:42:37] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [09:42:37] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [09:42:37] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [09:42:37] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [09:42:37] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [09:42:37] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [09:42:37] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [09:42:37] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [09:42:37] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [09:42:37] [Server thread/INFO]: Done (0.782s)! For help, type "help" or "?"
