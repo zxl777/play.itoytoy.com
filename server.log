@@ -11811,3 +11811,44 @@
 2015-12-08 [18:33:38] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
 2015-12-08 [18:34:36] [Server thread/INFO]: Bettybeebeebee left the game
 2015-12-08 [18:34:36] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged out due to client disconnect
+2015-12-08 [19:49:18] [Server thread/INFO]: power777888[/180.212.134.17:36605] logged in with entity id 21996 at (iToyToy's Server, 173, 70, -269)
+2015-12-08 [19:49:19] [Server thread/INFO]: power777888 joined the game
+2015-12-08 [19:50:02] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [19:50:02] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [19:50:02] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [19:50:02] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [19:50:02] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [19:50:02] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [19:50:02] [Server thread/INFO]: power777888 left the game
+2015-12-08 [19:50:02] [Server thread/INFO]: power777888[/180.212.134.17:36605] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-08 [19:50:02] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [19:50:04] [Server thread/INFO]: Stopping other threads
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading server properties...
+2015-12-08 [19:50:05] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [19:50:05] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [19:50:05] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [19:50:05] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [19:50:05] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [19:50:05] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [19:50:05] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [19:50:05] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [19:50:05] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [19:50:05] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [19:50:05] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [19:50:05] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [19:50:05] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [19:50:05] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [19:50:05] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [19:50:05] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [19:50:05] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [19:50:05] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [19:50:05] [Server thread/INFO]: Done (0.645s)! For help, type "help" or "?"
+2015-12-08 [19:50:12] [Server thread/INFO]: power777888[/180.212.134.17:36605] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-08 [19:50:13] [Server thread/INFO]: power777888 joined the game
+2015-12-08 [19:50:23] [Server thread/INFO]: power777888 left the game
+2015-12-08 [19:50:23] [Server thread/INFO]: power777888[/180.212.134.17:36605] logged out due to client disconnect
