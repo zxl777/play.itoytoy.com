@@ -12357,3 +12357,20 @@
 2015-12-09 [00:19:52] [Server thread/INFO]: Norman[/98.126.73.254:19132] logged out due to timeout
 2015-12-09 [00:24:14] [Server thread/INFO]: moon left the game
 2015-12-09 [00:24:14] [Server thread/INFO]: moon[/121.234.53.110:19132] logged out due to timeout
+2015-12-09 [03:16:59] [Server thread/INFO]: sky777888[/117.10.154.153:46447] logged in with entity id 8233 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [03:17:00] [Server thread/INFO]: sky777888 joined the game
+2015-12-09 [03:18:08] [Server thread/INFO]: sky777888 left the game
+2015-12-09 [03:18:08] [Server thread/INFO]: sky777888[/117.10.154.153:46447] logged out due to client disconnect
+2015-12-09 [03:18:29] [Server thread/NOTICE]: Player data not found for "itoytoy", creating new profile
+2015-12-09 [03:18:29] [Server thread/INFO]: iToyToy[/117.10.154.153:46447] logged in with entity id 8283 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [03:18:30] [Server thread/INFO]: iToyToy joined the game
+2015-12-09 [03:19:30] [Server thread/INFO]: iToyToy left the game
+2015-12-09 [03:19:30] [Server thread/INFO]: iToyToy[/117.10.154.153:46447] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-12-09 [03:19:38] [Server thread/INFO]: iToyToy[/117.10.154.153:46447] logged in with entity id 8327 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [03:19:39] [Server thread/INFO]: iToyToy joined the game
+2015-12-09 [03:20:32] [Server thread/INFO]: iToyToy left the game
+2015-12-09 [03:20:32] [Server thread/INFO]: iToyToy[/117.10.154.153:46447] logged out due to client disconnect
+2015-12-09 [03:20:47] [Server thread/INFO]: power777888[/117.10.154.153:46447] logged in with entity id 8388 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [03:20:48] [Server thread/INFO]: power777888 joined the game
+2015-12-09 [03:27:18] [Server thread/INFO]: power777888 left the game
+2015-12-09 [03:27:18] [Server thread/INFO]: power777888[/117.10.154.153:46447] logged out due to timeout
