@@ -12579,3 +12579,151 @@
 2015-12-09 [06:18:42] [Server thread/INFO]: VL_PRO joined the game
 2015-12-09 [06:20:28] [Server thread/INFO]: VL_PRO left the game
 2015-12-09 [06:20:28] [Server thread/INFO]: VL_PRO[/118.101.200.135:31486] logged out due to client disconnect
+2015-12-09 [08:22:11] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged in with entity id 20400 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:22:12] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-09 [08:22:49] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-09 [08:22:49] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-09 [08:22:49] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-09 [08:22:49] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-09 [08:22:49] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-09 [08:22:49] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-09 [08:22:49] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-09 [08:22:49] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-09 [08:22:49] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-09 [08:22:50] [Server thread/INFO]: Stopping other threads
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading server properties...
+2015-12-09 [08:22:52] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-09 [08:22:52] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-09 [08:22:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-09 [08:22:52] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-09 [08:22:52] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-09 [08:22:52] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-09 [08:22:52] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-09 [08:22:52] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-09 [08:22:52] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-09 [08:22:52] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-09 [08:22:52] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-09 [08:22:52] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-09 [08:22:52] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-09 [08:22:52] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-09 [08:22:52] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-09 [08:22:52] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-09 [08:22:52] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-09 [08:22:52] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-09 [08:22:52] [Server thread/INFO]: Done (0.62s)! For help, type "help" or "?"
+2015-12-09 [08:23:42] [Server thread/INFO]: VL_PRO[/119.237.32.50:19132] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:23:43] [Server thread/INFO]: VL_PRO joined the game
+2015-12-09 [08:23:47] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged in with entity id 21 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:23:48] [Server thread/INFO]: power777888 joined the game
+2015-12-09 [08:24:14] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> vlpro
+2015-12-09 [08:24:30] [Server thread/INFO]: VL_PRO left the game
+2015-12-09 [08:24:30] [Server thread/INFO]: VL_PRO[/119.237.32.50:19132] logged out due to client disconnect
+2015-12-09 [08:24:39] [Server thread/INFO]: VL_PRO[/119.237.32.50:19132] logged in with entity id 22 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:24:40] [Server thread/INFO]: VL_PRO joined the game
+2015-12-09 [08:24:43] [Server thread/INFO]: VL_PRO left the game
+2015-12-09 [08:24:43] [Server thread/INFO]: VL_PRO[/119.237.32.50:19132] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-12-09 [08:24:49] [Server thread/INFO]: VL_PRO[/119.237.32.50:19132] logged in with entity id 23 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:24:50] [Server thread/INFO]: VL_PRO joined the game
+2015-12-09 [08:25:08] [Server thread/INFO]: VL_PRO left the game
+2015-12-09 [08:25:08] [Server thread/INFO]: VL_PRO[/119.237.32.50:19132] logged out due to Kicked by admin.
+2015-12-09 [08:25:08] [Server thread/INFO]: [power777888: Kicked VL_PRO from the game]
+2015-12-09 [08:25:31] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged in with entity id 24 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:25:32] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-09 [08:25:39] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 嗯
+2015-12-09 [08:26:06] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 我完全不能打你
+2015-12-09 [08:26:24] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-12-09 [08:26:24] [Server thread/INFO]: power777888 left the game
+2015-12-09 [08:26:24] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-12-09 [08:26:47] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged in with entity id 30 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:26:48] [Server thread/INFO]: power777888 joined the game
+2015-12-09 [08:28:10] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> hay
+2015-12-09 [08:29:12] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-12-09 [08:29:31] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 幚我回洫
+2015-12-09 [08:29:55] [Server thread/INFO]: Bettybeebeebee fell from a high place
+2015-12-09 [08:29:55] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
+2015-12-09 [08:29:59] [Server thread/INFO]: Bettybeebeebee died
+2015-12-09 [08:29:59] [Server thread/INFO]: [power777888: Killed Bettybeebeebee]
+2015-12-09 [08:30:16] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-12-09 [08:30:20] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 我要上去
+2015-12-09 [08:30:29] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 不跳
+2015-12-09 [08:30:50] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> e
+2015-12-09 [08:31:20] [Server thread/INFO]: [power777888: Teleported Bettybeebeebee to power777888]
+2015-12-09 [08:31:50] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 别拿箱子里东西
+2015-12-09 [08:32:02] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 算了啦
+2015-12-09 [08:32:13] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-12-09 [08:32:53] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> hay
+2015-12-09 [08:33:26] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 望住我
+2015-12-09 [08:33:26] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-12-09 [08:34:01] [Server thread/INFO]: [power777888: Given Bow (261:0) * 1 to power777888]
+2015-12-09 [08:34:19] [Server thread/INFO]: [power777888: Given Arrow (262:0) * 64 to power777888]
+2015-12-09 [08:34:41] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> biena
+2015-12-09 [08:35:11] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-12-09 [08:35:23] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-09 [08:35:23] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged out due to Kicked by admin.
+2015-12-09 [08:35:23] [Server thread/INFO]: [power777888: Kicked Bettybeebeebee from the game]
+2015-12-09 [08:35:29] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged in with entity id 58 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:35:30] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-09 [08:35:36] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-09 [08:35:36] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged out due to client disconnect
+2015-12-09 [08:35:40] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged in with entity id 61 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:35:41] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-09 [08:36:02] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 上去。
+2015-12-09 [08:36:21] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 不用
+2015-12-09 [08:37:10] [Server thread/INFO]: Bettybeebeebee fell from a high place
+2015-12-09 [08:37:10] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
+2015-12-09 [08:37:43] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 你干什麼
+2015-12-09 [08:38:10] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 不跑酷别上来
+2015-12-09 [08:38:19] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-12-09 [08:38:53] [Server thread/INFO]: [power777888: Given Apple (260:0) * 64 to power777888]
+2015-12-09 [08:39:13] [Server thread/INFO]: [power777888: Given Arrow (262:0) * 64 to power777888]
+2015-12-09 [08:39:58] [Server thread/INFO]: Bettybeebeebee died
+2015-12-09 [08:39:58] [Server thread/INFO]: [power777888: Killed Bettybeebeebee]
+2015-12-09 [08:40:07] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-12-09 [08:40:36] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 救我。
+2015-12-09 [08:40:40] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 我可以tp你
+2015-12-09 [08:41:30] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2015-12-09 [08:41:30] [Server thread/INFO]: power777888 left the game
+2015-12-09 [08:41:30] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-12-09 [08:41:35] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged in with entity id 75 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:41:36] [Server thread/INFO]: power777888 joined the game
+2015-12-09 [08:41:58] [Server thread/INFO]: power777888 hit the ground too hard
+2015-12-09 [08:41:58] [Server thread/WARNING]: power777888 moved wrongly!
+2015-12-09 [08:42:03] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 那天空的家有點是我做
+2015-12-09 [08:42:15] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2015-12-09 [08:43:04] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> tp
+2015-12-09 [08:43:10] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 哪里
+2015-12-09 [08:43:17] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 不能开箱
+2015-12-09 [08:43:27] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 空
+2015-12-09 [08:43:42] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 别开箱子
+2015-12-09 [08:43:52] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> yes？
+2015-12-09 [08:43:56] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 知
+2015-12-09 [08:44:23] [Server thread/INFO]: power777888 left the game
+2015-12-09 [08:44:23] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged out due to timeout
+2015-12-09 [08:44:30] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged in with entity id 88 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:44:31] [Server thread/INFO]: power777888 joined the game
+2015-12-09 [08:45:14] [Server thread/INFO]: [power777888: Teleported Bettybeebeebee to power777888]
+2015-12-09 [08:45:24] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 我想要七粒讚石
+2015-12-09 [08:45:40] [Server thread/INFO]: [power777888: Given Diamond (264:0) * 7 to Bettybeebeebee]
+2015-12-09 [08:46:05] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> geile
+2015-12-09 [08:46:08] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-09 [08:46:08] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged out due to timeout
+2015-12-09 [08:46:35] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged in with entity id 92 at (iToyToy's Server, 173, 70, -269)
+2015-12-09 [08:46:36] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-09 [08:49:26] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 上去
+2015-12-09 [08:50:38] [Server thread/INFO]: [power777888: Teleported Bettybeebeebee to power777888]
+2015-12-09 [08:50:49] [Server thread/INFO]: Bettybeebeebee fell from a high place
+2015-12-09 [08:50:49] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
+2015-12-09 [08:51:06] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 點
+2015-12-09 [08:51:18] [Server thread/INFO]: [power777888: Teleported Bettybeebeebee to power777888]
+2015-12-09 [08:52:03] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 你住哪裡
+2015-12-09 [08:52:28] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 學你
+2015-12-09 [08:53:08] [Server thread/INFO]: power777888 left the game
+2015-12-09 [08:53:08] [Server thread/INFO]: power777888[/180.212.217.243:41020] logged out due to client disconnect
+2015-12-09 [08:53:48] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 比的8粒我
+2015-12-09 [08:54:29] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-09 [08:54:29] [Server thread/INFO]: Bettybeebeebee[/119.237.32.50:19132] logged out due to client disconnect
