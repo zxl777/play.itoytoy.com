@@ -11852,3 +11852,301 @@
 2015-12-08 [19:50:13] [Server thread/INFO]: power777888 joined the game
 2015-12-08 [19:50:23] [Server thread/INFO]: power777888 left the game
 2015-12-08 [19:50:23] [Server thread/INFO]: power777888[/180.212.134.17:36605] logged out due to client disconnect
+2015-12-08 [21:22:40] [Server thread/INFO]: power777888[/180.212.134.17:46036] logged in with entity id 3799 at (iToyToy's Server, 173, 70, -269)
+2015-12-08 [21:22:41] [Server thread/INFO]: power777888 joined the game
+2015-12-08 [21:28:18] [Server thread/INFO]: power777888 left the game
+2015-12-08 [21:28:18] [Server thread/INFO]: power777888[/180.212.134.17:46036] logged out due to timeout
+2015-12-08 [21:44:30] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [21:44:30] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [21:44:30] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [21:44:30] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [21:44:30] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [21:44:30] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:44:30] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [21:44:31] [Server thread/NOTICE]: InvalidArgumentException: "Argument 1 passed to pocketmine\level\Position::setLevel() must be an instance of pocketmine\level\Level, null given, called in phar:///home/power777888/mp1.5/PocketMine-MP.phar/src/pocketmine/entity/Entity__64bit.php on line 228 and defined" (E_RECOVERABLE_ERROR) in "/src/pocketmine/level/Position" at line 56
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading server properties...
+2015-12-08 [21:46:12] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [21:46:12] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [21:46:12] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [21:46:12] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [21:46:12] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading PocketDockConsole v0.0.14
+2015-12-08 [21:46:12] [Server thread/INFO]: [PDC] Loaded
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [21:46:12] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [21:46:13] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [21:46:13] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [21:46:13] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [21:46:13] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [21:46:13] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [21:46:13] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [21:46:13] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [21:46:13] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [21:46:13] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [21:46:13] [Server thread/INFO]: Enabling PocketDockConsole v0.0.14
+2015-12-08 [21:46:13] [Server thread/INFO]: [PDC] Enabled
+2015-12-08 [21:46:13] [Server thread/INFO]: [PDC] The password is now the RCON password.
+2015-12-08 [21:46:13] [Server thread/INFO]: [PDC] If you would like to change the password, please do so in the PDC config.
+2015-12-08 [21:46:13] [Server thread/INFO]: [PDC] Started SocksServer on 0.0.0.0:9090
+2015-12-08 [21:46:13] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [21:46:13] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [21:46:13] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:46:13] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [21:46:13] [Server thread/INFO]: Done (1.146s)! For help, type "help" or "?"
+2015-12-08 [21:46:31] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-08 [21:46:31] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [21:46:31] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [21:46:31] [Server thread/INFO]: Disabling PocketDockConsole v0.0.14
+2015-12-08 [21:46:31] [Server thread/INFO]: [PDC] Disabled
+2015-12-08 [21:46:31] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [21:46:31] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [21:46:31] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [21:46:31] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:46:31] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [21:46:31] [Server thread/INFO]: Stopping other threads
+2015-12-08 [21:47:36] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [21:47:36] [Server thread/INFO]: Loading server properties...
+2015-12-08 [21:47:36] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [21:47:36] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [21:47:36] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [21:47:36] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [21:47:36] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [21:47:37] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [21:47:37] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [21:47:37] [Server thread/INFO]: Loading PocketDockConsole v0.0.14
+2015-12-08 [21:47:37] [Server thread/INFO]: [PDC] Loaded
+2015-12-08 [21:47:37] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [21:47:37] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [21:47:37] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [21:47:37] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [21:47:37] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [21:47:37] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [21:47:37] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [21:47:37] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [21:47:37] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [21:47:37] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [21:47:37] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [21:47:37] [Server thread/INFO]: Enabling PocketDockConsole v0.0.14
+2015-12-08 [21:47:37] [Server thread/INFO]: [PDC] Enabled
+2015-12-08 [21:47:37] [Server thread/INFO]: [PDC] Started SocksServer on 0.0.0.0:9999
+2015-12-08 [21:47:37] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [21:47:37] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [21:47:37] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:47:37] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [21:47:37] [Server thread/INFO]: Done (1.112s)! For help, type "help" or "?"
+2015-12-08 [21:49:32] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-08 [21:49:32] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [21:49:32] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [21:49:32] [Server thread/INFO]: Disabling PocketDockConsole v0.0.14
+2015-12-08 [21:49:32] [Server thread/INFO]: [PDC] Disabled
+2015-12-08 [21:49:32] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [21:49:32] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [21:49:32] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [21:49:32] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:49:32] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [21:49:32] [Server thread/INFO]: Stopping other threads
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading server properties...
+2015-12-08 [21:49:35] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [21:49:35] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [21:49:35] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [21:49:35] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [21:49:35] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading PocketDockConsole v0.0.14
+2015-12-08 [21:49:35] [Server thread/INFO]: [PDC] Loaded
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [21:49:35] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [21:49:35] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [21:49:35] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [21:49:35] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [21:49:35] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [21:49:35] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [21:49:35] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [21:49:35] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [21:49:35] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [21:49:35] [Server thread/INFO]: Enabling PocketDockConsole v0.0.14
+2015-12-08 [21:49:35] [Server thread/INFO]: [PDC] Enabled
+2015-12-08 [21:49:35] [Server thread/INFO]: [PDC] Started SocksServer on 0.0.0.0:9999
+2015-12-08 [21:49:35] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [21:49:35] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [21:49:35] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:49:36] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [21:49:36] [Server thread/INFO]: Done (1.022s)! For help, type "help" or "?"
+2015-12-08 [21:49:41] [PDCServer thread/INFO]: [PDC] Connection from: 23.252.122.18
+2015-12-08 [21:49:47] [PDCServer thread/INFO]: [PDC] Successful login from: 23.252.122.18!
+2015-12-08 [21:49:50] [PDCServer thread/INFO]: [PDC] Connection from: 23.252.122.18
+2015-12-08 [21:49:56] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-12-08 [21:49:56] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-12-08 [21:49:56] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-12-08 [21:49:56] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-12-08 [21:49:56] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-12-08 [21:49:56] [Server thread/INFO]: /chpwd: Change password
+2015-12-08 [21:49:56] [Server thread/INFO]: /consoleclients: List the connected PocketDockConsole clients
+2015-12-08 [21:49:56] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-12-08 [21:49:56] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-12-08 [21:49:56] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-12-08 [21:49:56] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-12-08 [21:49:56] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-12-08 [21:49:56] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-12-08 [21:49:56] [Server thread/INFO]: /disablechat: 全体禁言
+2015-12-08 [21:49:56] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-12-08 [21:49:56] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-12-08 [21:49:56] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-12-08 [21:49:56] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-12-08 [21:49:56] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-12-08 [21:49:56] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-12-08 [21:49:56] [Server thread/INFO]: /help: Shows the help menu
+2015-12-08 [21:49:56] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-12-08 [21:49:56] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-12-08 [21:49:56] [Server thread/INFO]: /killclient: Kill a certain client from connection
+2015-12-08 [21:49:56] [Server thread/INFO]: /list: Lists all online players
+2015-12-08 [21:49:56] [Server thread/INFO]: /login: 登录账号
+2015-12-08 [21:49:56] [Server thread/INFO]: /logout: logout player
+2015-12-08 [21:49:56] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-12-08 [21:49:56] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-12-08 [21:49:56] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-12-08 [21:49:56] [Server thread/INFO]: /mute: 禁言玩家
+2015-12-08 [21:49:56] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-12-08 [21:49:56] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-12-08 [21:49:56] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-12-08 [21:49:56] [Server thread/INFO]: /particle: Adds particles to a world
+2015-12-08 [21:49:56] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-12-08 [21:49:56] [Server thread/INFO]: /preregister: pre-register player
+2015-12-08 [21:49:56] [Server thread/INFO]: /register: 注册一个账号
+2015-12-08 [21:49:56] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-12-08 [21:49:56] [Server thread/INFO]: /resetpwd: Reset password
+2015-12-08 [21:49:56] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-12-08 [21:49:56] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-12-08 [21:49:56] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-12-08 [21:49:56] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-12-08 [21:49:56] [Server thread/INFO]: /seed: Shows the world seed
+2015-12-08 [21:49:56] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-12-08 [21:49:56] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-12-08 [21:49:56] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-12-08 [21:49:56] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-12-08 [21:49:56] [Server thread/INFO]: /stop: Stops the server
+2015-12-08 [21:49:56] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-12-08 [21:49:56] [Server thread/INFO]: /time: Changes the time on each world
+2015-12-08 [21:49:56] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-12-08 [21:49:56] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-12-08 [21:49:56] [Server thread/INFO]: /unmute: 解除禁言
+2015-12-08 [21:49:56] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-12-08 [21:49:56] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-12-08 [21:50:17] [Server thread/INFO]: power777888[/180.212.134.17:46337] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-08 [21:50:17] [Server thread/INFO]: power777888 joined the game
+2015-12-08 [21:50:37] [Server thread/INFO]: [Server]  good
+2015-12-08 [21:51:16] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2015-12-08 [21:51:16] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2015-12-08 [21:51:16] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2015-12-08 [21:51:16] [Server thread/INFO]: /banlist: View all players banned from this server
+2015-12-08 [21:51:16] [Server thread/INFO]: /checkperm: Checks a permission value for the current sender, or a player
+2015-12-08 [21:51:16] [Server thread/INFO]: /chpwd: Change password
+2015-12-08 [21:51:16] [Server thread/INFO]: /consoleclients: List the connected PocketDockConsole clients
+2015-12-08 [21:51:16] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2015-12-08 [21:51:16] [Server thread/INFO]: /defprefix: 设置默认称号
+2015-12-08 [21:51:16] [Server thread/INFO]: /delnick: 还原为真实名称
+2015-12-08 [21:51:16] [Server thread/INFO]: /delprefix: 把该玩家称号设置为默认称号
+2015-12-08 [21:51:16] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2015-12-08 [21:51:16] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2015-12-08 [21:51:16] [Server thread/INFO]: /disablechat: 全体禁言
+2015-12-08 [21:51:16] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2015-12-08 [21:51:16] [Server thread/INFO]: /enablechat: 解除全体禁言
+2015-12-08 [21:51:16] [Server thread/INFO]: /enchant: Adds enchantments on items
+2015-12-08 [21:51:16] [Server thread/INFO]: /extractplugin: Extracts the source code from a Phar plugin
+2015-12-08 [21:51:16] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2015-12-08 [21:51:16] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2015-12-08 [21:51:16] [Server thread/INFO]: /help: Shows the help menu
+2015-12-08 [21:51:16] [Server thread/INFO]: /kick: Removes the specified player from the server
+2015-12-08 [21:51:16] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2015-12-08 [21:51:16] [Server thread/INFO]: /killclient: Kill a certain client from connection
+2015-12-08 [21:51:16] [Server thread/INFO]: /list: Lists all online players
+2015-12-08 [21:51:16] [Server thread/INFO]: /login: 登录账号
+2015-12-08 [21:51:16] [Server thread/INFO]: /logout: logout player
+2015-12-08 [21:51:16] [Server thread/INFO]: /makeplugin: Creates a Phar plugin from one in source code form
+2015-12-08 [21:51:16] [Server thread/INFO]: /makeserver: Creates a PocketMine-MP Phar
+2015-12-08 [21:51:16] [Server thread/INFO]: /me: Performs the specified action in chat
+2015-12-08 [21:51:16] [Server thread/INFO]: /mute: 禁言玩家
+2015-12-08 [21:51:16] [Server thread/INFO]: /op: Gives the specified player operator status
+2015-12-08 [21:51:16] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2015-12-08 [21:51:16] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2015-12-08 [21:51:16] [Server thread/INFO]: /particle: Adds particles to a world
+2015-12-08 [21:51:16] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2015-12-08 [21:51:16] [Server thread/INFO]: /preregister: pre-register player
+2015-12-08 [21:51:16] [Server thread/INFO]: /register: 注册一个账号
+2015-12-08 [21:51:16] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2015-12-08 [21:51:16] [Server thread/INFO]: /resetpwd: Reset password
+2015-12-08 [21:51:16] [Server thread/INFO]: /save-all: Saves the server to disk
+2015-12-08 [21:51:16] [Server thread/INFO]: /save-off: Disables server autosaving
+2015-12-08 [21:51:16] [Server thread/INFO]: /save-on: Enables server autosaving
+2015-12-08 [21:51:16] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2015-12-08 [21:51:16] [Server thread/INFO]: /seed: Shows the world seed
+2015-12-08 [21:51:16] [Server thread/INFO]: /setnick: 设置玩家昵称
+2015-12-08 [21:51:16] [Server thread/INFO]: /setprefix: 设置玩家称号
+2015-12-08 [21:51:16] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-12-08 [21:51:16] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2015-12-08 [21:51:16] [Server thread/INFO]: /stop: Stops the server
+2015-12-08 [21:51:16] [Server thread/INFO]: /tell: Sends a private message to the given player
+2015-12-08 [21:51:16] [Server thread/INFO]: /time: Changes the time on each world
+2015-12-08 [21:51:16] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2015-12-08 [21:51:16] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-12-08 [21:51:16] [Server thread/INFO]: /unmute: 解除禁言
+2015-12-08 [21:51:16] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2015-12-08 [21:51:16] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2015-12-08 [21:51:26] [Server thread/INFO]: Plugins (6): SimpleAuth v1.7.1, KeepInventory v1.2.0, PocketDockConsole v0.0.14, DevTools v1.10.0, CustomChat v1.1.2, SimpleAuthHelper v2.0.4
+2015-12-08 [21:53:15] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-08 [21:53:15] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-08 [21:53:15] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-08 [21:53:15] [Server thread/INFO]: Disabling PocketDockConsole v0.0.14
+2015-12-08 [21:53:15] [Server thread/INFO]: [PDC] Disabled
+2015-12-08 [21:53:15] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-08 [21:53:15] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-08 [21:53:15] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-08 [21:53:15] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:53:15] [Server thread/INFO]: power777888 left the game
+2015-12-08 [21:53:15] [Server thread/INFO]: power777888[/180.212.134.17:46337] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-08 [21:53:15] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-08 [21:53:16] [Server thread/INFO]: Stopping other threads
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading server properties...
+2015-12-08 [21:53:31] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-08 [21:53:31] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-08 [21:53:31] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-08 [21:53:31] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-08 [21:53:31] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading PocketDockConsole v0.0.14
+2015-12-08 [21:53:31] [Server thread/INFO]: [PDC] Loaded
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-08 [21:53:31] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-08 [21:53:31] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-08 [21:53:31] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-08 [21:53:31] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-08 [21:53:31] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-08 [21:53:31] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-08 [21:53:31] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-08 [21:53:31] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-08 [21:53:31] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-08 [21:53:31] [Server thread/INFO]: Enabling PocketDockConsole v0.0.14
+2015-12-08 [21:53:31] [Server thread/INFO]: [PDC] Enabled
+2015-12-08 [21:53:31] [Server thread/INFO]: [PDC] Started SocksServer on 0.0.0.0:9999
+2015-12-08 [21:53:31] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-08 [21:53:31] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-08 [21:53:31] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-08 [21:53:32] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-08 [21:53:32] [Server thread/INFO]: Done (0.997s)! For help, type "help" or "?"
+2015-12-08 [21:53:53] [Server thread/INFO]: power777888[/180.212.134.17:46337] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-08 [21:53:54] [Server thread/INFO]: power777888 joined the game
+2015-12-08 [21:54:39] [Server thread/INFO]: power777888 left the game
+2015-12-08 [21:54:39] [Server thread/INFO]: power777888[/180.212.134.17:46337] logged out due to client disconnect
+2015-12-08 [21:58:43] [PDCServer thread/INFO]: [PDC] Connection from: 23.252.122.18
+2015-12-08 [21:58:51] [PDCServer thread/INFO]: [PDC] Successful login from: 23.252.122.18!
+2015-12-08 [21:59:16] [Server thread/INFO]: There are 0/30 players online:
+2015-12-08 [21:59:16] [Server thread/INFO]: 

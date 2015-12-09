@@ -1,0 +1,7 @@
+---
+port: 9999
+password: Zxc12345
+backlog: 10
+viewfiles: true
+editfiles: true
+...
