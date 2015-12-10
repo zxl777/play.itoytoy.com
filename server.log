@@ -13735,3 +13735,71 @@
 2015-12-10 [07:59:35] [Server thread/INFO]: [iToyToy: Teleported Bettybeebeebee to power777888]
 2015-12-10 [07:59:38] [Server thread/INFO]: Bettybeebeebee fell from a high place
 2015-12-10 [07:59:38] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
+2015-12-10 [08:00:06] [Server thread/INFO]: [iToyToy: Teleported Bettybeebeebee to iToyToy]
+2015-12-10 [08:00:41] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 二個人相同名字
+2015-12-10 [08:00:49] [Server thread/INFO]: iToyToy's Server:[插件师]<iToyToy> a
+2015-12-10 [08:00:52] [Server thread/INFO]: iToyToy left the game
+2015-12-10 [08:00:52] [Server thread/INFO]: iToyToy[/180.212.217.243:37402] logged out due to client disconnect
+2015-12-10 [08:00:56] [Server thread/INFO]: Bettybeebeebee fell from a high place
+2015-12-10 [08:00:56] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
+2015-12-10 [08:01:07] [Server thread/INFO]: power777888[/180.212.217.243:37402] logged out due to Kicked by admin. Reason: already logged in
+2015-12-10 [08:01:15] [Server thread/INFO]: power777888 left the game
+2015-12-10 [08:01:15] [Server thread/INFO]: power777888[/180.212.217.243:37407] logged out due to client disconnect
+2015-12-10 [08:01:34] [Server thread/INFO]: [/180.212.217.243:37402] logged out due to Login timeout
+2015-12-10 [08:01:41] [Server thread/INFO]: power777888[/180.212.217.243:37402] logged in with entity id 3343 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:01:42] [Server thread/INFO]: power777888 joined the game
+2015-12-10 [08:01:45] [Server thread/INFO]: iToyToy[/180.212.217.243:37407] logged in with entity id 3345 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:01:46] [Server thread/INFO]: iToyToy joined the game
+2015-12-10 [08:01:48] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> a
+2015-12-10 [08:02:00] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 在那
+2015-12-10 [08:02:16] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 比我飛
+2015-12-10 [08:02:28] [Server thread/INFO]: iToyToy's Server:[Betty]<Bettybeebeebee> 求你
+2015-12-10 [08:03:27] [Server thread/WARNING]: Bettybeebeebee moved wrongly!
+2015-12-10 [08:03:38] [Server thread/INFO]: [power777888: Teleported power777888 to iToyToy]
+2015-12-10 [08:04:23] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-10 [08:04:23] [Server thread/INFO]: Bettybeebeebee[/119.237.51.146:19132] logged out due to client disconnect
+2015-12-10 [08:05:12] [Server thread/INFO]: moon[/121.234.48.79:19132] logged in with entity id 3410 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:05:12] [Server thread/INFO]: moon joined the game
+2015-12-10 [08:05:22] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-10 [08:05:28] [Server thread/INFO]: iToyToy's Server:[Max＋副腐竹]<moon> hi
+2015-12-10 [08:05:56] [Server thread/INFO]: iToyToy's Server:[Max＋副腐竹]<moon> 这个领地不灵
+2015-12-10 [08:05:56] [Server thread/INFO]: Bettybeebeebee[/119.237.51.146:19132] logged in with entity id 3468 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:05:57] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-10 [08:06:05] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-10 [08:06:05] [Server thread/INFO]: Bettybeebeebee[/119.237.51.146:19132] logged out due to client disconnect
+2015-12-10 [08:06:18] [Server thread/NOTICE]: Player data not found for "betty", creating new profile
+2015-12-10 [08:06:18] [Server thread/INFO]: Betty[/119.237.51.146:19132] logged in with entity id 3470 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:06:19] [Server thread/INFO]: Betty joined the game
+2015-12-10 [08:07:10] [Server thread/INFO]: moon died
+2015-12-10 [08:07:10] [Server thread/INFO]: [power777888: Killed moon]
+2015-12-10 [08:07:26] [Server thread/INFO]: iToyToy's Server:[Max＋副腐竹]<moon> 我操
+2015-12-10 [08:07:34] [Server thread/INFO]: Betty died
+2015-12-10 [08:07:34] [Server thread/INFO]: [moon: Killed Betty]
+2015-12-10 [08:08:02] [Server thread/INFO]: iToyToy's Server:[PFX]<Betty> no
+2015-12-10 [08:08:11] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 搞一个bug
+2015-12-10 [08:08:37] [Server thread/INFO]: Betty died
+2015-12-10 [08:08:37] [Server thread/INFO]: [moon: Killed Betty]
+2015-12-10 [08:09:09] [Server thread/INFO]: moon left the game
+2015-12-10 [08:09:09] [Server thread/INFO]: moon[/121.234.48.79:19132] logged out due to timeout
+2015-12-10 [08:09:34] [Server thread/INFO]: moon[/121.234.48.79:19132] logged in with entity id 4220 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:09:35] [Server thread/INFO]: moon joined the game
+2015-12-10 [08:09:41] [Server thread/INFO]: iToyToy left the game
+2015-12-10 [08:09:41] [Server thread/INFO]: iToyToy[/180.212.217.243:37407] logged out due to timeout
+2015-12-10 [08:10:04] [Server thread/INFO]: iToyToy's Server:[PFX]<Betty> 我是BETTYbeebeebee
+2015-12-10 [08:10:37] [Server thread/INFO]: Betty was shot by moon
+2015-12-10 [08:11:15] [Server thread/INFO]: iToyToy's Server:[PFX]<Betty> 我看看可不可以飛
+2015-12-10 [08:12:04] [Server thread/INFO]: iToyToy's Server:[Max＋副腐竹]<moon> power
+2015-12-10 [08:12:26] [Server thread/INFO]: power777888 left the game
+2015-12-10 [08:12:26] [Server thread/INFO]: power777888[/180.212.217.243:37402] logged out due to client disconnect
+2015-12-10 [08:12:34] [Server thread/INFO]: Betty was shot by moon
+2015-12-10 [08:12:47] [Server thread/INFO]: iToyToy's Server:[PFX]<Betty> 你!!!
+2015-12-10 [08:12:52] [Server thread/INFO]: Betty left the game
+2015-12-10 [08:12:52] [Server thread/INFO]: Betty[/119.237.51.146:19132] logged out due to client disconnect
+2015-12-10 [08:13:08] [Server thread/INFO]: Bettybeebeebee[/119.237.51.146:19132] logged in with entity id 4281 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [08:13:09] [Server thread/INFO]: Bettybeebeebee joined the game
+2015-12-10 [08:14:29] [Server thread/INFO]: iToyToy's Server:[Max＋副腐竹]<moon> 看看我有没有办法子你
+2015-12-10 [08:14:58] [Server thread/INFO]: Bettybeebeebee left the game
+2015-12-10 [08:14:58] [Server thread/INFO]: Bettybeebeebee[/119.237.51.146:19132] logged out due to client disconnect
+2015-12-10 [08:16:50] [Server thread/INFO]: [moon: Set own game mode to Survival Mode]
+2015-12-10 [08:17:15] [Server thread/INFO]: [moon: Given Stone (1:0) * 0 to moon]
+2015-12-10 [08:18:12] [Server thread/INFO]: [moon: Given Stone (1:0) * 10000 to moon]
