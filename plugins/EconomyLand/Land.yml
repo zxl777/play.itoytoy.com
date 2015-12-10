@@ -1,2 +1,22 @@
---- []
+---
+- ID: 0
+  startX: 119
+  endX: 130
+  startZ: -268
+  endZ: -259
+  price: 12000
+  owner: iToyToy
+  level: world
+  invitee: []
+  expires: ~
+- ID: 1
+  startX: 200
+  endX: 241
+  startZ: -241
+  endZ: -180
+  price: 260400
+  owner: iToyToy
+  level: world
+  invitee: []
+  expires: ~
 ...
