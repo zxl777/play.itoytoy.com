@@ -13904,3 +13904,10 @@
 2015-12-10 [16:44:38] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
 2015-12-10 [16:44:38] [Server thread/INFO]: Default game type: Survival Mode
 2015-12-10 [16:44:38] [Server thread/INFO]: Done (1.604s)! For help, type "help" or "?"
+2015-12-10 [22:33:53] [Server thread/INFO]: moon[/121.234.48.79:19132] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [22:33:54] [Server thread/INFO]: moon joined the game
+2015-12-10 [22:36:59] [Server thread/INFO]: Steve[/49.69.160.95:19132] logged out due to Outdated client!
+2015-12-10 [22:43:19] [Server thread/INFO]: moon left the game
+2015-12-10 [22:43:19] [Server thread/INFO]: moon[/121.234.48.79:19132] logged out due to timeout
+2015-12-10 [22:51:40] [Server thread/INFO]: moon[/121.234.48.79:19132] logged in with entity id 738 at (iToyToy's Server, 173, 70, -269)
+2015-12-10 [22:51:41] [Server thread/INFO]: moon joined the game
