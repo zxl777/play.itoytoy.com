@@ -14623,3 +14623,13 @@
 2015-12-11 [15:55:44] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
 2015-12-11 [15:55:44] [Server thread/INFO]: Default game type: Survival Mode
 2015-12-11 [15:55:44] [Server thread/INFO]: Done (1.371s)! For help, type "help" or "?"
+2015-12-11 [17:55:03] [Server thread/INFO]: zeyu[/110.88.226.191:49607] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [17:55:04] [Server thread/INFO]: zeyu joined the game
+2015-12-11 [17:56:04] [Server thread/INFO]: zeyu left the game
+2015-12-11 [17:56:04] [Server thread/INFO]: zeyu[/110.88.226.191:49607] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-12-11 [17:56:42] [Server thread/INFO]: zeyu[/110.88.226.191:49607] logged in with entity id 38 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [17:56:43] [Server thread/INFO]: zeyu joined the game
+2015-12-11 [17:57:29] [Server thread/INFO]: zeyu left the game
+2015-12-11 [17:57:29] [Server thread/INFO]: zeyu[/110.88.226.191:49607] logged out due to timeout
+2015-12-11 [17:59:36] [Server thread/INFO]: zeyu[/110.88.226.191:49672] logged in with entity id 126 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [17:59:37] [Server thread/INFO]: zeyu joined the game
