@@ -14633,3 +14633,28 @@
 2015-12-11 [17:57:29] [Server thread/INFO]: zeyu[/110.88.226.191:49607] logged out due to timeout
 2015-12-11 [17:59:36] [Server thread/INFO]: zeyu[/110.88.226.191:49672] logged in with entity id 126 at (iToyToy's Server, 173, 70, -269)
 2015-12-11 [17:59:37] [Server thread/INFO]: zeyu joined the game
+2015-12-11 [18:00:14] [Server thread/INFO]: zeyu left the game
+2015-12-11 [18:00:14] [Server thread/INFO]: zeyu[/110.88.226.191:49672] logged out due to timeout
+2015-12-11 [18:01:51] [Server thread/INFO]: zeyu[/110.88.226.191:49705] logged in with entity id 196 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [18:01:52] [Server thread/INFO]: zeyu joined the game
+2015-12-11 [18:02:52] [Server thread/INFO]: zeyu left the game
+2015-12-11 [18:02:52] [Server thread/INFO]: zeyu[/110.88.226.191:49705] logged out due to Kicked by admin. Reason: 登录时间超时!
+2015-12-11 [18:10:54] [Server thread/INFO]: moon[/49.83.164.60:19132] logged in with entity id 537 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [18:10:55] [Server thread/INFO]: moon joined the game
+2015-12-11 [18:21:20] [Server thread/INFO]: moon left the game
+2015-12-11 [18:21:20] [Server thread/INFO]: moon[/49.83.164.60:19132] logged out due to timeout
+2015-12-11 [18:51:51] [Server thread/NOTICE]: Player data not found for "steve1979", creating new profile
+2015-12-11 [18:51:51] [Server thread/INFO]: Steve1979[/117.93.45.184:64857] logged in with entity id 2208 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [18:51:52] [Server thread/INFO]: Steve1979 joined the game
+2015-12-11 [18:52:41] [Server thread/WARNING]: Steve1979 moved wrongly!
+2015-12-11 [18:54:05] [Server thread/WARNING]: Steve1979 moved wrongly!
+2015-12-11 [18:54:05] [Server thread/WARNING]: Steve1979 moved wrongly!
+2015-12-11 [18:54:45] [Server thread/WARNING]: Steve1979 moved wrongly!
+2015-12-11 [18:54:58] [Server thread/INFO]: Steve1979 left the game
+2015-12-11 [18:54:58] [Server thread/INFO]: Steve1979[/117.93.45.184:64857] logged out due to timeout
+2015-12-11 [18:56:10] [Server thread/INFO]: jishunyuan [/117.93.45.184:64857] logged out due to Invalid name!
+2015-12-11 [18:56:23] [Server thread/NOTICE]: Player data not found for "jishu", creating new profile
+2015-12-11 [18:56:23] [Server thread/INFO]: jishu[/117.93.45.184:64857] logged in with entity id 2332 at (iToyToy's Server, 173, 70, -269)
+2015-12-11 [18:56:24] [Server thread/INFO]: jishu joined the game
+2015-12-11 [18:56:39] [Server thread/INFO]: jishu left the game
+2015-12-11 [18:56:39] [Server thread/INFO]: jishu[/117.93.45.184:64857] logged out due to timeout
