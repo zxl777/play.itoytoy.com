@@ -19,4 +19,14 @@
   level: world
   invitee: []
   expires: ~
+- ID: 2
+  startX: 173
+  endX: 173
+  startZ: -268
+  endZ: -268
+  price: 100
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
 ...
