@@ -16396,3 +16396,67 @@
 2015-12-13 [01:46:48] [Server thread/INFO]: moon left the game
 2015-12-13 [01:46:48] [Server thread/INFO]: moon[/49.83.164.60:19132] logged out due to client disconnect
 2015-12-13 [01:47:14] [Server thread/INFO]: [/49.83.164.60:19132] logged out due to Login timeout
+2015-12-13 [03:02:38] [Server thread/INFO]: [/42.234.61.191:37414] logged out due to client disconnect
+2015-12-13 [03:03:03] [Server thread/INFO]: xingkongdd[/42.234.61.191:37414] logged in with entity id 19938 at (iToyToy's Server, 173, 70, -269)
+2015-12-13 [03:03:04] [Server thread/INFO]: xingkongdd joined the game
+2015-12-13 [03:03:48] [Server thread/INFO]: xingkongdd left the game
+2015-12-13 [03:03:48] [Server thread/INFO]: xingkongdd[/42.234.61.191:37414] logged out due to client disconnect
+2015-12-13 [03:30:15] [Server thread/NOTICE]: Player data not found for "tui_er", creating new profile
+2015-12-13 [03:30:15] [Server thread/INFO]: tui_er[/218.64.37.233:58361] logged in with entity id 21260 at (iToyToy's Server, 173, 70, -269)
+2015-12-13 [03:30:16] [Server thread/INFO]: tui_er joined the game
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-13 [03:30:29] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-13 [03:30:29] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-13 [03:30:29] [Server thread/INFO]: tui_er left the game
+2015-12-13 [03:30:29] [Server thread/INFO]: tui_er[/218.64.37.233:58361] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-13 [03:30:29] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-13 [03:30:34] [Server thread/INFO]: Stopping other threads
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading server properties...
+2015-12-13 [03:30:35] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-13 [03:30:35] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-13 [03:30:35] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-13 [03:30:35] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-13 [03:30:35] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-13 [03:30:35] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-13 [03:30:35] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-13 [03:30:35] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-13 [03:30:35] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-13 [03:30:35] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-13 [03:30:35] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-13 [03:30:35] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-13 [03:30:35] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-13 [03:30:35] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-13 [03:30:35] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-13 [03:30:36] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-13 [03:30:36] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-13 [03:30:36] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-13 [03:30:36] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-13 [03:30:36] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-13 [03:30:36] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-13 [03:30:36] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-13 [03:30:36] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-13 [03:30:36] [Server thread/INFO]: Done (1.48s)! For help, type "help" or "?"
+2015-12-13 [03:36:19] [Server thread/INFO]: tui_er[/218.64.37.233:58500] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-13 [03:36:20] [Server thread/INFO]: tui_er joined the game
+2015-12-13 [03:39:03] [Server thread/INFO]: tui_er left the game
+2015-12-13 [03:39:03] [Server thread/INFO]: tui_er[/218.64.37.233:58500] logged out due to timeout
+2015-12-13 [03:39:10] [Server thread/INFO]: tui_er[/218.64.37.233:58500] logged in with entity id 27 at (iToyToy's Server, 173, 70, -269)
+2015-12-13 [03:39:11] [Server thread/INFO]: tui_er joined the game
+2015-12-13 [03:50:38] [Server thread/INFO]: tui_er left the game
+2015-12-13 [03:50:38] [Server thread/INFO]: tui_er[/218.64.37.233:58500] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2015-12-13 [03:50:46] [Server thread/INFO]: tui_er[/218.64.37.233:58500] logged in with entity id 224 at (iToyToy's Server, 173, 70, -269)
+2015-12-13 [03:50:47] [Server thread/INFO]: tui_er joined the game
+2015-12-13 [03:52:53] [Server thread/INFO]: tui_er left the game
+2015-12-13 [03:52:53] [Server thread/INFO]: tui_er[/218.64.37.233:58500] logged out due to Kicked by admin. Reason: Flying is not enabled on this server

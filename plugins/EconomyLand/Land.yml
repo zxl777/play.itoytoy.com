@@ -29,4 +29,44 @@
   level: world
   invitee: []
   expires: ~
+- ID: 3
+  startX: 167
+  endX: 178
+  startZ: -274
+  endZ: -264
+  price: 13200
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+- ID: 4
+  startX: 149
+  endX: 175
+  startZ: -292
+  endZ: -253
+  price: 108000
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+- ID: 5
+  startX: 90
+  endX: 92
+  startZ: -222
+  endZ: -219
+  price: 1200
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+- ID: 6
+  startX: 177
+  endX: 200
+  startZ: -262
+  endZ: -238
+  price: 60000
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
 ...
