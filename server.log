@@ -17046,3 +17046,8 @@
 2015-12-15 [20:13:31] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
 2015-12-15 [20:13:31] [Server thread/INFO]: Default game type: Survival Mode
 2015-12-15 [20:13:31] [Server thread/INFO]: Done (1.535s)! For help, type "help" or "?"
+2015-12-15 [22:35:35] [Server thread/INFO]: moon[/49.69.203.91:19132] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-15 [22:35:36] [Server thread/INFO]: moon joined the game
+2015-12-15 [22:41:41] [Server thread/INFO]: moon died
+2015-12-15 [22:53:49] [Server thread/INFO]: [moon: Set the time to 100000]
+2015-12-15 [22:57:12] [Server thread/INFO]: [moon: Set the time to 1000]
