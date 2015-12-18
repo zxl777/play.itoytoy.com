@@ -17442,3 +17442,11 @@
 2015-12-17 [12:28:48] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
 2015-12-17 [12:28:48] [Server thread/INFO]: Default game type: Survival Mode
 2015-12-17 [12:28:48] [Server thread/INFO]: Done (1.287s)! For help, type "help" or "?"
+2015-12-17 [23:33:16] [Server thread/INFO]: jisyuan[/112.2.51.107:2131] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-17 [23:33:17] [Server thread/INFO]: jisyuan joined the game
+2015-12-17 [23:33:20] [Server thread/INFO]: jisyuan left the game
+2015-12-17 [23:33:20] [Server thread/INFO]: jisyuan[/112.2.51.107:2131] logged out due to client disconnect
+2015-12-17 [23:54:48] [Server thread/INFO]: jisyuan[/112.2.51.107:1146] logged in with entity id 974 at (iToyToy's Server, 173, 70, -269)
+2015-12-17 [23:54:49] [Server thread/INFO]: jisyuan joined the game
+2015-12-17 [23:55:22] [Server thread/INFO]: jisyuan left the game
+2015-12-17 [23:55:22] [Server thread/INFO]: jisyuan[/112.2.51.107:1146] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
