@@ -17591,3 +17591,44 @@
 2015-12-18 [05:37:05] [Server thread/INFO]: Tian_ye joined the game
 2015-12-18 [05:38:13] [Server thread/INFO]: Tian_ye left the game
 2015-12-18 [05:38:13] [Server thread/INFO]: Tian_ye[/39.182.21.51:19132] logged out due to client disconnect
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-18 [06:35:56] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-18 [06:35:56] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-18 [06:35:56] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading server properties...
+2015-12-18 [06:36:00] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-18 [06:36:00] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-18 [06:36:00] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-18 [06:36:00] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-18 [06:36:00] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-18 [06:36:00] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-18 [06:36:00] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-18 [06:36:00] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-18 [06:36:00] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-18 [06:36:00] [Server thread/INFO]: Loading source plugin SimpleAuthHelper v2.0.4
+2015-12-18 [06:36:00] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-18 [06:36:00] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-18 [06:36:00] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-18 [06:36:00] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-18 [06:36:00] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-18 [06:36:01] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-18 [06:36:01] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-18 [06:36:01] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-18 [06:36:01] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-18 [06:36:01] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-18 [06:36:01] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-18 [06:36:01] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-18 [06:36:02] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-18 [06:36:02] [Server thread/INFO]: Done (1.589s)! For help, type "help" or "?"
