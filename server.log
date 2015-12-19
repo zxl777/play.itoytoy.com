@@ -18859,3 +18859,285 @@
 2015-12-19 [05:46:18] [Server thread/INFO]: shu_tiao[/58.253.32.135:3999] logged out due to timeout
 2015-12-19 [05:57:23] [Server thread/INFO]: power777888 left the game
 2015-12-19 [05:57:23] [Server thread/INFO]: power777888[/180.212.54.15:42985] logged out due to timeout
+2015-12-19 [06:06:44] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged in with entity id 18751 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:06:45] [Server thread/INFO]: jisyuan joined the game
+2015-12-19 [11:13:14] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [11:13:20] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [11:13:26] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [11:13:32] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [11:13:39] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [11:13:53] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [11:13:59] [RakLibServer thread/NOTICE]: [RakLib Thread #140223266531072] Blocked 106.111.92.203 for 5 seconds
+2015-12-19 [06:14:55] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged in with entity id 19275 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:14:56] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:15:04] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-19 [06:15:55] [Server thread/INFO]: iToyToy's Server:[VIP+]<jisyuan> 给我op
+2015-12-19 [06:16:16] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> 不行
+2015-12-19 [06:16:39] [Server thread/INFO]: iToyToy's Server:[VIP+]<jisyuan> 为什么
+2015-12-19 [06:17:06] [Server thread/INFO]: [power777888: Stopping the server]
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [06:17:06] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [06:17:06] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-19 [06:17:06] [Server thread/INFO]: jisyuan left the game
+2015-12-19 [06:17:06] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-19 [06:17:06] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:17:06] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-19 [06:17:06] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-19 [06:17:08] [Server thread/INFO]: Stopping other threads
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading server properties...
+2015-12-19 [06:17:08] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [06:17:08] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [06:17:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [06:17:08] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [06:17:08] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading LeetAuth v1.3.1
+2015-12-19 [06:17:08] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [06:17:08] [Server thread/INFO]: Loading source plugin SimpleAuth v1.7.1
+2015-12-19 [06:17:08] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [06:17:08] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [06:17:08] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [06:17:08] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [06:17:08] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [06:17:08] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [06:17:08] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [06:17:09] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [06:17:09] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [06:17:09] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [06:17:09] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [06:17:09] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [06:17:09] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [06:17:09] [Server thread/INFO]: Enabling LeetAuth v1.3.1
+2015-12-19 [06:17:09] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [06:17:09] [Server thread/INFO]: Done (1.404s)! For help, type "help" or "?"
+2015-12-19 [06:17:10] [Server thread/INFO]: [LeetAuth] Successfully enrolled in LEET's authentication system!
+2015-12-19 [06:17:12] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:17:13] [Server thread/INFO]: jisyuan joined the game
+2015-12-19 [06:17:18] [Server thread/INFO]: jisyuan left the game
+2015-12-19 [06:17:18] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged out due to client disconnect
+2015-12-19 [06:17:18] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged in with entity id 65 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:17:19] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:17:20] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged in with entity id 66 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:17:21] [Server thread/INFO]: jisyuan joined the game
+2015-12-19 [06:18:14] [Server thread/INFO]: jisyuan left the game
+2015-12-19 [06:18:14] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged out due to client disconnect
+2015-12-19 [06:18:17] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged in with entity id 67 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:18:18] [Server thread/INFO]: jisyuan joined the game
+2015-12-19 [06:18:27] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:18:27] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged out due to client disconnect
+2015-12-19 [06:18:51] [Server thread/INFO]: jisyuan left the game
+2015-12-19 [06:18:51] [Server thread/INFO]: jisyuan[/106.111.92.203:21189] logged out due to client disconnect
+2015-12-19 [06:19:00] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged in with entity id 68 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:19:01] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:24:38] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:24:38] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged out due to client disconnect
+2015-12-19 [06:24:48] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged in with entity id 69 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:24:48] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [06:27:38] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling LeetAuth v1.3.1
+2015-12-19 [06:27:38] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [06:27:38] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:27:38] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-19 [06:27:38] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-19 [06:27:38] [Server thread/INFO]: Stopping other threads
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading server properties...
+2015-12-19 [06:27:46] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [06:27:46] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [06:27:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [06:27:46] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [06:27:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [06:27:46] [Server thread/INFO]: Loading LeetAuth v1.3.1
+2015-12-19 [06:27:46] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [06:27:46] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [06:27:46] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [06:27:46] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [06:27:46] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [06:27:46] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [06:27:47] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [06:27:47] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [06:27:47] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [06:27:47] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [06:27:47] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [06:27:47] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [06:27:47] [Server thread/INFO]: Enabling LeetAuth v1.3.1
+2015-12-19 [06:27:47] [Server thread/WARNING]: RuntimeException: "fopen(/home/power777888/mp1.5/plugins/LeetAuth/cacert.pem): failed to open stream: Permission denied" (E_WARNING) in "/src/pocketmine/plugin/PluginBase" at line 213
+2015-12-19 [06:27:47] [Server thread/INFO]: Disabling LeetAuth v1.3.1
+2015-12-19 [06:27:47] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [06:27:47] [Server thread/INFO]: Done (1.452s)! For help, type "help" or "?"
+2015-12-19 [06:28:21] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:28:22] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:28:45] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:28:45] [Server thread/INFO]: power777888[/180.212.54.15:34291] logged out due to client disconnect
+2015-12-19 [06:28:57] [Server thread/NOTICE]: Player data not found for "power777888p", creating new profile
+2015-12-19 [06:28:57] [Server thread/INFO]: power777888p[/180.212.54.15:34291] logged in with entity id 63 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:28:58] [Server thread/INFO]: power777888p joined the game
+2015-12-19 [06:29:21] [Server thread/INFO]: power777888p left the game
+2015-12-19 [06:29:21] [Server thread/INFO]: power777888p[/180.212.54.15:34291] logged out due to timeout
+2015-12-19 [06:33:27] [Server thread/INFO]: jisyuan[/106.111.92.203:24077] logged in with entity id 309 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:33:28] [Server thread/INFO]: jisyuan joined the game
+2015-12-19 [06:33:36] [Server thread/INFO]: iToyToy's Server:[VIP+]<jisyuan> 1467267782
+2015-12-19 [06:34:09] [Server thread/INFO]: iToyToy's Server:[VIP+]<jisyuan> 1467267782
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading server properties...
+2015-12-19 [06:43:28] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [06:43:28] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [06:43:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [06:43:28] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [06:43:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [06:43:28] [Server thread/INFO]: Loading LeetAuth v1.3.1
+2015-12-19 [06:43:29] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [06:43:29] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [06:43:29] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [06:43:29] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [06:43:29] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [06:43:29] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [06:43:30] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [06:43:30] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [06:43:30] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [06:43:30] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [06:43:30] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [06:43:30] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [06:43:30] [Server thread/INFO]: Enabling LeetAuth v1.3.1
+2015-12-19 [06:43:30] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [06:43:30] [Server thread/INFO]: Done (1.671s)! For help, type "help" or "?"
+2015-12-19 [06:44:03] [Server thread/INFO]: power777888p[/180.212.54.15:38430] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:44:04] [Server thread/INFO]: power777888p joined the game
+2015-12-19 [06:44:33] [Server thread/INFO]: power777888p left the game
+2015-12-19 [06:44:33] [Server thread/INFO]: power777888p[/180.212.54.15:38430] logged out due to client disconnect
+2015-12-19 [06:44:44] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged in with entity id 65 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:44:45] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:47:51] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:47:51] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged out due to client disconnect
+2015-12-19 [06:48:04] [Server thread/INFO]: power777888p[/180.212.54.15:38430] logged in with entity id 66 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:48:05] [Server thread/INFO]: power777888p joined the game
+2015-12-19 [06:49:11] [Server thread/INFO]: power777888p left the game
+2015-12-19 [06:49:11] [Server thread/INFO]: power777888p[/180.212.54.15:38430] logged out due to client disconnect
+2015-12-19 [06:49:18] [Server thread/INFO]: power777888p[/180.212.54.15:38430] logged in with entity id 69 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:49:19] [Server thread/INFO]: power777888p joined the game
+2015-12-19 [06:50:21] [Server thread/INFO]: power777888p left the game
+2015-12-19 [06:50:21] [Server thread/INFO]: power777888p[/180.212.54.15:38430] logged out due to client disconnect
+2015-12-19 [06:50:53] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged in with entity id 102 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:50:54] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:53:30] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-19 [06:53:30] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [06:53:30] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [06:53:30] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [06:53:30] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [06:53:30] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [06:53:30] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [06:53:30] [Server thread/INFO]: Disabling LeetAuth v1.3.1
+2015-12-19 [06:53:30] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:53:30] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-19 [06:53:30] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-19 [06:53:31] [Server thread/INFO]: Stopping other threads
+2015-12-19 [06:53:34] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [06:53:34] [Server thread/INFO]: Loading server properties...
+2015-12-19 [06:53:34] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [06:53:34] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [06:53:35] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [06:53:35] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [06:53:35] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [06:53:35] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [06:53:35] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [06:53:35] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [06:53:35] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [06:53:35] [Server thread/ERROR]: Could not load plugin 'SimpleAuthHelper': plugin exists
+2015-12-19 [06:53:35] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-19 [06:53:35] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [06:53:35] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [06:53:35] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [06:53:35] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [06:53:35] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [06:53:36] [Server thread/NOTICE]: [EconomyAPI] Globally over 6000 servers run EconomyS.
+2015-12-19 [06:53:36] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [06:53:36] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [06:53:36] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [06:53:36] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [06:53:36] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [06:53:36] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [06:53:36] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [06:53:36] [Server thread/INFO]: Done (1.535s)! For help, type "help" or "?"
+2015-12-19 [06:53:51] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:53:52] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:54:14] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [06:54:14] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [06:54:14] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [06:54:14] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:54:14] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-19 [06:54:14] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-19 [06:54:15] [Server thread/INFO]: Stopping other threads
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading server properties...
+2015-12-19 [06:55:10] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [06:55:10] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [06:55:10] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [06:55:10] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [06:55:10] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [06:55:10] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [06:55:10] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [06:55:10] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [06:55:10] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [06:55:10] [Server thread/ERROR]: Could not load plugin 'SimpleAuthHelper': plugin exists
+2015-12-19 [06:55:10] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-19 [06:55:10] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [06:55:10] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [06:55:10] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [06:55:10] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [06:55:10] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [06:55:11] [Server thread/NOTICE]: [EconomyAPI] Globally over 6000 servers run EconomyS.
+2015-12-19 [06:55:11] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [06:55:11] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [06:55:11] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [06:55:11] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [06:55:11] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [06:55:11] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [06:55:11] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [06:55:11] [Server thread/INFO]: Done (1.353s)! For help, type "help" or "?"
+2015-12-19 [06:55:26] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [06:55:27] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [06:55:31] [Server thread/INFO]: power777888 left the game
+2015-12-19 [06:55:31] [Server thread/INFO]: power777888[/180.212.54.15:38430] logged out due to client disconnect

@@ -1,0 +1,61 @@
+---
+version: 2
+password-min-length: 2
+api-key: OTczMWNlZGMyYTZiMzFhMjY2OWU3ZjMxMTQyMTk4MGI=
+api-port: 443
+api-url: api.leet.cc
+messages:
+  authenticate: '%yellow%Log into an existing account using /login {password} or register
+    a new one using /register {email} {password}'
+  online-guest: '%red%Another user with this name has logged in.'
+  already-authenticated: '%red%Another player is authenticated with this name.'
+  login:
+    fail:
+      email:
+        not-valid: '%red%You need to provide a valid email. This is important to ensure
+          that your account stays safe and passwords can be retrieved if forgotten.'
+        not-set: '%red%You have successfully logged in. The LEET login system requires
+          you to supply your email. Please type /register {your email}.'
+        length: '%red%The provided email is too long. Please stay below 64 characters.'
+      password:
+        incorrect: '%red%Wrong password. If you have forgotten the password please
+          go to http://leet.cc to reset the password using the email you provided.'
+        length: '%red%All passwords need to be at least %u characters long.'
+      already-logged-in: '%yellow%You are already logged in.'
+      name:
+        length: '%red%Your username is longer than 16 characters, please change your
+          name.'
+    success:
+      login: '%green%You have successfully logged in using the LEET login system.'
+      uuid: '%green%Welcome back %s. You were automatically logged in as your account
+        was recognised.'
+      update: '%green%Account information successfully updated. You are now logged
+        in.'
+  lookup:
+    user-exists: '%yellow%Please login by typing /login {password}. If you did not
+      register the username %s then unfortunately it has already been registered by
+      someone else and you can not use it. Please log out and change the username.'
+    user-not-exists: '%yellow%To use this server you need to register. Please type
+      /register {email} {password}. For example /register your@email.com password'
+    user-not-exists-short: '%red%User does not exist!'
+  register:
+    success: '%green%Registration successful. Next time you join a server using the
+      LEET login system you can reuse this username and password.'
+    fail:
+      name-taken: '%red%Your username is already taken. Please change your name and
+        try again.'
+      email-taken: '%red%Email is already registered. Please change email and try
+        again, or go to http://leet.cc to reset the password for this account if you
+        are the rightful owner of the email you entered.'
+  update:
+    success: '%green%Account information successfully updated. You are now logged
+      in.'
+    fail:
+      not-exists: '%red%The password may be incorrect or the user account may not
+        exist.'
+      taken: '%red%Email is already registered with another account. Please change
+        email and try again.'
+  logout:
+    success: '%green%You have been logged out.'
+    fail: '%red%You are not logged in.'
+...
