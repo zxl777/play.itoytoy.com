@@ -19293,3 +19293,190 @@
 2015-12-19 [20:41:54] [Server thread/INFO]: jisyuan fell out of the world
 2015-12-19 [20:42:15] [Server thread/INFO]: jisyuan left the game
 2015-12-19 [20:42:15] [Server thread/INFO]: jisyuan[/106.111.92.203:54275] logged out due to client disconnect
+2015-12-19 [23:10:12] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [23:10:12] [Server thread/INFO]: Loading server properties...
+2015-12-19 [23:10:12] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [23:10:12] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [23:10:12] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [23:10:12] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [23:10:12] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [23:10:13] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [23:10:13] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [23:10:13] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [23:10:13] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [23:10:13] [Server thread/ERROR]: Could not load plugin 'SimpleAuthHelper': plugin exists
+2015-12-19 [23:10:13] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-19 [23:10:13] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [23:10:13] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [23:10:13] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [23:10:13] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [23:10:13] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [23:10:14] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [23:10:14] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [23:10:14] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [23:10:14] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [23:10:14] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:10:14] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [23:10:14] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [23:10:14] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [23:10:14] [Server thread/INFO]: Done (1.677s)! For help, type "help" or "?"
+2015-12-19 [23:10:18] [Server thread/INFO]: iToyToy[/180.212.54.15:44055] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:10:19] [Server thread/INFO]: iToyToy joined the game
+2015-12-19 [23:12:05] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-12-19 [23:12:05] [Server thread/INFO]: Saving levels...
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [23:12:05] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [23:12:05] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [23:12:05] [Server thread/INFO]: Reloading properties...
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading AshMan v1.0.1
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [23:12:05] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [23:12:05] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [23:12:05] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [23:12:05] [Server thread/INFO]: Enabling AshMan v1.0.1
+2015-12-19 [23:12:05] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [23:12:05] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [23:12:05] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [23:12:05] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [23:12:06] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [23:12:06] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [23:12:06] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [23:12:06] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [23:12:06] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:12:06] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [23:12:06] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [23:12:07] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-12-19 [23:14:48] [Server thread/INFO]: iToyToy left the game
+2015-12-19 [23:14:48] [Server thread/INFO]: iToyToy[/180.212.54.15:44055] logged out due to timeout
+2015-12-19 [23:15:03] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-12-19 [23:15:03] [Server thread/INFO]: Saving levels...
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling AshMan v1.0.1
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [23:15:03] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [23:15:03] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [23:15:03] [Server thread/INFO]: Reloading properties...
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading AshMan v1.0.1
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [23:15:03] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [23:15:03] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling AshMan v1.0.1
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [23:15:03] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [23:15:03] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [23:15:03] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [23:15:03] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:15:03] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [23:15:03] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [23:15:04] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-12-19 [23:15:04] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:06] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:09] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:09] [Server thread/INFO]: [ 死亡射线 ] 共杀掉125个生物
+2015-12-19 [23:15:10] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:12] [Server thread/INFO]: [ 死亡射线 ] 共清理25个掉落物
+2015-12-19 [23:15:15] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:15] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:15:16] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:18] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:21] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:21] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:15:22] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:24] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:27] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:27] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:15:28] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:30] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:33] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:33] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:15:34] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:36] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:39] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:39] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:15:40] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:42] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:44] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:44] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:15:45] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:15:47] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:15:49] [Server thread/INFO]: [CONSOLE: Reloading server...]
+2015-12-19 [23:15:49] [Server thread/INFO]: Saving levels...
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling AshMan v1.0.1
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [23:15:49] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [23:15:49] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [23:15:49] [Server thread/INFO]: Reloading properties...
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading AshMan v1.0.1
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [23:15:49] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [23:15:49] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [23:15:49] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [23:15:49] [Server thread/INFO]: Enabling AshMan v1.0.1
+2015-12-19 [23:15:49] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [23:15:49] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [23:15:49] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [23:15:49] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [23:15:50] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [23:15:50] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [23:15:50] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [23:15:50] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [23:15:50] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:15:50] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [23:15:50] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [23:15:50] [Server thread/INFO]: [CONSOLE: Reload complete.]
+2015-12-19 [23:16:49] [Server thread/INFO]: iToyToy[/180.212.54.15:44055] logged in with entity id 185 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:16:50] [Server thread/INFO]: iToyToy joined the game
+2015-12-19 [23:17:53] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling SimpleAuth v1.7.1
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling AshMan v1.0.1
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling KeepInventory v1.2.0
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling EconomyLand v2.0.9
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling DevTools v1.10.0
+2015-12-19 [23:17:53] [Server thread/INFO]: Disabling CustomChat v1.1.2
+2015-12-19 [23:17:53] [Server thread/INFO]: [CustomChat] - 称号插件 - 关闭!
+2015-12-19 [23:17:53] [Server thread/INFO]: iToyToy left the game
+2015-12-19 [23:17:53] [Server thread/INFO]: iToyToy[/180.212.54.15:44055] logged out due to Server closed #admin: sky@itoytoy.com
+2015-12-19 [23:17:53] [Server thread/INFO]: Unloading level "iToyToy's Server"
+2015-12-19 [23:17:53] [Server thread/INFO]: Stopping other threads
