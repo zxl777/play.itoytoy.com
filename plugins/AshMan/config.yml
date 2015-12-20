@@ -1,6 +1,6 @@
 ---
-CleanDelay: "300"
-MobCleanDelay: "600"
+CleanDelay: "3000"
+MobCleanDelay: "6000"
 Alert1: "1"
 Alert2: "1"
 ...

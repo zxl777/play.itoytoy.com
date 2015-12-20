@@ -19480,3 +19480,112 @@
 2015-12-19 [23:17:53] [Server thread/INFO]: iToyToy[/180.212.54.15:44055] logged out due to Server closed #admin: sky@itoytoy.com
 2015-12-19 [23:17:53] [Server thread/INFO]: Unloading level "iToyToy's Server"
 2015-12-19 [23:17:53] [Server thread/INFO]: Stopping other threads
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading pocketmine.yml...
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading server properties...
+2015-12-19 [23:21:22] [Server thread/INFO]: Selected English (eng) as the base language
+2015-12-19 [23:21:22] [Server thread/INFO]: Starting Minecraft: PE server version v0.13.0 alpha
+2015-12-19 [23:21:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2015-12-19 [23:21:22] [Server thread/INFO]: This server is running PocketMine-MP version 1.6dev-51 "[REDACTED]" (API 1.13.0)
+2015-12-19 [23:21:22] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading SimpleAuth v1.7.1
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading AshMan v1.0.1
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading KeepInventory v1.2.0
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading EconomyLand v2.0.9
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading SimpleAuthHelper v2.0.4
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading DevTools v1.10.0
+2015-12-19 [23:21:22] [Server thread/INFO]: Loading CustomChat v1.1.2
+2015-12-19 [23:21:22] [Server thread/INFO]: Enabling SimpleAuth v1.7.1
+2015-12-19 [23:21:22] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2015-12-19 [23:21:22] [Server thread/INFO]: Enabling AshMan v1.0.1
+2015-12-19 [23:21:22] [Server thread/INFO]: Enabling DevTools v1.10.0
+2015-12-19 [23:21:22] [Server thread/ERROR]: Could not load plugin 'SimpleAuthHelper': plugin exists
+2015-12-19 [23:21:22] [Server thread/ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2015-12-19 [23:21:22] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2015-12-19 [23:21:22] [Server thread/INFO]: Preparing level "iToyToy's Server"
+2015-12-19 [23:21:22] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2015-12-19 [23:21:22] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2015-12-19 [23:21:22] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2015-12-19 [23:21:23] [Server thread/NOTICE]: [EconomyAPI] Thank you for using EconomyS plugin.
+2015-12-19 [23:21:23] [Server thread/INFO]: Enabling KeepInventory v1.2.0
+2015-12-19 [23:21:23] [Server thread/INFO]: KeepInventory by boybook.
+2015-12-19 [23:21:23] [Server thread/INFO]: Enabling EconomyLand v2.0.9
+2015-12-19 [23:21:23] [Server thread/INFO]: Enabling SimpleAuthHelper v2.0.4
+2015-12-19 [23:21:23] [Server thread/INFO]: Enabling CustomChat v1.1.2
+2015-12-19 [23:21:23] [Server thread/INFO]: [CustomChat] - 称号插件 - 启用!
+2015-12-19 [23:21:23] [Server thread/INFO]: Default game type: Survival Mode
+2015-12-19 [23:21:23] [Server thread/INFO]: Done (1.49s)! For help, type "help" or "?"
+2015-12-19 [23:21:30] [Server thread/INFO]: iToyToy[/180.212.54.15:34594] logged in with entity id 1 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:21:31] [Server thread/INFO]: iToyToy joined the game
+2015-12-19 [23:26:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:26:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:26:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:26:23] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:27:30] [Server thread/INFO]: Tian_ye[/111.0.201.223:19132] logged in with entity id 106 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:27:31] [Server thread/INFO]: Tian_ye joined the game
+2015-12-19 [23:27:44] [Server thread/INFO]: Tian_ye left the game
+2015-12-19 [23:27:44] [Server thread/INFO]: Tian_ye[/111.0.201.223:19132] logged out due to timeout
+2015-12-19 [23:31:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:31:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有生物
+2015-12-19 [23:31:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:31:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有生物
+2015-12-19 [23:31:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:31:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:31:23] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:31:23] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:32:47] [Server thread/INFO]: xingkongdd[/42.234.62.173:44547] logged in with entity id 151 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:32:48] [Server thread/INFO]: xingkongdd joined the game
+2015-12-19 [23:32:58] [Server thread/INFO]: iToyToy's Server:[插件师]<iToyToy> hi
+2015-12-19 [23:33:06] [Server thread/INFO]: iToyToy left the game
+2015-12-19 [23:33:06] [Server thread/INFO]: iToyToy[/180.212.54.15:34594] logged out due to client disconnect
+2015-12-19 [23:33:21] [Server thread/INFO]: power777888[/180.212.54.15:34594] logged in with entity id 156 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:33:22] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [23:34:56] [Server thread/INFO]: xingkongdd left the game
+2015-12-19 [23:34:56] [Server thread/INFO]: xingkongdd[/42.234.62.173:44547] logged out due to client disconnect
+2015-12-19 [23:36:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:36:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:36:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:36:23] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:40:56] [Server thread/INFO]: power777888 died
+2015-12-19 [23:41:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:41:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有生物
+2015-12-19 [23:41:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:41:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有生物
+2015-12-19 [23:41:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:41:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:41:23] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:41:23] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:43:34] [Server thread/INFO]: power777888 left the game
+2015-12-19 [23:43:34] [Server thread/INFO]: power777888[/180.212.54.15:34594] logged out due to timeout
+2015-12-19 [23:43:37] [Server thread/INFO]: power777888[/180.212.54.15:34594] logged in with entity id 249 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:43:38] [Server thread/INFO]: power777888 joined the game
+2015-12-19 [23:46:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:46:13] [Server thread/INFO]: VL_PRO[/118.101.200.158:46895] logged in with entity id 278 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:46:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:46:14] [Server thread/INFO]: VL_PRO joined the game
+2015-12-19 [23:46:18] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-19 [23:46:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:46:23] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:46:31] [Server thread/INFO]: iToyToy's Server:[伟大的建筑师]<VL_PRO> hi
+2015-12-19 [23:51:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:51:03] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有生物
+2015-12-19 [23:51:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:51:13] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有生物
+2015-12-19 [23:51:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:51:18] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有生物
+2015-12-19 [23:51:23] [Server thread/INFO]: [ 死亡射线 ] 共清理0个掉落物
+2015-12-19 [23:51:23] [Server thread/INFO]: [ 死亡射线 ] 共杀掉0个生物
+2015-12-19 [23:51:45] [Server thread/INFO]: [power777888: Teleported power777888 to VL_PRO]
+2015-12-19 [23:53:23] [Server thread/INFO]: [power777888: Set the time to 0]
+2015-12-19 [23:56:08] [Server thread/INFO]: [ 死亡射线 ] 将在20秒后清除所有掉落物
+2015-12-19 [23:56:18] [Server thread/INFO]: [ 死亡射线 ] 将在10秒后清除所有掉落物
+2015-12-19 [23:56:23] [Server thread/INFO]: [ 死亡射线 ] 将在5秒后清除所有掉落物
+2015-12-19 [23:56:28] [Server thread/INFO]: [ 死亡射线 ] 共清理1个掉落物
+2015-12-19 [23:58:19] [Server thread/INFO]: Tian_ye[/111.0.201.223:19132] logged in with entity id 544 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:58:21] [Server thread/INFO]: Tian_ye joined the game
+2015-12-19 [23:59:20] [Server thread/INFO]: Tian_ye left the game
+2015-12-19 [23:59:20] [Server thread/INFO]: Tian_ye[/111.0.201.223:19132] logged out due to client disconnect
+2015-12-19 [23:59:25] [Server thread/INFO]: Tian_ye[/111.0.201.223:19132] logged in with entity id 558 at (iToyToy's Server, 173, 70, -269)
+2015-12-19 [23:59:27] [Server thread/INFO]: Tian_ye joined the game
+2015-12-19 [23:59:33] [Server thread/INFO]: iToyToy's Server:[服主]<power777888> hi
+2015-12-19 [23:59:39] [Server thread/INFO]: iToyToy's Server:[伟大的建筑师]<VL_PRO> hi
