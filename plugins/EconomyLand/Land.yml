@@ -69,4 +69,14 @@
   level: world
   invitee: []
   expires: ~
+- ID: 7
+  startX: 16
+  endX: 76
+  startZ: -134
+  endZ: -64
+  price: 433100
+  owner: moon
+  level: world
+  invitee: []
+  expires: ~
 ...
